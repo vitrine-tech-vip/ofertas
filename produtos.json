@@ -1,5 +1,221 @@
 [
     {
+        "titulo": "BLACK+DECKER Processador de Alimentos Antiaderente em Inox, Gourmand Gris, Modelo MP300G, 220V",
+        "preco": "236,00",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "🚚 *Frete GRÁTIS com Prime*",
+        "imagem": "https://m.media-amazon.com/images/I/416+bxlNytL._AC_UL320_.jpg",
+        "link_afiliado": "https://link.amazon/B07KMywmM"
+    },
+    {
+        "titulo": "Mouse sem fio Logitech M310 (preto)",
+        "preco": "101,92",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "",
+        "imagem": "https://m.media-amazon.com/images/I/41dCbRoA-fL._AC_UL320_.jpg",
+        "link_afiliado": "https://link.amazon/B0fYi0Ocz"
+    },
+    {
+        "titulo": "Painel Plafon Inteligente LED Smart Wi-Fi compatível com Alexa, linha NEO, 24W, 30x30, Embutir, Quadrado, Luz branca e a",
+        "preco": "109,90",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "",
+        "imagem": "https://m.media-amazon.com/images/I/41lYqle0UrL._AC_UL320_.jpg",
+        "link_afiliado": "https://link.amazon/B09QkLesd"
+    },
+    {
+        "titulo": "Power Bank 30000mAh, Basike Carregador Portátil 2 Saídas USB-A(até 22.5W) + Tipo-C(até 22.5W) com Cabo, Carregamento Ráp",
+        "preco": "161,49",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "🚚 *Frete GRÁTIS com Prime*",
+        "imagem": "https://m.media-amazon.com/images/I/61NqcSimH7L._AC_UL320_.jpg",
+        "link_afiliado": "https://link.amazon/B07g0S123"
+    },
+    {
+        "titulo": "Teclado Mecânico Aula F99 Sem Fio 98% Gamer E-sport",
+        "preco": "448,04",
+        "preco_antigo": "649,00",
+        "desconto": "(30,96% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_697005-MLB113593070737_062026-E-teclado-mecnico-aula-f99-sem-fio-98-gamer-e-sport.webp",
+        "link_afiliado": "https://meli.la/1tkp1kn"
+    },
+    {
+        "titulo": "Hub Usb C Ugreen Cm806 10gbps Usb-c/a 3.2 Gen2 Multiportas",
+        "preco": "136,77",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_858554-MLB110231518391_042026-E.webp",
+        "link_afiliado": "https://meli.la/15R3eV1"
+    },
+    {
+        "titulo": "Mouse Pad Gamer 90x40 Cm Estampa De Sistema Solar Pad-0601",
+        "preco": "69,90",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_996127-MLB113098872348_072026-E.webp",
+        "link_afiliado": "https://meli.la/15sAG9j"
+    },
+    {
+        "titulo": "Ssd Nvme 512gb Adata Legend Desktop Pc Disco Rígido Rápido 710 Aleg-710-512gcs",
+        "preco": "808,38",
+        "preco_antigo": "998,00",
+        "desconto": "(19% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_647789-MLA99989847595_112025-E.webp",
+        "link_afiliado": "https://meli.la/2adpGsa"
+    },
+    {
+        "titulo": "Kit 3 Lâmpadas Inteligentes Wi-Fi 2.4GHz RGB 12W+3W Bivolt E27 – 16 Milhões de Cores, Luz Branca 2700K–6500K, Tuya, Cont",
+        "preco": "132,90",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "🚚 *Frete GRÁTIS com Prime*",
+        "imagem": "https://m.media-amazon.com/images/I/71PO9EQUbRL._AC_UL320_.jpg",
+        "link_afiliado": "https://link.amazon/B0an5Dlsm"
+    },
+    {
+        "titulo": "Suporte Braço Articulado Longo Lorben Universal para Tablet Celular 5 a 10 Polegadas - GT6379",
+        "preco": "62,00",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "🚚 *Frete GRÁTIS com Prime*",
+        "imagem": "https://m.media-amazon.com/images/I/51Vr0Ml17CL._AC_UL320_.jpg",
+        "link_afiliado": "https://link.amazon/B03IJeonf"
+    },
+    {
+        "titulo": "Mini Processador Mallory New Oggi – 150W, 350ml, Corte, Trituração e Moagem, Pés Antiderrapantes, Sistema de Segurança -",
+        "preco": "78,59",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "🚚 *Frete GRÁTIS com Prime*",
+        "imagem": "https://m.media-amazon.com/images/I/71VgUvh9usL._AC_UL320_.jpg",
+        "link_afiliado": "https://link.amazon/B0geYklLf"
+    },
+    {
+        "titulo": "Balança digital KitchenAid de vidro de 5 kg, 1 unidade",
+        "preco": "203,20",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "",
+        "imagem": "https://m.media-amazon.com/images/I/61VnrL0VOPL._AC_UL320_.jpg",
+        "link_afiliado": "https://link.amazon/B0hT8vAtO"
+    },
+    {
+        "titulo": "Hub Usb-c Ugreen 6 Em 1 10gbps Rj45 Ethernet Usb-a Usb-c 3.2",
+        "preco": "187,32",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_863842-MLB112332494513_052026-E.webp",
+        "link_afiliado": "https://meli.la/1JNs6gc"
+    },
+    {
+        "titulo": "Mouse sem fio Logitech M190 com Pilha Inclusa - Cinza",
+        "preco": "66,60",
+        "preco_antigo": "74,90",
+        "desconto": "(11,08% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_767799-MLA99448427144_112025-E.webp",
+        "link_afiliado": "https://meli.la/2DE7ZNq"
+    },
+    {
+        "titulo": "SSD 512GB KingSpec PCIe 3.0 MacBook Air Retina 2013-2015",
+        "preco": "799,00",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_644265-MLA99477010956_112025-E.webp",
+        "link_afiliado": "https://meli.la/2yK9naR"
+    },
+    {
+        "titulo": "Mouse Pad Gamer 90x40 Cm Estampa Astronauta Espaço Pad-0607",
+        "preco": "69,90",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_629358-MLB113102638740_072026-E.webp",
+        "link_afiliado": "https://meli.la/2MS7mZX"
+    },
+    {
+        "titulo": "Kit 12 Potes Herméticos de Vidro com Tampa de Bambu | Inclui Etiquetas e Caneta branca | Capacidades 200ml, 250ml, 400ml",
+        "preco": "239,99",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "",
+        "imagem": "https://m.media-amazon.com/images/I/71mhoR0JsQL._AC_UL320_.jpg",
+        "link_afiliado": "https://link.amazon/B0d97UFSw"
+    },
+    {
+        "titulo": "Suporte Articulado de Metal para Celular e Tablet, Fixação na Mesa, Resistente até 10KG, Estável e Ajustável",
+        "preco": "127,99",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "",
+        "imagem": "https://m.media-amazon.com/images/I/41vaIEyQq1L._AC_UL320_.jpg",
+        "link_afiliado": "https://link.amazon/B08DKYC5M"
+    },
+    {
+        "titulo": "Geonav Power Bank, Carregador Portátil Universal 20.000mAh, USB-A (até 18W) + USB-C (até 20W), Compacto, Carregamento Rá",
+        "preco": "175,75",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "",
+        "imagem": "https://m.media-amazon.com/images/I/719gCdfyVFL._AC_UL320_.jpg",
+        "link_afiliado": "https://link.amazon/B04xYemEp"
+    },
+    {
+        "titulo": "Fone de Ouvido Bluetooth 5.4, IPX5 à Prova D'Água, 45h de Bateria, Com Microfone Embutido. Design Esportivo Ergonômico I",
+        "preco": "89,90",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "",
+        "imagem": "https://m.media-amazon.com/images/I/619duhcCzQL._AC_UL320_.jpg",
+        "link_afiliado": "https://www.amazon.com.br/dp/B0FDB9Z96L?tag=vitrinetech29-20"
+    },
+    {
+        "titulo": "Interruptor Inteligente Wi-fi 6 Teclas Intelbras Ews 1006",
+        "preco": "285,00",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_693661-MLB93075623562_092025-E.webp",
+        "link_afiliado": "https://meli.la/26Z8aVX"
+    },
+    {
+        "titulo": "Kit 2 Câmera Lâmpada Segurança Wifi 360 Visão Noturna Yoosee Branco",
+        "preco": "116,10",
+        "preco_antigo": "125,99",
+        "desconto": "(7,85% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_976534-MLA114225540479_072026-E.webp",
+        "link_afiliado": "https://meli.la/1uhNGcj"
+    },
+    {
+        "titulo": "Fita Led Ws2811 300 Leds Endereçável A Prova D'gua Silicone",
+        "preco": "64,36",
+        "preco_antigo": "78,58",
+        "desconto": "(18,10% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_705774-MLB89249525922_082025-E.webp",
+        "link_afiliado": "https://meli.la/1WHRa7d"
+    },
+    {
+        "titulo": "Tomada Inteligente Wifi 20a Ekaza Medidor De  Consumo",
+        "preco": "61,97",
+        "preco_antigo": "70,90",
+        "desconto": "(12,60% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_939873-MLA107536761412_032026-E.webp",
+        "link_afiliado": "https://meli.la/2QNMxqz"
+    },
+    {
         "titulo": "Lâmpada Smart LED 15W E27 Dimerizável RGB Colorida Compatível com Alexa e Google Home Controle por Voz Wifi Casa Intelig",
         "preco": "59,90",
         "preco_antigo": "",
@@ -232,221 +448,5 @@
         "frete": "",
         "imagem": "https://m.media-amazon.com/images/I/71CEPz1SwbL._AC_UL320_.jpg",
         "link_afiliado": "https://link.amazon/B03dLxkqd"
-    },
-    {
-        "titulo": "Tomada Inteligentes Smart Wi-Fi 16A com Monitor de Consumo - Compatível com Alexa Google Home Tuya Smart Life - Automaçã",
-        "preco": "38,90",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://m.media-amazon.com/images/I/61gGU2RhYgL._AC_UL320_.jpg",
-        "link_afiliado": "https://link.amazon/B0d0ogcui"
-    },
-    {
-        "titulo": "Purificador De Água Consul refrigerado Natural E Gelada com proteção antibactérias Bivolt Consul Branco - CPB34ASVNA",
-        "preco": "436,99",
-        "preco_antigo": "559,90",
-        "desconto": "(21,95% OFF)",
-        "frete": "⚡ *Frete FULL / GRÁTIS*",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_975106-MLA100053871947_122025-AB.webp",
-        "link_afiliado": "https://meli.la/2AiTH9r"
-    },
-    {
-        "titulo": "Relógio Smartband Samsung Gal.fit 3 Sm-r390 Grafite Grafite Liso Grafit Cinza-escuro",
-        "preco": "222,00",
-        "preco_antigo": "365,00",
-        "desconto": "(39,18% OFF)",
-        "frete": "⚡ *Frete FULL / GRÁTIS*",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_767723-MLB89453758235_082025-AB.webp",
-        "link_afiliado": "https://meli.la/22HTwQj"
-    },
-    {
-        "titulo": "Suplemento en pó Black Skull Whey Protein Massa Muscular Proteína de Whey 100% HD sabor chocolate x 900g",
-        "preco": "73,74",
-        "preco_antigo": "139,90",
-        "desconto": "(47,29% OFF)",
-        "frete": "⚡ *Frete FULL / GRÁTIS*",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_603518-MLA91640915658_092025-AB.webp",
-        "link_afiliado": "https://meli.la/1TJw7rt"
-    },
-    {
-        "titulo": "Removedor De Cutículas E Lixa Eletrônica Portátil Lixadeira Unha Elétrica Profissional",
-        "preco": "13,99",
-        "preco_antigo": "37,81",
-        "desconto": "(63% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/sg-11134201-8260p-mjj6yhvkpa8325",
-        "link_afiliado": "https://s.shopee.com.br/2g9TuW1qre"
-    },
-    {
-        "titulo": "Ferro De Solda Com Estanho 60W Soldador 40W 30W 110v 220v Resistente",
-        "preco": "18,99",
-        "preco_antigo": "31,65",
-        "desconto": "(40% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfklij1431tz7b",
-        "link_afiliado": "https://s.shopee.com.br/80B0GJhY3C"
-    },
-    {
-        "titulo": "Fio Elétrico Cabo Flexível 4mm Rolo de 100m – Certificado INMETRO | Anti-chamas | Ampex",
-        "preco": "97,98",
-        "preco_antigo": "118,05",
-        "desconto": "(17% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134211-7r98o-m3z1lnnj2blh45",
-        "link_afiliado": "https://s.shopee.com.br/20tn7I4ODq"
-    },
-    {
-        "titulo": "Fio Elétrico Cabo Flexível 6mm Rolo de 100m – Certificado INMETRO | Anti-chamas | Ampex",
-        "preco": "129,99",
-        "preco_antigo": "147,72",
-        "desconto": "(12% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134211-7r98o-m3zc6p5ejlmdb8",
-        "link_afiliado": "https://s.shopee.com.br/gOPWq9SvS"
-    },
-    {
-        "titulo": "Fio Elétrico Cabo Flexível 2,5mm Rolo de 100m – Certificado INMETRO | Anti-chamas | Ampex",
-        "preco": "58,99",
-        "preco_antigo": "67,03",
-        "desconto": "(12% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhm0n8ly9qf51b",
-        "link_afiliado": "https://s.shopee.com.br/4AyHhGw8p5"
-    },
-    {
-        "titulo": "Kit Parafusadeira Elétrica/Furadeira 48 Peças À Bateria Sem Fio Carregador Usb Portátil Leve",
-        "preco": "37,88",
-        "preco_antigo": "80,60",
-        "desconto": "(53% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-md1js8nzgjr517",
-        "link_afiliado": "https://s.shopee.com.br/3Viau2ygAl"
-    },
-    {
-        "titulo": "Fita De Pano À Prova D'água , Isolamento Durável , Forte Adesão , Rolo De 15m Para Reparos Elétricos De Fiação De Carro ",
-        "preco": "10,00",
-        "preco_antigo": "15,87",
-        "desconto": "(37% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdw0-mcalgn9f654h0d",
-        "link_afiliado": "https://s.shopee.com.br/1gGwig5eto"
-    },
-    {
-        "titulo": "Bomba de Ar Elétrica 12V Compressor Portátil para Pneus de Carro, Moto, Bicicleta e Acessórios -M6",
-        "preco": "79,99",
-        "preco_antigo": "499,94",
-        "desconto": "(84% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-mn3qn52awuf61b",
-        "link_afiliado": "https://s.shopee.com.br/BS8vvBMwR"
-    },
-    {
-        "titulo": "3/6/12pcs Ferro Fundido De Cobre De Haste De Solda De Aço Inoxidável-Hastes Baixa Temperatura De Fusão Fácil-Para Kits",
-        "preco": "14,99",
-        "preco_antigo": "23,42",
-        "desconto": "(36% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/sg-11134201-821fd-mgt0z0nvjoy4cd",
-        "link_afiliado": "https://s.shopee.com.br/AUsLEuY1yj"
-    },
-    {
-        "titulo": "Raxmolo Mini cortador de alho sem fio, 250 ml, 1 xícara, pequeno alimentado por bateria, USB-C recarregável, sem fio, pr",
-        "preco": "108,97",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://m.media-amazon.com/images/I/51bCgLHqeNL._AC_UL320_.jpg",
-        "link_afiliado": "https://link.amazon/B01Z0GseX"
-    },
-    {
-        "titulo": "Kit 15 Potes Herméticos para Armazenamento de Alimentos, BPA Free, Plástico PP, com Travas Laterais e Vedação em Silicon",
-        "preco": "79,99",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://m.media-amazon.com/images/I/7127qPhnmQL._AC_UL320_.jpg",
-        "link_afiliado": "https://link.amazon/B01Z8wtJd"
-    },
-    {
-        "titulo": "Fone de Ouvido Bluetooth, fone de ouvido sem fio Bluetooth 5.4, Cancelamento de Ruído, Bateria de 16h, Funciona em Todos",
-        "preco": "25,19",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "🚚 *Frete GRÁTIS com Prime*",
-        "imagem": "https://m.media-amazon.com/images/I/51owctkluTL._AC_UL320_.jpg",
-        "link_afiliado": "https://link.amazon/B0a42U3S7"
-    },
-    {
-        "titulo": "Mousepad Gamer Profissional 90x40 Varias Estampas Qualidade",
-        "preco": "30,99",
-        "preco_antigo": "44,90",
-        "desconto": "(30,98% OFF)",
-        "frete": "⚡ *Frete FULL / GRÁTIS*",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_763942-MLB72873963011_112023-E-mousepad-gamer-profissional-90x40-varias-estampas-qualidade.webp",
-        "link_afiliado": "https://meli.la/33op88x"
-    },
-    {
-        "titulo": "Mouse Logitech M280 Sem Fio 1000dpi Com Pilha Inclusa",
-        "preco": "119,64",
-        "preco_antigo": "145,90",
-        "desconto": "(18,00% OFF)",
-        "frete": "⚡ *Frete FULL / GRÁTIS*",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_716037-MLB94609679318_102025-E.webp",
-        "link_afiliado": "https://meli.la/27E6cMW"
-    },
-    {
-        "titulo": "SSD WD Green SN3000, 500GB, M.2 2280, PCIe NVMe, Leitura 5000MB/s, Gravacao 4100MB/s, WDS500G4G0E",
-        "preco": "625,70",
-        "preco_antigo": "749,90",
-        "desconto": "(16,56% OFF)",
-        "frete": "⚡ *Frete FULL / GRÁTIS*",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_812511-MLA97274188132_112025-E.webp",
-        "link_afiliado": "https://meli.la/1JPupn1"
-    },
-    {
-        "titulo": "Interruptor Inteligente Touch 1/2/3/4 Botão WiFi Smart Automação,Compatível Alexa Google Smart Tuya",
-        "preco": "47,99",
-        "preco_antigo": "117,05",
-        "desconto": "(59% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/sg-11134201-820n0-mnb6tz0c2txkf3",
-        "link_afiliado": "https://s.shopee.com.br/5VTeS4DK0S"
-    },
-    {
-        "titulo": " Interruptor WiFi Inteligente 16A Tuya com Temporizador, compatível com o app Smart Life, Alexa e Google Home para",
-        "preco": "20,65",
-        "preco_antigo": "36,87",
-        "desconto": "(44% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/sg-11134253-825a7-mq6fjv6sqhou06",
-        "link_afiliado": "https://s.shopee.com.br/8AUPcy3AbE"
-    },
-    {
-        "titulo": "Lâmpada Led Inteligente Bluetooth ou Wifi Compatível TUYA，Smart，Alexa，Google Assistente E27 10W 110V/220V",
-        "preco": "29,99",
-        "preco_antigo": "54,53",
-        "desconto": "(45% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rd5r-m75neuy4ejv05d",
-        "link_afiliado": "https://s.shopee.com.br/3g229om6xE"
-    },
-    {
-        "titulo": "Lâmpada Led Smart Inteligente Wi Fi Alexa google 10w RGB Avant E27 Bivolt 110v/220v",
-        "preco": "35,99",
-        "preco_antigo": "59,00",
-        "desconto": "(39% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rd6e-m75nduyd1c0ccd",
-        "link_afiliado": "https://s.shopee.com.br/1qaNyRt5fp"
-    },
-    {
-        "titulo": "Lâmpada Inteligente Smart Compativel Alexa Google Assistente App TUYA Bulbo E27 Rgb 10w",
-        "preco": "35,99",
-        "preco_antigo": "55,37",
-        "desconto": "(35% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m65o1w7xg7dc35",
-        "link_afiliado": "https://s.shopee.com.br/8KnppH2XGJ"
     }
 ]
