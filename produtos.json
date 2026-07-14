@@ -1,5 +1,203 @@
 [
     {
+        "titulo": "Garrafa Térmica Gocase Urban Inox Parede Dupla Isolada À Vácuo 500ml - Preto",
+        "preco": "61,75",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "",
+        "imagem": "https://m.media-amazon.com/images/I/61szNdVyiPL._AC_UL320_.jpg",
+        "link_afiliado": "https://link.amazon/B099DpOpV"
+    },
+    {
+        "titulo": "Mouse sem fio Logitech M190 com Design Ambidestro de Tamanho Padrão, Conexão USB e Pilha Inclusa - Cinza",
+        "preco": "62,90",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "",
+        "imagem": "https://m.media-amazon.com/images/I/615r1BIUYwL._AC_UL320_.jpg",
+        "link_afiliado": "https://link.amazon/B01nsIwve"
+    },
+    {
+        "titulo": "PHILIPS, Fone de Ouvido Sem Fio TWS, TAT1109BK/00, Bluetooth, Com Microfone, Até 24 horas de bateria, Preto",
+        "preco": "149,00",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "",
+        "imagem": "https://m.media-amazon.com/images/I/519bjoeFBTL._AC_UL320_.jpg",
+        "link_afiliado": "https://www.amazon.com.br/dp/B0DVMQVVDY?tag=vitrinetech29-20"
+    },
+    {
+        "titulo": "Mouse Pad Gamer Speed Extra Grande 120x60 Preto",
+        "preco": "79,80",
+        "preco_antigo": "99,90",
+        "desconto": "(20,12% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_681255-MLA95712629388_102025-E.webp",
+        "link_afiliado": "https://meli.la/2ZUaKHS"
+    },
+    {
+        "titulo": "SSD NVMe M.2 2280 Interno 1TB PCIe Gen3 Leitura 3000MB/s Armazenamento Para Desktop Notebook Alta Velocidade - UP Gamer",
+        "preco": "846,91",
+        "preco_antigo": "999,99",
+        "desconto": "(15,31% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_702404-MLA110131209039_042026-E.webp",
+        "link_afiliado": "https://meli.la/145fNnt"
+    },
+    {
+        "titulo": "Mouse Gamer Rgb Logitech Lightsync G G203 Branco 910-005794",
+        "preco": "135,85",
+        "preco_antigo": "143,00",
+        "desconto": "(5,00% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_799446-MLA81190431452_122024-E-mouse-gamer-rgb-logitech-lightsync-g-g203-branco-910-005794.webp",
+        "link_afiliado": "https://meli.la/33gg8ML"
+    },
+    {
+        "titulo": "Teclado Mecânico Aula F75 Rgb 2.4g Usb-c Bluetooth Abnt2",
+        "preco": "436,40",
+        "preco_antigo": "699,99",
+        "desconto": "(37,66% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_867425-MLB110383715074_052026-E.webp",
+        "link_afiliado": "https://meli.la/248hVPE"
+    },
+    {
+        "titulo": "Torneira Elétrica Para Cozinha Banheiro Com Visor de Temperatura Regulagem e Giratória 360° Aço Inoxidável 220V",
+        "preco": "199,99",
+        "preco_antigo": "298,49",
+        "desconto": "(33% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdwd-lzc1ddwd36my8d",
+        "link_afiliado": "https://s.shopee.com.br/6L2q8ROCSz"
+    },
+    {
+        "titulo": "Kit Unha Gel Acrigel Fibra Para Iniciantes Completo Cabine estufa de Unhas e lixadeira elétrica Manicure Profissional",
+        "preco": "72,90",
+        "preco_antigo": "182,25",
+        "desconto": "(60% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-820md-mn37jqlaqjnkef",
+        "link_afiliado": "https://s.shopee.com.br/5q6ZXWQ6To"
+    },
+    {
+        "titulo": "Parafusadeira Furadeira  48V 1/2 Bateria  3 funções de Elétrica Sem Fio Impacto Completo Acessórios",
+        "preco": "129,68",
+        "preco_antigo": "518,72",
+        "desconto": "(75% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-820mh-mmv85p91je9t94",
+        "link_afiliado": "https://s.shopee.com.br/4LHlklVoWP"
+    },
+    {
+        "titulo": "Pistola Elétrica Para Pintura Pulverizador de Tinta com Bico de Metal e Compressor 450w - TSSAPER",
+        "preco": "139,90",
+        "preco_antigo": "249,82",
+        "desconto": "(44% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzgqwrjdffad33",
+        "link_afiliado": "https://s.shopee.com.br/2qSxy0bWZ0"
+    },
+    {
+        "titulo": "Fio 2 5mm 100m Flexivel Eletrico Dois e Meio 2,5mm 100m",
+        "preco": "51,90",
+        "preco_antigo": "61,06",
+        "desconto": "(15% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-820mg-mpl0kvavmp6pe1",
+        "link_afiliado": "https://s.shopee.com.br/7fYDitJ7lN"
+    },
+    {
+        "titulo": "Mini Esmerilhadeira Lixadeira Elétrica Sem Fio Bivolt 110v/220v 2 Baterias 12V Com Maleta",
+        "preco": "94,99",
+        "preco_antigo": "197,90",
+        "desconto": "(52% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh8297hzzpq814",
+        "link_afiliado": "https://s.shopee.com.br/4AyLYSWRrO"
+    },
+    {
+        "titulo": "Compressor De Ar Elétrico Portátil Digital Ncher Pneu Carro Moto Bike Bicicleta Bola Piscina Inflável",
+        "preco": "72,99",
+        "preco_antigo": "202,75",
+        "desconto": "(64% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rd5k-m7r1faf4n6ivbc",
+        "link_afiliado": "https://s.shopee.com.br/20tqyTehFn"
+    },
+    {
+        "titulo": "Fio Elétrico Cabo Flexível 4mm Rolo de 100m – Certificado INMETRO | Anti-chamas | Ampex",
+        "preco": "89,10",
+        "preco_antigo": "117,24",
+        "desconto": "(24% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134211-7r98o-m3z1lnnj2blh45",
+        "link_afiliado": "https://s.shopee.com.br/4qE2LgTuVa"
+    },
+    {
+        "titulo": "Fio Elétrico Cabo Flexível 6mm Rolo de 100m – Certificado INMETRO | Anti-chamas | Ampex",
+        "preco": "120,43",
+        "preco_antigo": "146,87",
+        "desconto": "(18% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134211-7r98o-m3zc6p5ejlmdb8",
+        "link_afiliado": "https://s.shopee.com.br/3LPEYvZcYB"
+    },
+    {
+        "titulo": "Fio Elétrico Cabo Flexível 2,5mm Rolo de 100m – Certificado INMETRO | Anti-chamas | Ampex",
+        "preco": "58,99",
+        "preco_antigo": "67,03",
+        "desconto": "(12% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhm0n8ly9qf51b",
+        "link_afiliado": "https://s.shopee.com.br/2g9Xlhc9tz"
+    },
+    {
+        "titulo": "Bomba Encher Balões Bexigas Inflador Elétrico Automático 110V ou 220V",
+        "preco": "56,98",
+        "preco_antigo": "103,60",
+        "desconto": "(45% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rcc2-m6m0n9i4t09e76",
+        "link_afiliado": "https://s.shopee.com.br/8fQkujFJjj"
+    },
+    {
+        "titulo": "Soprador Aspirador Elétrico Folhas Jardim Carro Coletor",
+        "preco": "79,90",
+        "preco_antigo": "128,87",
+        "desconto": "(38% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rbmn-lpur53y9xw801c",
+        "link_afiliado": "https://s.shopee.com.br/9AN1VeDPim"
+    },
+    {
+        "titulo": "Bomba de Ar Elétrica 12V Compressor Portátil para Pneus de Carro, Moto, Bicicleta e Acessórios -M6",
+        "preco": "79,99",
+        "preco_antigo": "499,94",
+        "desconto": "(84% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-mn3qn52awuf61b",
+        "link_afiliado": "https://s.shopee.com.br/4fuc9NUXqZ"
+    },
+    {
+        "titulo": "3000W Instant Electric Hot Water Aquecedor Torneira Display Digital Aquecimento De Água Para De Banheiro",
+        "preco": "102,50",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rau8-mb52sdbtjje12d",
+        "link_afiliado": "https://s.shopee.com.br/1VxaNYgbGc"
+    },
+    {
+        "titulo": "Esmerilhadeira Lixadeira Angular 115\" 110v ou 220v  compacta",
+        "preco": "119,99",
+        "preco_antigo": "230,75",
+        "desconto": "(48% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjybov2mb6khe8",
+        "link_afiliado": "https://s.shopee.com.br/6VMGKkNZ80"
+    },
+    {
         "titulo": "BLACK+DECKER Processador de Alimentos Antiaderente em Inox, Gourmand Gris, Modelo MP300G, 220V",
         "preco": "236,00",
         "preco_antigo": "",
@@ -250,203 +448,5 @@
         "frete": "",
         "imagem": "https://m.media-amazon.com/images/I/71+IwfGRdbL._AC_UL320_.jpg",
         "link_afiliado": "https://link.amazon/B0aOqyHhs"
-    },
-    {
-        "titulo": "Carregador Portátil (Power Bank) 10.000mAh 22.5W Turbo Com Visor LED, Carregador Super Rápido Com Saídas Lightning iOS, ",
-        "preco": "67,49",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "🚚 *Frete GRÁTIS com Prime*",
-        "imagem": "https://m.media-amazon.com/images/I/61SCa13ZjvL._AC_UL320_.jpg",
-        "link_afiliado": "https://link.amazon/B043sXku0"
-    },
-    {
-        "titulo": "Tomada Inteligente Wi-fi Tapo P110 Tp-link",
-        "preco": "58,00",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "⚡ *Frete FULL / GRÁTIS*",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_924364-MLA99454374196_112025-E.webp",
-        "link_afiliado": "https://meli.la/2CN3w4P"
-    },
-    {
-        "titulo": "Fita Led Cob Rgb Ic 24v 5 Metros Com App Bluetooth E Control",
-        "preco": "169,90",
-        "preco_antigo": "199,99",
-        "desconto": "(15,05% OFF)",
-        "frete": "⚡ *Frete FULL / GRÁTIS*",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_897354-MLB110221485409_042026-E.webp",
-        "link_afiliado": "https://meli.la/1HKN4Y9"
-    },
-    {
-        "titulo": "Kit 3 Lâmpadas Led Rgb 16 Cores Com Controle Colorida 15w",
-        "preco": "78,99",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "⚡ *Frete FULL / GRÁTIS*",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_801990-MLB113148739055_062026-E.webp",
-        "link_afiliado": "https://meli.la/25D9HE6"
-    },
-    {
-        "titulo": "Camera Wifi 360° Im7 S Full Color Intelbras + Cartão 128gb",
-        "preco": "551,37",
-        "preco_antigo": "799,00",
-        "desconto": "(30,99% OFF)",
-        "frete": "⚡ *Frete FULL / GRÁTIS*",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_626995-MLB92366961818_092025-E.webp",
-        "link_afiliado": "https://meli.la/2iGb2f1"
-    },
-    {
-        "titulo": "Interruptor Inteligente Wifi Touch 1 Botão Automação Residencial Smart Alexa Google Assistente App Tuya Pandaplus Cor Branco Bivolt",
-        "preco": "59,44",
-        "preco_antigo": "89,99",
-        "desconto": "(33,95% OFF)",
-        "frete": "⚡ *Frete FULL / GRÁTIS*",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_808497-MLA98118360925_112025-E.webp",
-        "link_afiliado": "https://meli.la/2nkmWVe"
-    },
-    {
-        "titulo": "(COD Fast delivery) 100pcs Gancho De Segurança Anti-Roubo Fechaduras Magnéticas Para Vários Varejos Mini Desbloqueio Mag",
-        "preco": "89,24",
-        "preco_antigo": "111,55",
-        "desconto": "(20% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/cn-11134207-7qukw-lh9utujrm3bw82",
-        "link_afiliado": "https://s.shopee.com.br/gORnLnqOI"
-    },
-    {
-        "titulo": "Ponta de lança portão grade muro segurança proteção tipo colonial 10 Pçs",
-        "preco": "56,91",
-        "preco_antigo": "59,91",
-        "desconto": "(5% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/sg-11134201-7ra1y-m58m67q3df1406",
-        "link_afiliado": "https://s.shopee.com.br/1VxYmskfhP"
-    },
-    {
-        "titulo": "Dobradiça Merkel 101 Polida 1.1/2  - T80975 120 Pçs",
-        "preco": "141,55",
-        "preco_antigo": "149,00",
-        "desconto": "(5% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mey9udwmr7d069",
-        "link_afiliado": "https://s.shopee.com.br/1Le8aZlJ2M"
-    },
-    {
-        "titulo": "kit 05 Trincos Lateral Para Porteira Aço Reforçado Fechadura 1/2 Polegada Alta Resistência",
-        "preco": "132,12",
-        "preco_antigo": "146,80",
-        "desconto": "(10% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztv-mkvdnylolwjl7c",
-        "link_afiliado": "https://s.shopee.com.br/1gGyzBk2MO"
-    },
-    {
-        "titulo": "2/4/6 Pçs Ouro Arco Forma Armário Cômoda Puxa Requintado Puxar Alças Gaveta Botão Para Casa SHOPSKC6906",
-        "preco": "53,00",
-        "preco_antigo": "59,55",
-        "desconto": "(11% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/sg-11134201-824j8-meis8u4613wn65",
-        "link_afiliado": "https://s.shopee.com.br/6VMEk4RdYv"
-    },
-    {
-        "titulo": "Kit Travas Anti Furto 5mm Para Ganchos Lojas 100pcs+ 1 Chave",
-        "preco": "205,99",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6zm29w8d9472a",
-        "link_afiliado": "https://s.shopee.com.br/qhrzenD3L"
-    },
-    {
-        "titulo": "Dobradiça Palmela 4 X 6 Reforçada Cartela 2 Pçs C/ Parafusos",
-        "preco": "69,99",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134201-7qukw-lew17cboek1704",
-        "link_afiliado": "https://s.shopee.com.br/8pk8Dx8lhz"
-    },
-    {
-        "titulo": "Cartela de Cadeado 30-40-50 Variados Tamanhos c/12 PCS",
-        "preco": "71,66",
-        "preco_antigo": "79,62",
-        "desconto": "(10% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/ad257943f180ddf22994e429b6065574",
-        "link_afiliado": "https://s.shopee.com.br/9UznyQHZpT"
-    },
-    {
-        "titulo": "Kit 100 Dobradiça Aliaço Gonzo Conjunto 3/8 x 50 mm - 100 Pçs",
-        "preco": "129,90",
-        "preco_antigo": "131,21",
-        "desconto": "(1% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/sg-11134201-7ra0l-mbcn7377fpqb78",
-        "link_afiliado": "https://s.shopee.com.br/8pk7BCK7BH"
-    },
-    {
-        "titulo": "Kit Dobradiças Vai E Vem 2 Pçs Portas, Bang Bang, Faroeste 3\" polegadas",
-        "preco": "65,07",
-        "preco_antigo": "98,59",
-        "desconto": "(34% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134201-7qukw-lerhkcun6f4v48",
-        "link_afiliado": "https://s.shopee.com.br/8fQgytKkWE"
-    },
-    {
-        "titulo": "Kit 10 pçs 20 pçs Capa Carcaça para reposição de Controle de Portão Eletrônico Rossi",
-        "preco": "79,95",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/sg-11134201-22100-c7unhzlza7iv26",
-        "link_afiliado": "https://s.shopee.com.br/60PvnzUtvS"
-    },
-    {
-        "titulo": "Ferramentas Manuais GTX drivers Acessórios De hardware Série 0.15/0.2/0.3/0.4/0.6/0.8/1.2 Caixa (5 PCS)",
-        "preco": "50,00",
-        "preco_antigo": "125,00",
-        "desconto": "(60% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/cn-11134207-7ras8-m527kvc3ss6u9b",
-        "link_afiliado": "https://s.shopee.com.br/5LAF0lXRHG"
-    },
-    {
-        "titulo": "5 Pcs Kit De Lâmpada Led 5pcs Peças De Impressora 3D Hardware Modelo DIY Luz Branca/Fria/Quente De Sobressalentes Para M",
-        "preco": "81,36",
-        "preco_antigo": "123,27",
-        "desconto": "(34% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/sg-11134201-81zuf-miy485d8y6824d",
-        "link_afiliado": "https://s.shopee.com.br/3ViapOePzi"
-    },
-    {
-        "titulo": "5 Pcs Kit De Lâmpada LED 5pcs Peças De Impressora 3D Hardware Modelo DIY Luz Branca/Fria/Quente Ajustável Para Sobressal",
-        "preco": "84,74",
-        "preco_antigo": "176,54",
-        "desconto": "(52% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/sg-11134201-8262r-mjm5t8mt1af62c",
-        "link_afiliado": "https://s.shopee.com.br/50XOc9Yhx7"
-    },
-    {
-        "titulo": "Suporte para celular, braço articulado com luz LED, suporte flexível para celular para transmissão ao vivo, gravação de ",
-        "preco": "176,47",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://m.media-amazon.com/images/I/71JTGyiuojL._AC_UL320_.jpg",
-        "link_afiliado": "https://link.amazon/B047Wrl3c"
-    },
-    {
-        "titulo": "Balança digital de cozinha Ozeri Pronto, 20 cm",
-        "preco": "122,09",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://m.media-amazon.com/images/I/71CEPz1SwbL._AC_UL320_.jpg",
-        "link_afiliado": "https://link.amazon/B03dLxkqd"
     }
 ]
