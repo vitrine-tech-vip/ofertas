@@ -36,7 +36,13 @@
 
     <header>
         <h1>🔥 As Melhores Ofertas VIP</h1>
-        <p>Acompanhe os descontos mais agressivos de Hardware, Tecnologia e Smart Home.</p>
+        <p>Monitoramos as maiores lojas do Brasil para trazer os descontos mais agressivos até você.</p>
+        
+        <div style="margin-top: 15px; display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+            <span style="background: #232F3E; color: #FF9900; padding: 4px 12px; border-radius: 20px; font-size: 0.8rem; font-weight: bold;">🛒 Amazon</span>
+            <span style="background: #FFE600; color: #2D3277; padding: 4px 12px; border-radius: 20px; font-size: 0.8rem; font-weight: bold;">🤝 Mercado Livre</span>
+            <span style="background: #EE4D2D; color: white; padding: 4px 12px; border-radius: 20px; font-size: 0.8rem; font-weight: bold;">🛍️ Shopee</span>
+        </div>
     </header>
 
     <div class="container">
@@ -70,6 +76,26 @@
                     let tagPrecoAntigo = prod.preco_antigo ? `<div class="preco-antigo">R$ ${prod.preco_antigo}</div>` : `<div class="preco-antigo"></div>`;
                     let tagFrete = prod.frete ? `<div class="frete">🚚 Frete Grátis</div>` : `<div class="frete"></div>`;
                     
+                    // 🕵️‍♂️ DETETIVE DE LINKS: Descobre a loja e muda a cor do botão!
+                    let nomeBotao = "Ver Oferta Oficial";
+                    let corBotao = "#3498db"; // Azul Padrão
+                    let corTextoBotao = "white";
+
+                    let linkBase = prod.link_afiliado.toLowerCase();
+                    if (linkBase.includes("amzn") || linkBase.includes("amazon")) {
+                        nomeBotao = "Ver na Amazon";
+                        corBotao = "#FF9900"; // Laranja Amazon
+                        corTextoBotao = "#232F3E";
+                    } else if (linkBase.includes("meli") || linkBase.includes("mercadolivre")) {
+                        nomeBotao = "Ver no Mercado Livre";
+                        corBotao = "#FFE600"; // Amarelo ML
+                        corTextoBotao = "#2D3277";
+                    } else if (linkBase.includes("shopee")) {
+                        nomeBotao = "Ver na Shopee";
+                        corBotao = "#EE4D2D"; // Laranja/Vermelho Shopee
+                        corTextoBotao = "white";
+                    }
+                    
                     card.innerHTML = `
                         ${tagDesconto}
                         <img src="${prod.imagem}" alt="Imagem do Produto">
@@ -78,7 +104,7 @@
                             ${tagPrecoAntigo}
                             <div class="price">R$ ${prod.preco}</div>
                             ${tagFrete}
-                            <a href="${prod.link_afiliado}" target="_blank" class="btn">🛒 Ver Oferta Oficial</a>
+                            <a href="${prod.link_afiliado}" target="_blank" class="btn" style="background-color: ${corBotao}; color: ${corTextoBotao};">🛒 ${nomeBotao}</a>
                         </div>
                     `;
                     vitrine.appendChild(card);
