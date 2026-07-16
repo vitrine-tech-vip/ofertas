@@ -1,5 +1,23 @@
 [
     {
+        "titulo": "Mouse Pad Gamer 90x40 Cm Estampa De Fantasia Dark  Pad-0602",
+        "preco": "69,90",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_649594-MLB113098903808_072026-E.webp",
+        "link_afiliado": "https://meli.la/2uQzw2W"
+    },
+    {
+        "titulo": "Mouse Sem Fio Logitech M240 - Branco",
+        "preco": "89,90",
+        "preco_antigo": "139,00",
+        "desconto": "(35,32% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_649055-MLA100080539209_122025-E.webp",
+        "link_afiliado": "https://meli.la/1YoG5Y5"
+    },
+    {
         "titulo": "LYOR - Mini Processador com Entrada Usb 8,5cm x 8,5cm x 12cm Branco Plástico | Plástico",
         "preco": "66,44",
         "preco_antigo": "",
@@ -430,23 +448,5 @@
         "frete": "",
         "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdwd-lzc1ddwd36my8d",
         "link_afiliado": "https://s.shopee.com.br/6L2q8ROCSz"
-    },
-    {
-        "titulo": "Kit Unha Gel Acrigel Fibra Para Iniciantes Completo Cabine estufa de Unhas e lixadeira elétrica Manicure Profissional",
-        "preco": "72,90",
-        "preco_antigo": "182,25",
-        "desconto": "(60% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-820md-mn37jqlaqjnkef",
-        "link_afiliado": "https://s.shopee.com.br/5q6ZXWQ6To"
-    },
-    {
-        "titulo": "Parafusadeira Furadeira  48V 1/2 Bateria  3 funções de Elétrica Sem Fio Impacto Completo Acessórios",
-        "preco": "129,68",
-        "preco_antigo": "518,72",
-        "desconto": "(75% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-820mh-mmv85p91je9t94",
-        "link_afiliado": "https://s.shopee.com.br/4LHlklVoWP"
     }
 ]
