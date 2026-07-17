@@ -1,5 +1,104 @@
 [
     {
+        "titulo": "Mouse Sem Fio Logitech Lift Vertical com Design Ergonômico para Redução de Tensão Muscular, Cliques Silenciosos, Conexão",
+        "preco": "390,00",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "",
+        "imagem": "https://m.media-amazon.com/images/I/61OkuiCWbDL._AC_UL320_.jpg",
+        "link_afiliado": "https://link.amazon/B007BXPS6"
+    },
+    {
+        "titulo": "Braço Suporte Articulado Flexível Giratório De Mesa Para Celular Tablet",
+        "preco": "149,90",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "",
+        "imagem": "https://m.media-amazon.com/images/I/51SZDgLCTEL._AC_UL320_.jpg",
+        "link_afiliado": "https://link.amazon/B04su4Ut0"
+    },
+    {
+        "titulo": "Luminária Inteligente LED 18W 3000-6500K Elgin Wi-Fi Quadrada de Sobrepor compatível com Alexa e Google Home",
+        "preco": "102,54",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "🚚 *Frete GRÁTIS com Prime*",
+        "imagem": "https://m.media-amazon.com/images/I/51zUiesJMjL._AC_UL320_.jpg",
+        "link_afiliado": "https://link.amazon/B06xjo7qw"
+    },
+    {
+        "titulo": "Esfregão Mop 360° Balde Inox Giratório 12L Azul Cabo Longo 160cm Alça 3 Refis Microfibra TBBL03 The Black Tools",
+        "preco": "161,40",
+        "preco_antigo": "169,90",
+        "desconto": "(5,00% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_961203-MLA109773358732_042026-E.webp",
+        "link_afiliado": "https://meli.la/2EyakR3"
+    },
+    {
+        "titulo": "-+ Balança De Cozinha Digital 10kg/1g 5kg/0,1g Balança",
+        "preco": "189,83",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_853704-MLB109588408999_032026-E--balanca-de-cozinha-digital-10kg1g-5kg01g-balanca.webp",
+        "link_afiliado": "https://meli.la/2f8wRCR"
+    },
+    {
+        "titulo": "Kit 3 Soquete Lampada Bocal E27 Sensor De Presença 360º",
+        "preco": "101,31",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdxa-lz9n6vdckmzeba",
+        "link_afiliado": "https://s.shopee.com.br/5VToebjxrZ"
+    },
+    {
+        "titulo": "Varal Magico Invisível de Parede Dobrável Retrátil 80cm 5 Varetas Recolhível Roupas Espaço Pequeno",
+        "preco": "129,90",
+        "preco_antigo": "191,03",
+        "desconto": "(32% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfykqu4vaneob8",
+        "link_afiliado": "https://s.shopee.com.br/2qT3Thl6sN"
+    },
+    {
+        "titulo": "Mop Giratório 360 Cabo 150cm Inox Com Rodas Balde Centrífuga Esfregão Spin Limpeza Porcelanato",
+        "preco": "159,00",
+        "preco_antigo": "198,75",
+        "desconto": "(20% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m83yloe4gk5tce",
+        "link_afiliado": "https://s.shopee.com.br/AKZ4PU5Upy"
+    },
+    {
+        "titulo": "Mop Perfect Pro 360 Giratório Balde Inox 16L Microfibra Azul",
+        "preco": "159,90",
+        "preco_antigo": "248,37",
+        "desconto": "(35,62% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_969017-MLA99350466412_112025-E.webp",
+        "link_afiliado": "https://www.mercadolivre.com.br/mop-perfect-pro-360-giratorio-balde-inox-16l-microfibra-azul/p/MLB23733006"
+    },
+    {
+        "titulo": "Cabelo Orgânico Cacheado - Beleza G Plus sleek - 320g",
+        "preco": "127,33",
+        "preco_antigo": "181,90",
+        "desconto": "(30% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-logtlodgdvik2b",
+        "link_afiliado": "https://s.shopee.com.br/60Q5E7v00P"
+    },
+    {
+        "titulo": "Carrinho Multiuso Industrial Com 4 Bandejas E Rodízios – Organização E Estilo",
+        "preco": "189,00",
+        "preco_antigo": "300,00",
+        "desconto": "(37% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/sg-11134201-824g9-me63pzugshkx53",
+        "link_afiliado": "https://s.shopee.com.br/4fuhbbqBVd"
+    },
+    {
         "titulo": "Twnwnekk Mini cortador de alho, processador de alimentos pequeno de 250 ml, sem fio, 1 xícara, bateria USB-C recarregáve",
         "preco": "101,32",
         "preco_antigo": "",
@@ -349,104 +448,5 @@
         "frete": "",
         "imagem": "https://cf.shopee.com.br/file/br-11134207-820lw-mo5hmzo0jlkw29",
         "link_afiliado": "https://s.shopee.com.br/6fflGb6NYn"
-    },
-    {
-        "titulo": "Cortina para Sala Quarto Escritório Tons Mais Vendidos - 300x280 / 300x250 / 300x230",
-        "preco": "70,13",
-        "preco_antigo": "89,91",
-        "desconto": "(22% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg52duxkwjr910",
-        "link_afiliado": "https://s.shopee.com.br/4LHqUJFGI7"
-    },
-    {
-        "titulo": "Perfume Touti Vip - Mais Vendidos Luxo - Masculino Feminino Importados Escolha sua Fragrancia.",
-        "preco": "38,00",
-        "preco_antigo": "44,71",
-        "desconto": "(15% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mb0530cqv855a5",
-        "link_afiliado": "https://s.shopee.com.br/3VijUmIQyq"
-    },
-    {
-        "titulo": "Suporte de Celular de Mesa Para Celular 360 graus Ajustável Articulado Universal Estável Regulagem de Altura Escritório ",
-        "preco": "24,90",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "🚚 *Frete GRÁTIS com Prime*",
-        "imagem": "https://m.media-amazon.com/images/I/41XUCf5rgfL._AC_UL320_.jpg",
-        "link_afiliado": "https://link.amazon/B05s9OQEM"
-    },
-    {
-        "titulo": "Tomada Inteligente WiFi, Smart Plug ,Bivolt, Controle por Voz, App Timer, Automação Residencial, Compatível com Alexa, G",
-        "preco": "41,50",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "🚚 *Frete GRÁTIS com Prime*",
-        "imagem": "https://m.media-amazon.com/images/I/41dJwQx2hoL._AC_UL320_.jpg",
-        "link_afiliado": "https://link.amazon/B02JIEHD6"
-    },
-    {
-        "titulo": "Fone de Ouvido Bluetooth Sem Fio 5.4 Esportivo Ergonômico com Gancho IPX5 Som HD Para Esportes Corridas Atividades Físic",
-        "preco": "42,70",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "🚚 *Frete GRÁTIS com Prime*",
-        "imagem": "https://m.media-amazon.com/images/I/510iS+qlc4L._AC_UL320_.jpg",
-        "link_afiliado": "https://link.amazon/B0hcv479x"
-    },
-    {
-        "titulo": "Carregador Portátil (Power Bank) 20000Mah Turbo 22.5w Carregamento Ultra Rápido PD Visor Led com 2 Saídas Compatível com",
-        "preco": "89,49",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "🚚 *Frete GRÁTIS com Prime*",
-        "imagem": "https://m.media-amazon.com/images/I/81oWAvI9AjL._AC_UL320_.jpg",
-        "link_afiliado": "https://link.amazon/B0deCdydn"
-    },
-    {
-        "titulo": "Steck, Lâmpada Inteligente 7W, Steck Ambiente Conectado RGBW Wi-Fi, Bivolt",
-        "preco": "38,13",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://m.media-amazon.com/images/I/51SApcsUvNL._AC_UL320_.jpg",
-        "link_afiliado": "https://link.amazon/B05f31fKO"
-    },
-    {
-        "titulo": "YASHE Potes Herméticos para Alimentos 16 Peças (8 Potes + 8 Tampas) – Plástico BPA Free, Empilháveis, Micro-ondas e Free",
-        "preco": "40,88",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://m.media-amazon.com/images/I/81CJwKCRa3L._AC_UL320_.jpg",
-        "link_afiliado": "https://link.amazon/B04uMbR5D"
-    },
-    {
-        "titulo": "Mini Processador Elgin Turbo Press 150W Preto 110v",
-        "preco": "79,90",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://m.media-amazon.com/images/I/41vK4KpA1lL._AC_UL320_.jpg",
-        "link_afiliado": "https://link.amazon/B0ayVuowI"
-    },
-    {
-        "titulo": "Garrafa Térmica Inox 500ml Parede Dupla Tampa Rosqueável Academia Antivazamento (Prata)",
-        "preco": "32,99",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://m.media-amazon.com/images/I/517q+5-lPML._AC_UL320_.jpg",
-        "link_afiliado": "https://link.amazon/B0ieXhAhy"
-    },
-    {
-        "titulo": "Balança Digital de Precisão 0,1g a 2kg com Função Tara, Display LCD Iluminado, 6 Unidades de Pesagem e 2 Bandejas Inclus",
-        "preco": "21,90",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "🚚 *Frete GRÁTIS com Prime*",
-        "imagem": "https://m.media-amazon.com/images/I/61ygOrhL0LL._AC_UL320_.jpg",
-        "link_afiliado": "https://link.amazon/B0bNzdYiB"
     }
 ]
