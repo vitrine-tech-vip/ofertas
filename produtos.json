@@ -1,11 +1,11 @@
 [
     {
         "titulo": "Parafusadeira Furadeira De Impacto Profissio Furadeira Elétr",
-        "preco": "123,97",
+        "preco": "145,42",
         "preco_antigo": "",
         "desconto": "",
         "frete": "⚡ *Recomendação VIP*",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_840601-MLB98855965098_112025-R.webp",
+        "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_840601-MLB98855965098_112025-O.webp",
         "link_afiliado": "https://meli.la/1xSnQqL"
     },
     {
@@ -14,7 +14,7 @@
         "preco_antigo": "",
         "desconto": "",
         "frete": "⚡ *Recomendação VIP*",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_631192-MLA99628151612_122025-R.webp",
+        "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_631192-MLA99628151612_122025-O.webp",
         "link_afiliado": "https://meli.la/1CAvAgm"
     },
     {
@@ -23,8 +23,80 @@
         "preco_antigo": "",
         "desconto": "",
         "frete": "⚡ *Recomendação VIP*",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_935991-MLA99489146286_112025-R.webp",
+        "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_935991-MLA99489146286_112025-O.webp",
         "link_afiliado": "https://meli.la/1MTUoEP"
+    },
+    {
+        "titulo": "Kits de Meias Soquete Unissex Premium Masculina e Feminina",
+        "preco": "9,90",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "🔥 *Oferta Relâmpago*",
+        "imagem": "https://down-br.img.susercontent.com/file/br-11134207-820lq-mlhna1a2xeys44",
+        "link_afiliado": "https://s.shopee.com.br/9fJNjBbCGx"
+    },
+    {
+        "titulo": "Kit 3un Downy amaciante concentrado fragrância brisa de verão 500mL",
+        "preco": "49,89",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "🔥 *Oferta Relâmpago*",
+        "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m8na2pgw51n51c",
+        "link_afiliado": "https://s.shopee.com.br/4VbHZf8nuj"
+    },
+    {
+        "titulo": "40 Peças / 46 Peças Jogo De Chave Catraca Caixa De Ferramentas Completa Reversível Soquetes Maleta",
+        "preco": "29,90",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "🔥 *Oferta Relâmpago*",
+        "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-7rfi6-m96pnweedbdz0a",
+        "link_afiliado": "https://s.shopee.com.br/4AyRB1AwyR"
+    },
+    {
+        "titulo": "JBL, Fone de Ouvido Bluetooth Over-Ear, Tune 530BT, Sem Fio, Até 76 Horas de Bateria - Preto",
+        "preco": "173,13",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "🚚 *Seleção Amazon*",
+        "imagem": "https://m.media-amazon.com/images/I/61q9MOnS+2L._AC_SX569_.jpg",
+        "link_afiliado": "https://link.amazon/B00U2hicT"
+    },
+    {
+        "titulo": "Samsung Ar-condicionado Split Inverter WindFree AI 12.000 BTUs Frio Sem Vento AR12DYFAAWKNAZ 220V",
+        "preco": "2.199,00",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "🚚 *Seleção Amazon*",
+        "imagem": "https://m.media-amazon.com/images/I/61SqDV4ba2L._AC_SX466_.jpg",
+        "link_afiliado": "https://link.amazon/B06bX7xqZ"
+    },
+    {
+        "titulo": "Kit 12 Cuecas Boxer Reebok Masculinas Microfibra Adulto Box Sem Costura",
+        "preco": "119,99",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "🚚 *Seleção Amazon*",
+        "imagem": "https://m.media-amazon.com/images/I/61vNRjm1dHL._AC_SX679_.jpg",
+        "link_afiliado": "https://link.amazon/B0hCqgDk3"
+    },
+    {
+        "titulo": "Fones de Ouvido Bluetooth Sem Fio, 60h de Reprodução com LED Display, Esportivos com Gancho, IPX5 à Prova d'Água, Graves",
+        "preco": "134,46",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "🚚 *Seleção Amazon*",
+        "imagem": "https://m.media-amazon.com/images/I/719yVp0V5EL._AC_SX679_.jpg",
+        "link_afiliado": "https://link.amazon/B05dH07TQ"
+    },
+    {
+        "titulo": "JBL, Caixa de Som, Boombox 4, Bluetooth, Som JBL Pro, AI Sound Boost, Graves Personalizáveis, Bateria de até 34h, IP68, ",
+        "preco": "2.346,43",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "🚚 *Seleção Amazon*",
+        "imagem": "https://m.media-amazon.com/images/I/71FPDlwePVL._AC_SX679_.jpg",
+        "link_afiliado": "https://link.amazon/B09vHRPOR"
     },
     {
         "titulo": "Balança Alta Precisão Digital 0,01g A 500g Cozinha Alimento",
@@ -376,77 +448,5 @@
         "frete": "",
         "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m51gkui3kp0ybb",
         "link_afiliado": "https://s.shopee.com.br/5AqxTqC5bK"
-    },
-    {
-        "titulo": "Kit 3 Macacões Bebê Amore Vira Pé com Zíper Mais Vendidos Menino 100% Algodão",
-        "preco": "75,50",
-        "preco_antigo": "99,34",
-        "desconto": "(24% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-820lf-ml7t4vdbjfgk44",
-        "link_afiliado": "https://s.shopee.com.br/2VqCIwMF0Y"
-    },
-    {
-        "titulo": "3 Macacões Bebê Amore Mais Vendidos Vira Pé com Zíper Menina 100% Algodão",
-        "preco": "75,91",
-        "preco_antigo": "99,88",
-        "desconto": "(24% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhqaznmyy7eud2",
-        "link_afiliado": "https://s.shopee.com.br/2BDLuKNVgS"
-    },
-    {
-        "titulo": "TENIS FEMININO CASUAL PLATAFORMA MAIS VENDIDO E CONTÁVEL",
-        "preco": "49,99",
-        "preco_antigo": "54,93",
-        "desconto": "(9% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-820mb-mlxxwcmlb6ro81",
-        "link_afiliado": "https://s.shopee.com.br/7priek1wC6"
-    },
-    {
-        "titulo": "Conjunto Lanzinha mais vendidos casual Plus e cordão bolso moda feminina outono inverno 2026 despojado festa elegante.",
-        "preco": "79,90",
-        "preco_antigo": "99,88",
-        "desconto": "(20% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-820la-mmges2n5mhona2",
-        "link_afiliado": "https://s.shopee.com.br/1gH5JPPPhL"
-    },
-    {
-        "titulo": "Kit Mais Vendidos Blend Roll-on de Óleo Essenciais Infantil Soninho + Xô Cólica Tropfen",
-        "preco": "53,94",
-        "preco_antigo": "89,90",
-        "desconto": "(40% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/sg-11134201-81ztm-mmrk5nqw4ykkd5",
-        "link_afiliado": "https://s.shopee.com.br/8V7PRxzOqI"
-    },
-    {
-        "titulo": "Vestido Feminino Longo Canelado de Manga Longa Gola Alta Inverno Moda Casual Mais vendido",
-        "preco": "39,90",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-820lw-mo5hmzo0jlkw29",
-        "link_afiliado": "https://s.shopee.com.br/6fflGb6NYn"
-    },
-    {
-        "titulo": "Cortina para Sala Quarto Escritório Tons Mais Vendidos - 300x280 / 300x250 / 300x230",
-        "preco": "70,13",
-        "preco_antigo": "89,91",
-        "desconto": "(22% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg52duxkwjr910",
-        "link_afiliado": "https://s.shopee.com.br/4LHqUJFGI7"
-    },
-    {
-        "titulo": "Perfume Touti Vip - Mais Vendidos Luxo - Masculino Feminino Importados Escolha sua Fragrancia.",
-        "preco": "38,00",
-        "preco_antigo": "44,71",
-        "desconto": "(15% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mb0530cqv855a5",
-        "link_afiliado": "https://s.shopee.com.br/3VijUmIQyq"
     }
 ]
