@@ -1,5 +1,284 @@
 [
     {
+        "titulo": "3 formatos disponíveis",
+        "preco": "54,00",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "",
+        "imagem": "https://images-na.ssl-images-amazon.com/images/I/71lg0-EgSTL._AC_UL450_SR450,320_.jpg",
+        "link_afiliado": "https://link.amazon/B01gAPrUC"
+    },
+    {
+        "titulo": "Tênis Mizuno Calçado Mizuno Space 6 adulto-unissex",
+        "preco": "259,99",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "",
+        "imagem": "https://images-na.ssl-images-amazon.com/images/I/61bfecTnOzL._AC_UL450_SR450,320_.jpg",
+        "link_afiliado": "https://link.amazon/B00xi3eKL"
+    },
+    {
+        "titulo": "Filtro/Refil Original de Água Acqua Pure para Purificador Electrolux PE12A/PE12B/PE12G/PE12V/PE12P",
+        "preco": "68,90",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "",
+        "imagem": "https://images-na.ssl-images-amazon.com/images/I/61Wa-avvnwL._AC_UL450_SR450,320_.jpg",
+        "link_afiliado": "https://link.amazon/B0euv7NOa"
+    },
+    {
+        "titulo": "Suporte Para Notebook E MacBook em Alumínio com Altura Ajustável",
+        "preco": "20,99",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "",
+        "imagem": "https://images-na.ssl-images-amazon.com/images/I/61Ggc5CthJL._AC_UL450_SR450,320_.jpg",
+        "link_afiliado": "https://link.amazon/B0j9CnrOI"
+    },
+    {
+        "titulo": "OFF! Family Loção Repelente de Insetos e Mosquitos 200ml",
+        "preco": "25,44",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "",
+        "imagem": "https://images-na.ssl-images-amazon.com/images/I/51ofRa8hi0L._AC_UL165_SR165,165_.jpg",
+        "link_afiliado": "https://link.amazon/B0dBAlJM2"
+    },
+    {
+        "titulo": "Aquecedor A Ar, Mondial, Cinza/Branco, 2000W, 220V - A-08",
+        "preco": "99,00",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "",
+        "imagem": "https://images-na.ssl-images-amazon.com/images/I/61Af2D6mMzL._AC_UL450_SR450,320_.jpg",
+        "link_afiliado": "https://link.amazon/B06IaSWTn"
+    },
+    {
+        "titulo": "Refletor Super Premium Led Holofote 3000w Pdágua Bivolt Frio 127/220v Preto Branco-frio",
+        "preco": "78,99",
+        "preco_antigo": "255,00",
+        "desconto": "(69,02% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_702298-MLB100383382175_122025-AB--refletor-super-premium-led-holofote-3000w-pdagua-bivolt-frio.webp",
+        "link_afiliado": "https://meli.la/1QYUL5e"
+    },
+    {
+        "titulo": "Kit Com 10 Envelopes 3o Lote 70 Cromos Copa Do Mundo Fifa 26",
+        "preco": "45,22",
+        "preco_antigo": "128,90",
+        "desconto": "(64,92% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_653831-MLB110126921171_042026-AB--kit-com-10-envelopes-3o-lote-70-cromos-copa-do-mundo-fifa-26.webp",
+        "link_afiliado": "https://meli.la/1uCXCsA"
+    },
+    {
+        "titulo": "Câmera Segurança Ip Externa Wifi A28 App Icsee À Prova Dágua Ip66 Dome Lente Dupla Lentes 2 Em 1 Vigilancia Visão Noturna Infravermelho  4k Uhd Nova Geração Lançamento 2026 Nexgen",
+        "preco": "105,71",
+        "preco_antigo": "200,00",
+        "desconto": "(47,15% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_927792-MLB91185357960_092025-AB--camera-seguranca-ip-externa-wifi-a28-app-icsee-a-prova-dagua.webp",
+        "link_afiliado": "https://meli.la/1wnHSEW"
+    },
+    {
+        "titulo": "Controle Joystick Sem Fio Sony PlayStation 5 DualSense Midnight Black",
+        "preco": "377,52",
+        "preco_antigo": "699,00",
+        "desconto": "(45,99% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_886577-MLA84549540358_052025-AB.webp",
+        "link_afiliado": "https://meli.la/2QtwP5T"
+    },
+    {
+        "titulo": "Papel Higiênico Supra Folha Tripla 24 Rolos",
+        "preco": "29,90",
+        "preco_antigo": "52,89",
+        "desconto": "(43,47% OFF)",
+        "frete": "",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_968384-MLA109938381052_042026-AB.webp",
+        "link_afiliado": "https://meli.la/1iUxYnX"
+    },
+    {
+        "titulo": "Kit De Cílios Postiços Para Festa , Estilos Dramáticos 30D Naturais A 80D Com Cola E Pinça , Conjunto DIY Multiolhado Fe",
+        "preco": "27,43",
+        "preco_antigo": "31,53",
+        "desconto": "(13% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/sg-11134301-7ra2r-mbni3jhtjmh988",
+        "link_afiliado": "https://s.shopee.com.br/4VbP6TCLN1"
+    },
+    {
+        "titulo": "Bastão De Cera Para Escultura Refrescante Tame Flyaways E Adiciona Volume , Estilo De Cabelo Sólido",
+        "preco": "12,78",
+        "preco_antigo": "27,19",
+        "desconto": "(53% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/sg-11134201-823qs-mp4lxrt37v2af4",
+        "link_afiliado": "https://s.shopee.com.br/4AyYhrDc2v"
+    },
+    {
+        "titulo": "Escova De Cabelo De Bambu Antiestática Massagem No Couro Cabeludo Almofada De Ar Ferramenta De Estilo Presente De Cuidad",
+        "preco": "13,59",
+        "preco_antigo": "27,73",
+        "desconto": "(51% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/sg-11134201-823og-mp4m2rkvpzpd9c",
+        "link_afiliado": "https://s.shopee.com.br/Llq8oSCp4"
+    },
+    {
+        "titulo": "Kit 15 Pincéis + 10 Boleadores Em 5 Pincéis Manicure Desenho(Monica Fashion)",
+        "preco": "12,99",
+        "preco_antigo": "24,06",
+        "desconto": "(46% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134201-820lc-mqxzmwvve9s477",
+        "link_afiliado": "https://s.shopee.com.br/7fYQsI0Hwo"
+    },
+    {
+        "titulo": "Lixa Elétrica Unhas Aparelho Lixador De Unha Portátil Polidor Sem Fio Manicure Unhas(Monica Fashion)",
+        "preco": "12,99",
+        "preco_antigo": "35,11",
+        "desconto": "(63% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lqvuejt39ni3fc",
+        "link_afiliado": "https://s.shopee.com.br/7KvaTg1Yci"
+    },
+    {
+        "titulo": "ANA 1108 Pente De 10 Peças Com Ferramenta De Trança E Clipe De Bico De Pato Estilo/Escova De Cabelo-INLIS",
+        "preco": "10,00",
+        "preco_antigo": "14,93",
+        "desconto": "(33% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-mlkywujirll295",
+        "link_afiliado": "https://s.shopee.com.br/4LHyuACyhy"
+    },
+    {
+        "titulo": "New Show Pente De 10 Peças Com Ferramenta De Trança E Clipe De Bico De Pato Estilo/Escova De Cabelo",
+        "preco": "10,10",
+        "preco_antigo": "15,07",
+        "desconto": "(33% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-mlkywujirll295",
+        "link_afiliado": "https://s.shopee.com.br/W5GL7RZU7"
+    },
+    {
+        "titulo": "ANA 1108 Pente De 10 Peças Com Ferramenta De Trança E Clipe De Bico De Pato Estilo/Escova De Cabelo-Rich",
+        "preco": "10,10",
+        "preco_antigo": "15,07",
+        "desconto": "(33% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-mlkywujirll295",
+        "link_afiliado": "https://s.shopee.com.br/80BHGtz1GH"
+    },
+    {
+        "titulo": "ANA 1108 Pente De 10 Peças Com Ferramenta De Trança E Clipe De Bico De Pato Estilo/Escova De Cabelo-GUI ANA",
+        "preco": "10,10",
+        "preco_antigo": "15,07",
+        "desconto": "(33% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-mlkywujirll295",
+        "link_afiliado": "https://s.shopee.com.br/903oSjvDER"
+    },
+    {
+        "titulo": "Conjunto De Bastão De Cera De Cabelo/Pente De 3 Fileiras De Cerdas De Javali Flyaways Estilo Liso E Para Perucas",
+        "preco": "32,53",
+        "preco_antigo": "37,83",
+        "desconto": "(14% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/sg-11134201-823ri-mp4mm84qo00c73",
+        "link_afiliado": "https://s.shopee.com.br/3LPRiKGmjo"
+    },
+    {
+        "titulo": "Escova De Cabelo 5 Peças Conjunto Unisex Adulto Ferramentas Estilo Barba Aliciamento Para Cabelos Grossos Encaracolados ",
+        "preco": "25,75",
+        "preco_antigo": "48,58",
+        "desconto": "(47% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/sg-11134201-823qr-mp4nbutudy4t39",
+        "link_afiliado": "https://s.shopee.com.br/20u47sLrRA"
+    },
+    {
+        "titulo": "Kit Cronograma Capilar Kids para Menino - Fashion Gold",
+        "preco": "215,90",
+        "preco_antigo": "260,12",
+        "desconto": "(17% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-820le-mm0gsfaaisqs16",
+        "link_afiliado": "https://s.shopee.com.br/7prr4azebr"
+    },
+    {
+        "titulo": "Escova Cabelo Pente Cilíndrico Estilo Profissional Salão de Beleza Barbearia",
+        "preco": "23,80",
+        "preco_antigo": "59,50",
+        "desconto": "(60% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-mqw4eq02nd38ea",
+        "link_afiliado": "https://s.shopee.com.br/7VF0fz0vHl"
+    },
+    {
+        "titulo": "Escova De Cabelo De Madeira , Massagem Suave Vermelha Do Couro Cabeludo Desembaraçador Estilo Diário Antiestático Para H",
+        "preco": "13,26",
+        "preco_antigo": "26,52",
+        "desconto": "(50% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/sg-11134201-823pw-mp4mskrbbzls89",
+        "link_afiliado": "https://s.shopee.com.br/18zkCTTUy"
+    },
+    {
+        "titulo": "Novo Estilo de Tesouras para Cutículas Ferramentas de Cuidado das Unhas Cortadores de Pele Morta e Precisão Aleatória",
+        "preco": "11,13",
+        "preco_antigo": "13,57",
+        "desconto": "(18% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/sg-11134201-823od-mp4msdadc4r254",
+        "link_afiliado": "https://s.shopee.com.br/1gHDjGN87C"
+    },
+    {
+        "titulo": "Conjunto De Pente De 10 Peças Com Ferramenta De Trança E Clipe De Bico De Pato Estilo , Escova De Cabelo",
+        "preco": "13,35",
+        "preco_antigo": "26,18",
+        "desconto": "(49% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/sg-11134201-82607-mjl7s9zhhcslc0",
+        "link_afiliado": "https://s.shopee.com.br/8V7Xrox7FO"
+    },
+    {
+        "titulo": "Tesouras de Aço Inoxidável Estilo Barb/Russo de Alta Qualidade para Cutículas, Tesoura de Corte Reto para Remoção de",
+        "preco": "20,30",
+        "preco_antigo": "81,20",
+        "desconto": "(75% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/sg-11134201-823rd-mp4mspy6b47hd9",
+        "link_afiliado": "https://s.shopee.com.br/6fftgS45ye"
+    },
+    {
+        "titulo": "Koasis Unhas Postiças 24 Peças | Estilo Euro-Americano Coloridas  Visual Incrível Instantaneamente",
+        "preco": "26,00",
+        "preco_antigo": "56,52",
+        "desconto": "(54% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mifbgf0vx4htf0",
+        "link_afiliado": "https://s.shopee.com.br/50XfhOARM2"
+    },
+    {
+        "titulo": "Kit 5 Escovas de Cabelo  + Touca de Cetim – Raquete Fashion, Mágica, Polvo, Massageadora de Silicone",
+        "preco": "26,50",
+        "preco_antigo": "31,93",
+        "desconto": "(17% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-may3rf8imbnze8",
+        "link_afiliado": "https://s.shopee.com.br/111Ww2PfT8"
+    },
+    {
+        "titulo": "Esponja Nudred Buchinha de Enrolar ESTILO AFRO",
+        "preco": "13,86",
+        "preco_antigo": "14,00",
+        "desconto": "(1% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/sg-11134201-22100-n49d03msr0iv40",
+        "link_afiliado": "https://s.shopee.com.br/3B61W1HQ4t"
+    },
+    {
         "titulo": "Tramontina JOGO FACAS INOX 4PC PLENUS PRE, Preto",
         "preco": "29,90",
         "preco_antigo": "",
@@ -169,284 +448,5 @@
         "frete": "",
         "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhcbgug5ujnk70",
         "link_afiliado": "https://s.shopee.com.br/30marr72dH"
-    },
-    {
-        "titulo": "kit 2 Calças Saga Moletom Masculina Algodão Treino Confortável Oferta Relâmpago top premium",
-        "preco": "93,80",
-        "preco_antigo": "140,00",
-        "desconto": "(33% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m97mhma1hdfd9c",
-        "link_afiliado": "https://s.shopee.com.br/903o0skCT1"
-    },
-    {
-        "titulo": "Short Jeans Feminino Cintura Alta Cós Alto Barra Dobrada da Moda Empina Bumbum Oferta Relâmpago!",
-        "preco": "47,98",
-        "preco_antigo": "49,98",
-        "desconto": "(4% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134201-820mb-mqx9xexn4m4n33",
-        "link_afiliado": "https://s.shopee.com.br/1gHDHPC7LP"
-    },
-    {
-        "titulo": "Oferta RELÂMPAGO Kit Completo:3 Roupinhas para pet - a partir de 35,99- 100% Soft e Confortáveis -Machos e Fêmeas!Oferta",
-        "preco": "26,99",
-        "preco_antigo": "35,99",
-        "desconto": "(25% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-820lv-mplipvxxut4y80",
-        "link_afiliado": "https://s.shopee.com.br/1BKwgUE1ME"
-    },
-    {
-        "titulo": "【Oferta Relâmpago da Loja】Mochila Bolsa Coreana Feminina Escolar-Trabalho-Viagem",
-        "preco": "48,99",
-        "preco_antigo": "90,72",
-        "desconto": "(46% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mejbli3v4iypf0",
-        "link_afiliado": "https://s.shopee.com.br/2LWu4d9Zzb"
-    },
-    {
-        "titulo": "Bota Adventure Militar Coturno Masculino REF:1713  Promoção Oferta Relâmpago",
-        "preco": "79,12",
-        "preco_antigo": "89,91",
-        "desconto": "(12% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/sg-11134201-22110-u3u05rl4u6jvf2",
-        "link_afiliado": "https://s.shopee.com.br/2VqKGw8wec"
-    },
-    {
-        "titulo": "Bota Coturno Masculina Linha Premium 100%Couro REF: 1713 Oferta Relâmpago Promoção",
-        "preco": "79,12",
-        "preco_antigo": "89,91",
-        "desconto": "(12% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/sg-11134201-22100-6j9sun5p3niv0e",
-        "link_afiliado": "https://s.shopee.com.br/1Vxn56CkgK"
-    },
-    {
-        "titulo": "Tênis Feminino Casual Menina Masculino Branco Cinza Rosa - 34 ao 43 - Oferta Relâmpago Promoção",
-        "preco": "52,96",
-        "preco_antigo": "129,17",
-        "desconto": "(59% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-820m4-mo8jdd4d0av8e0",
-        "link_afiliado": "https://s.shopee.com.br/4LHySJ1xvf"
-    },
-    {
-        "titulo": "Tênis Casual Masculino Feminino Unissex Confortável Urbano Estilo Streetwear Do 34 ao 43 Promoção",
-        "preco": "52,96",
-        "preco_antigo": "129,17",
-        "desconto": "(59% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mqhnyhm9569vfb",
-        "link_afiliado": "https://s.shopee.com.br/40f83h3EbZ"
-    },
-    {
-        "titulo": "Touca de Natação, Speedo, Flat Cap, Silicone Resistente com Encaixe Confortável,Tamanho Único",
-        "preco": "29,90",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://images-na.ssl-images-amazon.com/images/I/51baqU9RjNL._AC_UL450_SR450,320_.jpg",
-        "link_afiliado": "https://link.amazon/B084LzVmH"
-    },
-    {
-        "titulo": "Chaleira Elétrica Inox 1,8 Litro (220v)",
-        "preco": "39,90",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://images-na.ssl-images-amazon.com/images/I/51WJdH6XEyL._AC_UL450_SR450,320_.jpg",
-        "link_afiliado": "https://link.amazon/B0blXAzUe"
-    },
-    {
-        "titulo": "MONDIAL Liquidificador Turbo Power, Preto, 550W, 220V - L-99 FB",
-        "preco": "93,99",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://images-na.ssl-images-amazon.com/images/I/71KFAoTV+hL._AC_UL450_SR450,320_.jpg",
-        "link_afiliado": "https://link.amazon/B031pb8NR"
-    },
-    {
-        "titulo": "Pack Dog Chow Ração Úmida Adultos Frango - Com 15 Sachês 100g",
-        "preco": "42,49",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://images-na.ssl-images-amazon.com/images/I/61C-IsqlSSL._AC_UL165_SR165,165_.jpg",
-        "link_afiliado": "https://link.amazon/B0a7StiDd"
-    },
-    {
-        "titulo": "Mor Life - Colchão Inflável Multiuso Solteiro com Fole",
-        "preco": "70,00",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://images-na.ssl-images-amazon.com/images/I/41zPnlgASFL._AC_UL450_SR450,320_.jpg",
-        "link_afiliado": "https://link.amazon/B0e3mDscb"
-    },
-    {
-        "titulo": "WD-40 Fórmula Original - Produto Multiusos Aerossol 300ml",
-        "preco": "39,39",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://images-na.ssl-images-amazon.com/images/I/41QHjZtHueL._AC_UL450_SR450,320_.jpg",
-        "link_afiliado": "https://link.amazon/B0h6yP8ln"
-    },
-    {
-        "titulo": "Romantic Crown Mochila Feminino Masculino Viagem Expansível para Notebook",
-        "preco": "113,98",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://images-na.ssl-images-amazon.com/images/I/61ov9flqL+L._AC_UL450_SR450,320_.jpg",
-        "link_afiliado": "https://link.amazon/B0162dshu"
-    },
-    {
-        "titulo": "Câmera Inteligente Im7 + 3mp De Resolução Branca Intelbras",
-        "preco": "361,25",
-        "preco_antigo": "749,00",
-        "desconto": "(51,77% OFF)",
-        "frete": "⚡ *Frete FULL / GRÁTIS*",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_892568-MLA99939109103_112025-AB.webp",
-        "link_afiliado": "https://meli.la/2YLNoLH"
-    },
-    {
-        "titulo": "Hub USB-C Hiearcool Multiporta 8-em-1 com HDMI 4K 60Hz e Ethernet Gigabit",
-        "preco": "124,00",
-        "preco_antigo": "159,00",
-        "desconto": "(22,01% OFF)",
-        "frete": "⚡ *Frete FULL / GRÁTIS*",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_693408-MLA85969468746_062025-AB.webp",
-        "link_afiliado": "https://meli.la/2UqA1CX"
-    },
-    {
-        "titulo": "Creatina Monohidratada Pura 1kg Dark Lab Unidade Sem sabor",
-        "preco": "59,90",
-        "preco_antigo": "159,90",
-        "desconto": "(62,54% OFF)",
-        "frete": "⚡ *Frete FULL / GRÁTIS*",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_848860-MLA99964507641_112025-AB.webp",
-        "link_afiliado": "https://meli.la/2ec44db"
-    },
-    {
-        "titulo": "Air Fryer Oven Philco 11L 8 Funções Visor 1800W PAF11B",
-        "preco": "409,50",
-        "preco_antigo": "579,00",
-        "desconto": "(29,27% OFF)",
-        "frete": "⚡ *Frete FULL / GRÁTIS*",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_633098-MLA92276027266_092025-AB.webp",
-        "link_afiliado": "https://meli.la/1kckpbj"
-    },
-    {
-        "titulo": "Parafusadeira Furadeira C/ 2 Baterias Maleta Kit Completo Led Eixo Flexível Vários Níveis Torque Simake",
-        "preco": "118,79",
-        "preco_antigo": "299,00",
-        "desconto": "(60,27% OFF)",
-        "frete": "⚡ *Frete FULL / GRÁTIS*",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_641541-MLA111608975062_062026-AB.webp",
-        "link_afiliado": "https://meli.la/2w1gSG6"
-    },
-    {
-        "titulo": "Vestido  Envio Rápido casual mais vendidos  fenda lateral MIDI de bolso  moda feminina  verão  festa tubinho",
-        "preco": "22,99",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-820lh-mpxz2b1tmeiqf1",
-        "link_afiliado": "https://s.shopee.com.br/6L303ldyhr"
-    },
-    {
-        "titulo": "Promoção Mesa Para Computador Compacta A Mais Vendida Móveis Bonatto",
-        "preco": "78,98",
-        "preco_antigo": "168,04",
-        "desconto": "(53% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/sg-11134201-7ra1h-m4yw92atxoyf15",
-        "link_afiliado": "https://s.shopee.com.br/5q6jSqfsig"
-    },
-    {
-        "titulo": "Conjunto Lanzinha Envio Rápido mais vendidos casual  capuz cordão bolso moda feminina outono inverno  despojado elegante",
-        "preco": "60,67",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-820mh-mor2x1xb7xfkcc",
-        "link_afiliado": "https://s.shopee.com.br/4LHvg5lalH"
-    },
-    {
-        "titulo": "Conjunto  Envio Rápido casual mais vendidos Lanzinha Bolso e touca com cordão punho moda feminina outono inverno festa",
-        "preco": "59,81",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mp41z8y3wg052b",
-        "link_afiliado": "https://s.shopee.com.br/4VbLsOkxQI"
-    },
-    {
-        "titulo": "Panela De Pressão 4,5litros Panelux Linha Classic Alto Brilho A Mais Vendida Do Brasil",
-        "preco": "57,90",
-        "preco_antigo": "115,80",
-        "desconto": "(50% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/sg-11134201-7req7-m8d92yugiftd53",
-        "link_afiliado": "https://s.shopee.com.br/40f5HTmrRB"
-    },
-    {
-        "titulo": "TOP Mais Vendidos Brand Collection 25 ml Miniatura  luxo Eua de Parfum Alta fixação",
-        "preco": "38,90",
-        "preco_antigo": "99,74",
-        "desconto": "(61% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mnx7szci2k1uc5",
-        "link_afiliado": "https://s.shopee.com.br/W5D730BY9"
-    },
-    {
-        "titulo": "Kit Festa com as Balas Mais Vendidas - Yogurte 100, Bolete, 7Belo ou Lua Cheia! Escolha o seu!",
-        "preco": "28,60",
-        "preco_antigo": "31,09",
-        "desconto": "(8% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-820l5-moa4n4su7bib32",
-        "link_afiliado": "https://s.shopee.com.br/5fnJGXgW3f"
-    },
-    {
-        "titulo": "Buquê de Rosas com Folhagem C/24 Flores, Buquê de Noiva, Buquê de Casamento. No.1 Mais Vendidos !!!",
-        "preco": "35,88",
-        "preco_antigo": "57,87",
-        "desconto": "(38% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mb0avxpgctmhc5",
-        "link_afiliado": "https://s.shopee.com.br/7prnqWYGfG"
-    },
-    {
-        "titulo": "TÊNIS TRATORADO FEMININO MAIS VENDIDO PERFEITO PRO DIA DIA",
-        "preco": "48,80",
-        "preco_antigo": "80,00",
-        "desconto": "(39% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjhjd1awlb7qd2",
-        "link_afiliado": "https://s.shopee.com.br/1LeK6Zx0rS"
-    },
-    {
-        "titulo": "Chaleira Elétrica Inox 1.8L 1500W Desligamento Automático Para Café e Chá",
-        "preco": "51,99",
-        "preco_antigo": "79,98",
-        "desconto": "(35% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-820m0-moic7itn75s663",
-        "link_afiliado": "https://s.shopee.com.br/9fJS1tRHwp"
-    },
-    {
-        "titulo": "Kit com 20 unidades de Temperos e Condimentos para sua Cozinha mais vendido temperos e condimentos",
-        "preco": "19,75",
-        "preco_antigo": "38,73",
-        "desconto": "(49% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-mqx9i4cgq0as75",
-        "link_afiliado": "https://s.shopee.com.br/7fYNeDYu0F"
     }
 ]
