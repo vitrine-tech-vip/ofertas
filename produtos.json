@@ -1,5 +1,365 @@
 [
     {
+        "titulo": "Luminária LED Ecospot Inteligente 5W 3000-6500k Elgin Redonda WIFI RGB Bivolt Compatível com Alexa e Google Home",
+        "preco": "59,00",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "",
+        "imagem": "https://m.media-amazon.com/images/I/61Hb6xuWsUL._AC_UL320_.jpg",
+        "link_afiliado": "https://link.amazon/B0075kTH9"
+    },
+    {
+        "titulo": "Xiaomi Redmi Buds 6 Play | Driver din�mico de 10 mm | Redu��o de ru�do AI | Bateria at� 36 horas | Bluetooth 5.4 | Contr",
+        "preco": "94,29",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "",
+        "imagem": "https://images-na.ssl-images-amazon.com/images/I/51uvnyZHbyL._AC_UL165_SR165,165_.jpg",
+        "link_afiliado": "https://link.amazon/B0iOKRSG8"
+    },
+    {
+        "titulo": "O terceiro chimpanzé: A evolução e o futuro do ser humano",
+        "preco": "105,84",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "",
+        "imagem": "https://images-na.ssl-images-amazon.com/images/I/71aBmfFWx9L._AC_UL165_SR165,165_.jpg",
+        "link_afiliado": "https://link.amazon/B0h7k4IiU"
+    },
+    {
+        "titulo": "Steck, Lâmpada Rgb+ 12W Wi-Fi Ble, Ambiente Conectado, SLAMP1",
+        "preco": "41,00",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "",
+        "imagem": "https://m.media-amazon.com/images/I/41EkdDsCviL._AC_UL320_.jpg",
+        "link_afiliado": "https://link.amazon/B00lhgHst"
+    },
+    {
+        "titulo": "Re:Zero - Começando uma Vida em Outro Mundo - Livro 17",
+        "preco": "21,52",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "",
+        "imagem": "https://images-na.ssl-images-amazon.com/images/I/81lIUhVmFRL._AC_UL165_SR165,165_.jpg",
+        "link_afiliado": "https://link.amazon/B0abp1O6R"
+    },
+    {
+        "titulo": "Xiaomi Redmi Buds 6 Play | Ultraleve, Para Estudantes",
+        "preco": "95,50",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "",
+        "imagem": "https://images-na.ssl-images-amazon.com/images/I/51DVGGv77KL._AC_UL165_SR165,165_.jpg",
+        "link_afiliado": "https://link.amazon/B0hcM95On"
+    },
+    {
+        "titulo": "Reviravolta: Como indivíduos e nações bem-sucedidas se recuperam das crises",
+        "preco": "103,17",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "",
+        "imagem": "https://images-na.ssl-images-amazon.com/images/I/81hioUW7K-L._AC_UL165_SR165,165_.jpg",
+        "link_afiliado": "https://link.amazon/B0idIs0Ir"
+    },
+    {
+        "titulo": "Garrafa Térmica 750ml – 24h Gelada, Alça Paracord, Base Antiderrapante, Tampa Antivazamento, sem BPA (Laranja)",
+        "preco": "49,99",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "🚚 *Frete GRÁTIS com Prime*",
+        "imagem": "https://m.media-amazon.com/images/I/61cQPDvIIwL._AC_UL320_.jpg",
+        "link_afiliado": "https://link.amazon/B03ocuCLh"
+    },
+    {
+        "titulo": "PHILIPS, Headphone Bluetooth, TAH2209, Até 25 horas de bateria, Preto",
+        "preco": "101,15",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "🚚 *Frete GRÁTIS com Prime*",
+        "imagem": "https://m.media-amazon.com/images/I/41jjoSyX37L._AC_UL320_.jpg",
+        "link_afiliado": "https://link.amazon/B00FTRA73"
+    },
+    {
+        "titulo": "soundcore P30i da Anker, Fone de Ouvido Bluetooth 5.4 com Cancelamento de Ruído Adaptativo, Graves Poderosos, 45H de Rep",
+        "preco": "187,05",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "🚚 *Frete GRÁTIS com Prime*",
+        "imagem": "https://m.media-amazon.com/images/I/51o-AcAQWgL._AC_UL320_.jpg",
+        "link_afiliado": "https://link.amazon/B0gCZyvZu"
+    },
+    {
+        "titulo": "JBL, Fone de Ouvido Bluetooth Over-Ear, Tune 730BT, Sem Fio, Até 76 Horas de Bateria - Preto",
+        "preco": "265,00",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "🚚 *Frete GRÁTIS com Prime*",
+        "imagem": "https://m.media-amazon.com/images/I/61dRLHx9tpL._AC_UL320_.jpg",
+        "link_afiliado": "https://link.amazon/B07EDMZcH"
+    },
+    {
+        "titulo": "Razer DeathAdder Essential White Edition Mouse Gamer com Fio | Sensor Óptico 6.400 DPI | Design Ergonômico | 5 Botões Pr",
+        "preco": "199,74",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "",
+        "imagem": "https://m.media-amazon.com/images/I/51Wn57OxWAL._AC_SR160,134_CB1169409_QL70_.jpg",
+        "link_afiliado": "https://link.amazon/A00UnyM6j"
+    },
+    {
+        "titulo": "Colapso",
+        "preco": "157,61",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "",
+        "imagem": "https://images-na.ssl-images-amazon.com/images/I/A1ybPZVzBeL._AC_UL165_SR165,165_.jpg",
+        "link_afiliado": "https://link.amazon/B0esCrHH6"
+    },
+    {
+        "titulo": "Mouse Gamer sem fio Logitech G309 LIGHTSPEED com Switches LIGHTFORCE, Sensor HERO 25K, 6 botões programáveis, Compatível",
+        "preco": "335,00",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "",
+        "imagem": "https://m.media-amazon.com/images/I/61U1x0-SJ7L._AC_UL320_.jpg",
+        "link_afiliado": "https://link.amazon/B0dtbWl6u"
+    },
+    {
+        "titulo": "Frieren e a Jornada Para o Além - 02",
+        "preco": "33,25",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "",
+        "imagem": "https://images-na.ssl-images-amazon.com/images/I/91R680Ay+YL._AC_UL165_SR165,165_.jpg",
+        "link_afiliado": "https://link.amazon/B06teqQiM"
+    },
+    {
+        "titulo": "Cadeira de Escritório Giratória HomeNow Columbus Presidente Preta com Tela Mesh",
+        "preco": "283,95",
+        "preco_antigo": "494,98",
+        "desconto": "(42,63% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_651752-MLA95643261450_102025-AB.webp",
+        "link_afiliado": "https://meli.la/1rBpXAe"
+    },
+    {
+        "titulo": "Kit 2 Câmeras Segurança Ip Interna Externa Wifi iCSee Infravermelho Prova D’Água - HW",
+        "preco": "183,02",
+        "preco_antigo": "339,00",
+        "desconto": "(46,01% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_901090-MLA99414404486_112025-AB.webp",
+        "link_afiliado": "https://meli.la/1jSnQfq"
+    },
+    {
+        "titulo": "Kit 10 Potes Herméticos Vidro 640ml Starhouse Marmita Forno Micro-ondas Airfryer com 4 travas de super vedação",
+        "preco": "95,00",
+        "preco_antigo": "189,99",
+        "desconto": "(50,00% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_942823-MLA113526261849_062026-AB.webp",
+        "link_afiliado": "https://meli.la/1SmbTnM"
+    },
+    {
+        "titulo": "Gloss Fran By Franciny Ehlke Liphoney Mel Liphoney-mel",
+        "preco": "19,99",
+        "preco_antigo": "69,99",
+        "desconto": "(71,44% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_855365-MLB95050151929_102025-AB--gloss-fran-by-franciny-ehlke-liphoney-mel.webp",
+        "link_afiliado": "https://meli.la/2eHUdjF"
+    },
+    {
+        "titulo": "Barbeador e Aparador Elétrico Philips OneBlade com Pente 5 em 1, Sem Fio e À Prova D'Água - QP1425/10",
+        "preco": "146,93",
+        "preco_antigo": "212,38",
+        "desconto": "(30,82% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_783146-MLA111544883867_052026-AB.webp",
+        "link_afiliado": "https://meli.la/1keuAFw"
+    },
+    {
+        "titulo": "Terminal Elétrico Automotivo 90/180/270 PCS Macho e Fêmea",
+        "preco": "20,00",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m595rwzbw7et6c",
+        "link_afiliado": "https://s.shopee.com.br/1gHEt8CaUa"
+    },
+    {
+        "titulo": "5 Pcs Kit De Lâmpada Led 5pcs Peças De Impressora 3D Hardware Modelo DIY Luz Branca/Fria/Quente De Sobressalentes Para M",
+        "preco": "74,99",
+        "preco_antigo": "124,98",
+        "desconto": "(40% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134201-820ma-mqy70eik01l267",
+        "link_afiliado": "https://s.shopee.com.br/gOhhIGOWM"
+    },
+    {
+        "titulo": "2/4/6 pçs Fecho Trava Tranca Angular em L 90° Gavetas Portas Janelas Tramela Trinco, Canto Janela Fechadura Porta moveis",
+        "preco": "23,27",
+        "preco_antigo": "83,11",
+        "desconto": "(72% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/sg-11134201-824ie-mflx8gaxi2vha9",
+        "link_afiliado": "https://s.shopee.com.br/9Kgg1DjOwN"
+    },
+    {
+        "titulo": "2/4/6 Pcs Dobradiças de porta de armário de vidro de 90 graus sem abertura Clipe de porta de armário de vinho Dobradiças",
+        "preco": "43,58",
+        "preco_antigo": "73,86",
+        "desconto": "(41% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/sg-11134201-824in-mf3tliz8pix7ab",
+        "link_afiliado": "https://s.shopee.com.br/7AcBREreLA"
+    },
+    {
+        "titulo": "5 Pcs Kit De Lâmpada LED 5pcs Peças De Impressora 3D Hardware Modelo DIY Luz Branca/Fria/Quente Ajustável Para Sobressal",
+        "preco": "84,74",
+        "preco_antigo": "176,54",
+        "desconto": "(52% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134201-820m6-mqygl25cp3wmbc",
+        "link_afiliado": "https://s.shopee.com.br/2VqLsf9Pnp"
+    },
+    {
+        "titulo": "10 Pçs / Set Bloqueio Pick Set Chave Quebrado Remover Auto Ferramentas Chave Ferramentas Extrator L Heiro",
+        "preco": "16,21",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/ed78cdf5085524cac33f67f4e1452e78",
+        "link_afiliado": "https://s.shopee.com.br/30mcTa7VnV"
+    },
+    {
+        "titulo": "NAIERDI 12 Pçs Conjunto De Picareta Bloqueio Suprimentos Serralheiro Chave Quebrada Extrator Automático Remover Ganchos ",
+        "preco": "11,99",
+        "preco_antigo": "23,98",
+        "desconto": "(50% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/9dddbeb048ace74f7d32e6d0052f2ea7",
+        "link_afiliado": "https://s.shopee.com.br/6pzL2csv18"
+    },
+    {
+        "titulo": "2 Pcs Fechadura para portas e janelas de correr em alumínio",
+        "preco": "29,99",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mf52yjfvzeoe51",
+        "link_afiliado": "https://s.shopee.com.br/111Y5uF7qO"
+    },
+    {
+        "titulo": "Dobradiça Porta 3025 Rolamento Bronze Oxidado Antiquete Pado Cartela C/ 3 Pçs",
+        "preco": "45,99",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98p-llunvhx8ialz5a",
+        "link_afiliado": "https://s.shopee.com.br/5fnNeTxMNl"
+    },
+    {
+        "titulo": "6 Guia Deslizante Porta De Correr Armário Guarda-roupa 6 Pçs",
+        "preco": "18,91",
+        "preco_antigo": "19,91",
+        "desconto": "(5% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rcd0-lsk7ixvo947od3",
+        "link_afiliado": "https://s.shopee.com.br/AKZDD3faub"
+    },
+    {
+        "titulo": "Dobradiça Sm 3025 R Acr  Pado Rolamento Aço Cromado C/ 3 Pçs",
+        "preco": "32,99",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134201-22120-kslhsu2unkkve8",
+        "link_afiliado": "https://s.shopee.com.br/80BIQloTdz"
+    },
+    {
+        "titulo": "2 Pino Guia Para Porta De Correr Madeira Rolete 9mm 12mm 2 Pçs",
+        "preco": "15,11",
+        "preco_antigo": "15,91",
+        "desconto": "(5% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rcc4-lt2rz7lp0wgxda",
+        "link_afiliado": "https://s.shopee.com.br/2LWvgMA38m"
+    },
+    {
+        "titulo": "Kit 2 Roldanas Para Porta Guarda Roupa Armário Com Mola 2 Pçs",
+        "preco": "27,46",
+        "preco_antigo": "28,91",
+        "desconto": "(5% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-mo9x2ywkr4lh12",
+        "link_afiliado": "https://s.shopee.com.br/1VxogpDDpb"
+    },
+    {
+        "titulo": "1-3 Pcs Trava de Segurança Para Geladeira Gavetas Multiuso Adesiva Protetor Infantíl Fechadura Porta Armário",
+        "preco": "11,90",
+        "preco_antigo": "34,00",
+        "desconto": "(65% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-820md-mmlmkzaknnrbff",
+        "link_afiliado": "https://s.shopee.com.br/1qaf5RBx9d"
+    },
+    {
+        "titulo": "Kit 12 Pçs Dobradiça Polida Reforçada 3 Direto Da Fábrica",
+        "preco": "28,13",
+        "preco_antigo": "40,19",
+        "desconto": "(30% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lvkerf4xwbqn26",
+        "link_afiliado": "https://s.shopee.com.br/qi7tbFlBP"
+    },
+    {
+        "titulo": "Parafusos De Expansão Galvanizados Jack Nuts 10/25/50/100 PCS Hardware De Fixação De Placa De Metal E Alumínio",
+        "preco": "23,90",
+        "preco_antigo": "58,29",
+        "desconto": "(59% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mjza438awwskbd",
+        "link_afiliado": "https://s.shopee.com.br/5LAXFryd3j"
+    },
+    {
+        "titulo": "1-2 PCS Dobradiças de Fecho de Porta Automático de Aço Inoxidável com Mola Ajustável",
+        "preco": "16,90",
+        "preco_antigo": "80,48",
+        "desconto": "(79% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mn9nfucisnidb8",
+        "link_afiliado": "https://s.shopee.com.br/5VTxSAxzik"
+    },
+    {
+        "titulo": "4 PCS Fecho/ Trava Magnético de Neodímio para porta armário de Guarda Roupa",
+        "preco": "14,89",
+        "preco_antigo": "59,56",
+        "desconto": "(75% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mnv2zkbgp4owf7",
+        "link_afiliado": "https://s.shopee.com.br/8AUid4nqJ0"
+    },
+    {
+        "titulo": "1-2 pcs Dobradiça com Fecho Automático 90° Para Portas de Madeira e Qualquer Tipo de Porta,Fecho Multifuncional Preciso",
+        "preco": "16,80",
+        "preco_antigo": "39,07",
+        "desconto": "(57% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-820lo-mne032f4cnwid4",
+        "link_afiliado": "https://s.shopee.com.br/20u5HkBJok"
+    },
+    {
+        "titulo": "10/25/50/100 Pcs Parafusos De Expansão Galvanizados Jack Nuts Hardware De Fixação De Placa De Metal E Alumínio",
+        "preco": "23,89",
+        "preco_antigo": "59,73",
+        "desconto": "(60% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk0cf1cj7thf34",
+        "link_afiliado": "https://s.shopee.com.br/1BKyIDEUVR"
+    },
+    {
         "titulo": "Pillow Top 400 Fios Toque de Plumas Casa Dona (Casal)",
         "preco": "116,28",
         "preco_antigo": "",
@@ -261,15 +621,6 @@
         "link_afiliado": "https://s.shopee.com.br/2qT9iIQwpo"
     },
     {
-        "titulo": "Luminária LED Ecospot Inteligente 5W 3000-6500k Elgin Redonda WIFI RGB Bivolt Compatível com Alexa e Google Home",
-        "preco": "59,00",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://m.media-amazon.com/images/I/61Hb6xuWsUL._AC_UL320_.jpg",
-        "link_afiliado": "https://link.amazon/B00zFaqDS"
-    },
-    {
         "titulo": "Lampada Inteligente Wi-Fi, Lampada LED Smart, RGB+CCT, 12W+3W — 16 milhões de cores, 2700K–6500K, Controle por APP (Tuya",
         "preco": "45,49",
         "preco_antigo": "",
@@ -297,15 +648,6 @@
         "link_afiliado": "https://link.amazon/B0b6ucicJ"
     },
     {
-        "titulo": "Re:Zero - Começando uma Vida em Outro Mundo - Livro 17",
-        "preco": "21,52",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://images-na.ssl-images-amazon.com/images/I/81lIUhVmFRL._AC_UL165_SR165,165_.jpg",
-        "link_afiliado": "https://link.amazon/B0dX1N8FN"
-    },
-    {
         "titulo": "Romantic Crown Copo Térmico com Canudo Tampa e Alça 1,18L, Copos Garrafas Termico para viagem vácuo dupla camada aço ino",
         "preco": "47,49",
         "preco_antigo": "",
@@ -313,15 +655,6 @@
         "frete": "",
         "imagem": "https://m.media-amazon.com/images/I/51wQgaR4rUL._AC_UL320_.jpg",
         "link_afiliado": "https://link.amazon/B0h6gAS9E"
-    },
-    {
-        "titulo": "Frieren e a Jornada Para o Além - 02",
-        "preco": "33,25",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://images-na.ssl-images-amazon.com/images/I/91R680Ay+YL._AC_UL165_SR165,165_.jpg",
-        "link_afiliado": "https://link.amazon/B0g4aoxg5"
     },
     {
         "titulo": "Garrafa Térmica Pressão Magic Pump 1 Litro Preta Termolar - 8700PRT 54814",
@@ -349,78 +682,6 @@
         "frete": "⚡ *Frete FULL / GRÁTIS*",
         "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_886701-MLB110601500445_042026-E--ssd-500gb-nvme-gen-3-darkplayer-pro-gamer-alta-performance.webp",
         "link_afiliado": "https://meli.la/1sHBpPw"
-    },
-    {
-        "titulo": "Kit 2 Roldanas Para Porta Guarda Roupa Armário Com Mola 2 Pçs",
-        "preco": "27,46",
-        "preco_antigo": "28,91",
-        "desconto": "(5% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-mo9x2ywkr4lh12",
-        "link_afiliado": "https://s.shopee.com.br/4qEFfT9HKI"
-    },
-    {
-        "titulo": "1-3 Pcs Trava de Segurança Para Geladeira Gavetas Multiuso Adesiva Protetor Infantíl Fechadura Porta Armário",
-        "preco": "11,90",
-        "preco_antigo": "34,00",
-        "desconto": "(65% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-820md-mmlmkzaknnrbff",
-        "link_afiliado": "https://s.shopee.com.br/5Ar64580eK"
-    },
-    {
-        "titulo": "Kit 12 Pçs Dobradiça Polida Reforçada 3 Direto Da Fábrica",
-        "preco": "29,00",
-        "preco_antigo": "40,28",
-        "desconto": "(28% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lvkerf4xwbqn26",
-        "link_afiliado": "https://s.shopee.com.br/4AyYsFBog6"
-    },
-    {
-        "titulo": "Parafusos De Expansão Galvanizados Jack Nuts 10/25/50/100 PCS Hardware De Fixação De Placa De Metal E Alumínio",
-        "preco": "23,90",
-        "preco_antigo": "58,29",
-        "desconto": "(59% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mjza438awwskbd",
-        "link_afiliado": "https://s.shopee.com.br/60QD3c4pxv"
-    },
-    {
-        "titulo": "1-2 PCS Dobradiças de Fecho de Porta Automático de Aço Inoxidável com Mola Ajustável",
-        "preco": "16,90",
-        "preco_antigo": "80,48",
-        "desconto": "(79% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mn9nfucisnidb8",
-        "link_afiliado": "https://s.shopee.com.br/6AjdFv4Ccw"
-    },
-    {
-        "titulo": "4 PCS Fecho/ Trava Magnético de Neodímio para porta armário de Guarda Roupa",
-        "preco": "14,89",
-        "preco_antigo": "59,56",
-        "desconto": "(75% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mnv2zkbgp4owf7",
-        "link_afiliado": "https://s.shopee.com.br/3g2IHKDihB"
-    },
-    {
-        "titulo": "1-2 pcs Dobradiça com Fecho Automático 90° Para Portas de Madeira e Qualquer Tipo de Porta,Fecho Multifuncional Preciso",
-        "preco": "16,80",
-        "preco_antigo": "39,07",
-        "desconto": "(57% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-820lo-mne032f4cnwid4",
-        "link_afiliado": "https://s.shopee.com.br/30mbU6GG2z"
-    },
-    {
-        "titulo": "10/25/50/100 Pcs Parafusos De Expansão Galvanizados Jack Nuts Hardware De Fixação De Placa De Metal E Alumínio",
-        "preco": "23,89",
-        "preco_antigo": "59,73",
-        "desconto": "(60% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk0cf1cj7thf34",
-        "link_afiliado": "https://s.shopee.com.br/4VbPGrAY08"
     },
     {
         "titulo": "Jogo de Soquetes e Chaves Combinadas 58 Peças Aço Cr-V 6-22mm com Catraca e Maleta Organizadora Kit Jogo Ferramentas Com",
@@ -637,239 +898,5 @@
         "frete": "⚡ *Frete FULL / GRÁTIS*",
         "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_650904-MLA100002714503_112025-E.webp",
         "link_afiliado": "https://meli.la/1fwJZof"
-    },
-    {
-        "titulo": "Mochila jiesipote À Prova D'água Reforçada Expansível Cor Preto",
-        "preco": "79,90",
-        "preco_antigo": "269,00",
-        "desconto": "(70,30% OFF)",
-        "frete": "⚡ *Frete FULL / GRÁTIS*",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_974980-MLA112776013576_062026-AB.webp",
-        "link_afiliado": "https://meli.la/1TD5ExR"
-    },
-    {
-        "titulo": "Escada Articulada 4x4 em Alumínio 16 Degraus 4,48m - Reisam",
-        "preco": "493,90",
-        "preco_antigo": "569,99",
-        "desconto": "(13,35% OFF)",
-        "frete": "⚡ *Frete FULL / GRÁTIS*",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_715916-MLA99521624378_122025-AB.webp",
-        "link_afiliado": "https://meli.la/18H7iT2"
-    },
-    {
-        "titulo": "Chave De Impacto 1200n.m Brushless C/ Jogo Soquete+ Dobevi Azul 127/220v",
-        "preco": "466,90",
-        "preco_antigo": "1.200,00",
-        "desconto": "(61,09% OFF)",
-        "frete": "⚡ *Frete FULL / GRÁTIS*",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_734637-MLB92326230444_092025-AB.webp",
-        "link_afiliado": "https://meli.la/1vHjtZg"
-    },
-    {
-        "titulo": "Lavadora Alta Pressao Portatil Potente Recarregável 2bateria Preto 110/127/220v 60",
-        "preco": "146,51",
-        "preco_antigo": "596,81",
-        "desconto": "(75,45% OFF)",
-        "frete": "⚡ *Frete FULL / GRÁTIS*",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_708016-MLB89603615327_082025-AB.webp",
-        "link_afiliado": "https://meli.la/241QnW7"
-    },
-    {
-        "titulo": "Parafusadeira Furadeira C/ 2 Baterias Maleta Kit Completo Led Eixo Flexível Vários Níveis Torque Simake",
-        "preco": "118,79",
-        "preco_antigo": "299,00",
-        "desconto": "(60,27% OFF)",
-        "frete": "⚡ *Frete FULL / GRÁTIS*",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_641541-MLA111608975062_062026-AB.webp",
-        "link_afiliado": "https://meli.la/2w1gSG6"
-    },
-    {
-        "titulo": "Jogo De Toalhas Banho 4pçs 100% Algodão Fio Penteado Tecnologia Softmax Unika Imperial Karsten",
-        "preco": "124,95",
-        "preco_antigo": "229,90",
-        "desconto": "(45,65% OFF)",
-        "frete": "⚡ *Frete FULL / GRÁTIS*",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_962584-MLA105260846971_012026-AB.webp",
-        "link_afiliado": "https://meli.la/2fEs9oD"
-    },
-    {
-        "titulo": "Base De Teclado Versão Barebone do ACR PRO 68 teclas com tecnologia Hot-swappable Akko",
-        "preco": "566,04",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "⚡ *Frete FULL / GRÁTIS*",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_937899-MLU74089528912_012024-E.webp",
-        "link_afiliado": "https://meli.la/15F7wSr"
-    },
-    {
-        "titulo": "Monitor Gamer Philips Evnia 27'' Ips 144Hz 0.5ms Fhd27m2n3200nf Preto",
-        "preco": "775,77",
-        "preco_antigo": "1.145,00",
-        "desconto": "(32,25% OFF)",
-        "frete": "⚡ *Frete FULL / GRÁTIS*",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_897221-MLA112462541123_052026-E.webp",
-        "link_afiliado": "https://meli.la/2nM88VK"
-    },
-    {
-        "titulo": "Celular Infinix Hot 50i Dual Sim 256gb 4 + 4 Gb Ram Tela 6.7 Cor Cinza",
-        "preco": "707,00",
-        "preco_antigo": "999,00",
-        "desconto": "(29,23% OFF)",
-        "frete": "⚡ *Frete FULL / GRÁTIS*",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_928515-MLA99484788960_112025-E.webp",
-        "link_afiliado": "https://meli.la/2aMgKqn"
-    },
-    {
-        "titulo": "Tcl Smartphone 60 Nxtpaper 4g, Octa Core, 512gb 18gb Ram (8+10), 6.8 Fhd+ 90hz, Nfc, Dual Sim, 108mp",
-        "preco": "1.260,00",
-        "preco_antigo": "2.199,00",
-        "desconto": "(42,70% OFF)",
-        "frete": "⚡ *Frete FULL / GRÁTIS*",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_617994-MLA89593691288_082025-E.webp",
-        "link_afiliado": "https://meli.la/1VuCz1Y"
-    },
-    {
-        "titulo": "Smartphone Motorola Moto g24 - 128GB 8GB (4GB RAM+4GB Ram Boost) AI Camera 50MP Night Vision - Grafite",
-        "preco": "889,00",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "⚡ *Frete FULL / GRÁTIS*",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_831857-MLA99980263367_112025-E.webp",
-        "link_afiliado": "https://meli.la/2WT1NGo"
-    },
-    {
-        "titulo": "Cubot Kingkong Es Smartphone 128gb 6gb Android 14 Dual Sim Black/orange",
-        "preco": "702,41",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "⚡ *Frete FULL / GRÁTIS*",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_647146-CBT111734380255_052026-E.webp",
-        "link_afiliado": "https://meli.la/31T3BBu"
-    },
-    {
-        "titulo": "Kit 2 Tomadas Inteligente Smart Automação Wifi Google Home Alexa - NovaDigital",
-        "preco": "95,69",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://images-na.ssl-images-amazon.com/images/I/61FBx+ajLdL._AC_UL165_SR165,165_.jpg",
-        "link_afiliado": "https://link.amazon/B0ck5nEhT"
-    },
-    {
-        "titulo": "Bleach remix - 03",
-        "preco": "69,20",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://images-na.ssl-images-amazon.com/images/I/51rAKP1LfUL._AC_UL165_SR165,165_.jpg",
-        "link_afiliado": "https://link.amazon/B05iYE5Af"
-    },
-    {
-        "titulo": "Boa Noite Punpun - Vol. 4",
-        "preco": "48,90",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://images-na.ssl-images-amazon.com/images/I/51xt9XrvOCL._AC_UL165_SR165,165_.jpg",
-        "link_afiliado": "https://link.amazon/B0413S1tK"
-    },
-    {
-        "titulo": "Neon Genesis Evangelion Collector's Edition Vol. 04- Idioma ‏: ‎Português",
-        "preco": "58,11",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://images-na.ssl-images-amazon.com/images/I/61AV2kvPufL._AC_UL165_SR165,165_.jpg",
-        "link_afiliado": "https://link.amazon/B04ZPtznG"
-    },
-    {
-        "titulo": "Tomada Inteligente Wi-Fi Novadigital Branco 10A Compatível Alexa e Googe Assistente",
-        "preco": "45,00",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://images-na.ssl-images-amazon.com/images/I/61TOrz-q-HL._AC_UL165_SR165,165_.jpg",
-        "link_afiliado": "https://link.amazon/B0izIB0ML"
-    },
-    {
-        "titulo": "O trem da meia-noite + brinde",
-        "preco": "49,90",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://images-na.ssl-images-amazon.com/images/I/710lrMw3otL._AC_UL165_SR165,165_.jpg",
-        "link_afiliado": "https://link.amazon/B03gnK83w"
-    },
-    {
-        "titulo": "kit 12 escova de cabelo  Pente De Estilo , Shampoo , Frasco De Spray , Laço , Clipes , Ferramentas",
-        "preco": "37,99",
-        "preco_antigo": "80,83",
-        "desconto": "(53% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdnnuvqrmea9b1",
-        "link_afiliado": "https://s.shopee.com.br/111RBcBs9r"
-    },
-    {
-        "titulo": "Maleta de Maquiagem GRANDE com Espelho e Luz LED – Praticidade, Estilo e Organização 26x23x10,5cm",
-        "preco": "68,79",
-        "preco_antigo": "143,31",
-        "desconto": "(52% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhm0ygtojg1vee",
-        "link_afiliado": "https://s.shopee.com.br/9KgZ6vg9FN"
-    },
-    {
-        "titulo": "Máquinas de Corte Kemei KM-2299 ou KM-8602: Precisão e Potência para Todos os Estilos",
-        "preco": "65,99",
-        "preco_antigo": "119,98",
-        "desconto": "(45% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mb87kc1k4akv6d",
-        "link_afiliado": "https://s.shopee.com.br/AAFg6ScyYS"
-    },
-    {
-        "titulo": "Modelador de cachos Estilo Cerâmica 110v e 220v",
-        "preco": "51,99",
-        "preco_antigo": "96,28",
-        "desconto": "(46% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lxbiu81th28i4b",
-        "link_afiliado": "https://s.shopee.com.br/70IeKdp1yh"
-    },
-    {
-        "titulo": "Carrinho Auxiliar 4 Bandejas Com Rodinhas Metalon MDF Profissional - Mais Estilo e Praticidade no Seu Espaço de Beleza",
-        "preco": "189,95",
-        "preco_antigo": "249,93",
-        "desconto": "(24% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdym-mc80g581p6zd14",
-        "link_afiliado": "https://s.shopee.com.br/5q6gwUtTLK"
-    },
-    {
-        "titulo": "Macacão longo 2 em 1  Envio Rápido calça pantalona duas versões, casual, beleza basico tamanho P/M/G/GG",
-        "preco": "35,99",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-820lu-mnzxpiu3vnk238",
-        "link_afiliado": "https://s.shopee.com.br/6L2xXPrZKN"
-    },
-    {
-        "titulo": "Gaveta Suspensa Estilo Penteadeira e Aparador / Bancada Salão De Beleza / Cabeleiro - Corrediças Telescopias",
-        "preco": "69,70",
-        "preco_antigo": "154,89",
-        "desconto": "(55% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-820lj-mohb9s9v82yo6b",
-        "link_afiliado": "https://s.shopee.com.br/1gH7yq9KoB"
-    },
-    {
-        "titulo": "Bota de salto feminina beleza e conforto",
-        "preco": "49,90",
-        "preco_antigo": "89,11",
-        "desconto": "(44% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-820lp-ml6o8ipxe7t3e6",
-        "link_afiliado": "https://s.shopee.com.br/9zwFu9dbtR"
     }
 ]
