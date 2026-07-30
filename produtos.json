@@ -1,5 +1,356 @@
 [
     {
+        "titulo": "Kit 4 Cestos Organizadores De Geladeira 4,0L Acrílico Plástico Transparente Para Frutas E Verduras Conservar Alimentos",
+        "preco": "77,52",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "⚡ *Recomendação VIP*",
+        "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_849422-MLA99961033873_112025-O.webp",
+        "link_afiliado": "https://meli.la/31yX5DF"
+    },
+    {
+        "titulo": "Camiseta Polo Core Masculino Insider",
+        "preco": "129,00",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "⚡ *Recomendação VIP*",
+        "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_975483-MLB88655562413_072025-F-camiseta-polo-core-masculino-insider.webp",
+        "link_afiliado": "https://meli.la/2fxG2PQ"
+    },
+    {
+        "titulo": "Colchão Inflável Casal Dura Beam 64102 Intex 272kg Cor Creme",
+        "preco": "122,61",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "⚡ *Recomendação VIP*",
+        "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_649798-MLA95710282638_102025-O.webp",
+        "link_afiliado": "https://meli.la/1qD8bs3"
+    },
+    {
+        "titulo": "Colchão Inflável De Viagem Resistente Modofo Com Travesseiro",
+        "preco": "154,02",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "⚡ *Recomendação VIP*",
+        "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_995966-MLB113263234267_062026-F-colchao-inflavel-de-viagem-resistente-modofo-com-travesseiro.webp",
+        "link_afiliado": "https://meli.la/121GHpU"
+    },
+    {
+        "titulo": "Kit 9 Potes Mantimentos Vidro Herméticos Com Tampa Bambu Alta Resistência Epsilon EPS-709",
+        "preco": "75,19",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "⚡ *Recomendação VIP*",
+        "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_639844-MLA95562237447_102025-O.webp",
+        "link_afiliado": "https://meli.la/1UMyZSy"
+    },
+    {
+        "titulo": "Chinelo Havaianas Top Adulto - Primavera/verão",
+        "preco": "25,76",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "⚡ *Recomendação VIP*",
+        "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_729919-MLB81738626226_012025-F-chinelo-havaianas-top-adulto-primaveravero.webp",
+        "link_afiliado": "https://meli.la/2E6v3pa"
+    },
+    {
+        "titulo": "Kit 3 Organizadores Geladeira Alimentos Vegetais Com Tampas",
+        "preco": "39,20",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "⚡ *Recomendação VIP*",
+        "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_812717-MLB111231916555_052026-F-kit-3-organizadores-geladeira-alimentos-vegetais-com-tampas.webp",
+        "link_afiliado": "https://meli.la/1Qr1b9q"
+    },
+    {
+        "titulo": "Jogo 2 Panela De Pressao 4,5 Litros E 3 Litros Antiaderente Cor Grafite",
+        "preco": "202,03",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "⚡ *Recomendação VIP*",
+        "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_927609-MLA105587101429_012026-O.webp",
+        "link_afiliado": "https://meli.la/1j9ianL"
+    },
+    {
+        "titulo": "Conjunto De 10 Potes Herméticos De Plástico Electrolux",
+        "preco": "89,90",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "⚡ *Recomendação VIP*",
+        "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_872556-MLB98081613790_112025-F-conjunto-de-10-potes-hermeticos-de-plastico-electrolux.webp",
+        "link_afiliado": "https://meli.la/32wGPAE"
+    },
+    {
+        "titulo": "Tramontina jogo de facas plenus com 6 peças em aço inox e suporte de madeira",
+        "preco": "87,24",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "⚡ *Recomendação VIP*",
+        "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_803306-MLA99943515623_112025-O.webp",
+        "link_afiliado": "https://meli.la/1pcwGZ4"
+    },
+    {
+        "titulo": "Guarda Roupa Solteiro 2 Portas De Correr 1 Porta Com Ii",
+        "preco": "788,48",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "⚡ *Recomendação VIP*",
+        "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_982627-MLB111200835743_052026-F-guarda-roupa-solteiro-2-portas-de-correr-1-porta-com-ii.webp",
+        "link_afiliado": "https://meli.la/1fFoBmY"
+    },
+    {
+        "titulo": "Polo Piquet Classica Reserva Masculina",
+        "preco": "173,90",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "⚡ *Recomendação VIP*",
+        "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_804897-MLB96292266604_102025-F-polo-piquet-classica-reserva-masculina.webp",
+        "link_afiliado": "https://meli.la/2dN2DfS"
+    },
+    {
+        "titulo": "Top Puma Original Feminino Alta Sustentação Academia Fitness",
+        "preco": "36,79",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "⚡ *Recomendação VIP*",
+        "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_899152-MLB113410235826_072026-F-top-puma-original-feminino-alta-sustentaco-academia-fitness.webp",
+        "link_afiliado": "https://meli.la/1ad6PFA"
+    },
+    {
+        "titulo": "Bandeja Em Bambu Redonda Palinha 35cm Oikos",
+        "preco": "74,40",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "⚡ *Recomendação VIP*",
+        "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_933328-MLA94692720964_102025-O.webp",
+        "link_afiliado": "https://meli.la/2BEYBkE"
+    },
+    {
+        "titulo": "Mini cortador de alho, processador de alimentos pequeno de 250 ml, sem fio, 1 xícara, bateria USB-C recarregável, cortad",
+        "preco": "118,72",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "🚚 *Seleção Amazon*",
+        "imagem": "https://m.media-amazon.com/images/I/61R0n6ANYjL._AC_SX569_.jpg",
+        "link_afiliado": "https://amzn.to/4pNd9wP"
+    },
+    {
+        "titulo": "Calça Térmica Feminino Segunda Pele Flanelada Inverno Frio Intenso Preto",
+        "preco": "29,90",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "🚚 *Seleção Amazon*",
+        "imagem": "https://m.media-amazon.com/images/I/31cibNyOxeL._AC_SX679_.jpg",
+        "link_afiliado": "https://amzn.to/4vWwT2u"
+    },
+    {
+        "titulo": "Scotch, 3M, Fixa Forte, Fita Dupla Face, Fixação Extrema, 24mm x 2m",
+        "preco": "30,44",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "🚚 *Seleção Amazon*",
+        "imagem": "https://m.media-amazon.com/images/I/71mEwfbHotL._AC_SX679_.jpg",
+        "link_afiliado": "https://amzn.to/4vVnSa0"
+    },
+    {
+        "titulo": "Samsung Ar-condicionado Split Inverter WindFree AI 12.000 BTUs Frio Sem Vento AR12DYFAAWKNAZ 220V",
+        "preco": "2.299,00",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "🚚 *Seleção Amazon*",
+        "imagem": "https://m.media-amazon.com/images/I/61SqDV4ba2L._AC_SX466_.jpg",
+        "link_afiliado": "https://amzn.to/4biu1FO"
+    },
+    {
+        "titulo": "Mixer Mallory Trikxer Pratic- 3 EM 1-220V",
+        "preco": "143,87",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "🚚 *Seleção Amazon*",
+        "imagem": "https://m.media-amazon.com/images/I/514WpJcYJsL._AC_SX569_.jpg",
+        "link_afiliado": "https://link.amazon/B0cimaLt4"
+    },
+    {
+        "titulo": "Amazon.com.br: 20% off em Higiene e Beleza promoção",
+        "preco": "240,00",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "🚚 *Seleção Amazon*",
+        "imagem": "",
+        "link_afiliado": "https://link.amazon/B05UEwyeY"
+    },
+    {
+        "titulo": "JBL, Fone de Ouvido Bluetooth Over-Ear, Tune 530BT, Sem Fio, Até 76 Horas de Bateria - Preto",
+        "preco": "187,15",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "🚚 *Seleção Amazon*",
+        "imagem": "https://m.media-amazon.com/images/I/61q9MOnS+2L._AC_SX569_.jpg",
+        "link_afiliado": "https://link.amazon/B06n7amSt"
+    },
+    {
+        "titulo": "Cif Cremoso Limpeza Milagrosa Produto De Limpeza De Casa Milagroso Original Remove 100% Da Sujeira Difícil Sem Esforço 2",
+        "preco": "12,39",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "🚚 *Seleção Amazon*",
+        "imagem": "https://m.media-amazon.com/images/I/41nB8ah9vrL._AC_SX679_.jpg",
+        "link_afiliado": "https://link.amazon/B02Xu5LGd"
+    },
+    {
+        "titulo": "NIVEA Sabonete Vegetal Nutrição Da Natureza Manteiga De Karité & Lima Da Pérsia 80g (6 un.), Limpeza Delicada, Banho, Pe",
+        "preco": "15,99",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "🚚 *Seleção Amazon*",
+        "imagem": "https://m.media-amazon.com/images/I/716yFV3WR9L._AC_SX679_.jpg",
+        "link_afiliado": "https://link.amazon/B06HOVQER"
+    },
+    {
+        "titulo": "LYOR - Porta Retrato 20cm x 15cm Bege Mdf",
+        "preco": "19,84",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "🚚 *Seleção Amazon*",
+        "imagem": "https://m.media-amazon.com/images/I/71vlmWVcS6L._AC_SX569_.jpg",
+        "link_afiliado": "https://link.amazon/B0a7YfgPn"
+    },
+    {
+        "titulo": "Creme Dental Colgate Total Anti Tártaro 3 unidades 90g",
+        "preco": "17,87",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "🚚 *Seleção Amazon*",
+        "imagem": "https://m.media-amazon.com/images/I/618cxCZ8wHL._AC_SY450_.jpg",
+        "link_afiliado": "https://link.amazon/B099SWShd"
+    },
+    {
+        "titulo": "3 Corações Cápsulas de Café Cerrado Mineiro, Compatíveis com Nespresso, contém 10 cápsulas",
+        "preco": "20,99",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "🚚 *Seleção Amazon*",
+        "imagem": "https://m.media-amazon.com/images/I/616plwt5cDL._AC_SX679_.jpg",
+        "link_afiliado": "https://link.amazon/B0avXk2hM"
+    },
+    {
+        "titulo": "Neve Papel Higiênico Supreme Folha Tripla, 20m, Leve 16 Pague 15 Rolos",
+        "preco": "38,99",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "🚚 *Seleção Amazon*",
+        "imagem": "https://m.media-amazon.com/images/I/719mQaS-p7L._AC_SX679_.jpg",
+        "link_afiliado": "https://link.amazon/B0bUzPUpL"
+    },
+    {
+        "titulo": "Kit Dove UV Repair e Glow Ferúlico Expert em Danos Shampoo 350ml e Condicionador 150ml",
+        "preco": "27,99",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "🔥 *Oferta Relâmpago*",
+        "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-825b1-mqhmxxjk9qtc12",
+        "link_afiliado": "https://s.shopee.com.br/6VMedDagpx"
+    },
+    {
+        "titulo": "Fogão de Piso Itatiaia 4 Bocas Star Clean New | Acendimento Manual, Preto",
+        "preco": "498,48",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "🔥 *Oferta Relâmpago*",
+        "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-824hd-mpiaamed8g02d2",
+        "link_afiliado": "https://s.shopee.com.br/4qEQNHTr3E"
+    },
+    {
+        "titulo": "Air Fryer Britânia 4,2L Dura Mais 1500W BFR38",
+        "preco": "185,16",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "🔥 *Oferta Relâmpago*",
+        "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-8258n-mr7pa4agaz2a74",
+        "link_afiliado": "https://s.shopee.com.br/2qTLzVi9hW"
+    },
+    {
+        "titulo": "Aspirador de Pó Robô WAP Robot W100 3 em 1 Antiqueda Bivolt 17W",
+        "preco": "348,50",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "🔥 *Oferta Relâmpago*",
+        "imagem": "https://down-br.img.susercontent.com/file/br-11134207-81z1k-mi3iwgro7wg2ad",
+        "link_afiliado": "https://s.shopee.com.br/4VbZyXL9lk"
+    },
+    {
+        "titulo": "Kit 3 Tapete Bolinha Banheiro Microfibra Dedinho Antiderrapante Alta Absorção Macio 38 X 58cm",
+        "preco": "40,90",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "🔥 *Oferta Relâmpago*",
+        "imagem": "https://down-br.img.susercontent.com/file/br-11134207-81z1k-mf9og8w7oqo4f6",
+        "link_afiliado": "https://s.shopee.com.br/4LI9mCiSXw"
+    },
+    {
+        "titulo": "Potes Herméticos De Plástico Redondo Electrolux 4 Unidades",
+        "preco": "53,99",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "🔥 *Oferta Relâmpago*",
+        "imagem": "https://down-br.img.susercontent.com/file/br-11134201-820mh-mqymwwjr2m8460",
+        "link_afiliado": "https://s.shopee.com.br/2qTLzPxz6r"
+    },
+    {
+        "titulo": "Ar Condicionado Split HQ Hi Wall Inverter 9.000 BTU/h Quente e Frio Monofásico Branco VIHT9KCH3S2S23 - 220V",
+        "preco": "1.464,82",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "🔥 *Oferta Relâmpago*",
+        "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-7rdvd-mdox8wjqak2h63",
+        "link_afiliado": "https://s.shopee.com.br/8AUsLBa5We"
+    },
+    {
+        "titulo": "Bicicleta Aro 20 Bmx Freestyle Infantil Vega Aro 20 aero Bike freio V-brake",
+        "preco": "398,65",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "🔥 *Oferta Relâmpago*",
+        "imagem": "https://down-br.img.susercontent.com/file/br-11134207-820la-mpjeb27cz9qb9c",
+        "link_afiliado": "https://s.shopee.com.br/6Ajnuhhf6O"
+    },
+    {
+        "titulo": "Smart Tv 32 Philco Roku Tv Dolby Áudio Hdr10 P32crb",
+        "preco": "974,40",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "🔥 *Oferta Relâmpago*",
+        "imagem": "https://down-br.img.susercontent.com/file/br-11134207-820ld-moohnc6wzvuu7f",
+        "link_afiliado": "https://s.shopee.com.br/8KoIUeR9BB"
+    },
+    {
+        "titulo": "Percarbonato 100% Puro Tira Manchas Roupas Brancas e Coloridas",
+        "preco": "15,99",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "🔥 *Oferta Relâmpago*",
+        "imagem": "https://down-br.img.susercontent.com/file/br-11134207-820lm-mohh8j4tjpc0e3",
+        "link_afiliado": "https://s.shopee.com.br/2LX5LXPbsZ"
+    },
+    {
+        "titulo": "Vaso Grande Polietileno Decorativo Cachepot Cone Grafiato Plantas Jardim Paisagismo Sala Varanda Área Interna Externa",
+        "preco": "32,30",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "🔥 *Oferta Relâmpago*",
+        "imagem": "https://down-br.img.susercontent.com/file/br-11134207-820m6-mquzdssdi4g270",
+        "link_afiliado": "https://s.shopee.com.br/9fJg4ypyYv"
+    },
+    {
+        "titulo": "Lava Louças Brastemp 8 Serviços Preta - BLF08AE",
+        "preco": "1.795,20",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "🔥 *Oferta Relâmpago*",
+        "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-8257s-mqw8gesacjkafb",
+        "link_afiliado": "https://s.shopee.com.br/50XqWLMQ4Y"
+    },
+    {
         "titulo": "Tramontina Lâmpada Smart​ LED Inteligente E27​ 10W Wi-Fi + Bluetooth​ 16 Milhões de Cores - Compatível com Alexa e Googl",
         "preco": "49,90",
         "preco_antigo": "",
@@ -547,356 +898,5 @@
         "frete": "🚚 *Seleção Amazon*",
         "imagem": "https://m.media-amazon.com/images/I/81yDahe4h6L._AC_SX569_.jpg",
         "link_afiliado": "https://link.amazon/B07lHQGgD"
-    },
-    {
-        "titulo": "White Horse Whisky 1L",
-        "preco": "59,90",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "🚚 *Seleção Amazon*",
-        "imagem": "https://m.media-amazon.com/images/I/51VHnK8ONqL._AC_SX466_.jpg",
-        "link_afiliado": "https://link.amazon/B09vxJbBt"
-    },
-    {
-        "titulo": "CHUVEIRO COMPACTA ELETRÔNICO 220V 7.800W BLACK – FAME",
-        "preco": "255,54",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "🚚 *Seleção Amazon*",
-        "imagem": "https://m.media-amazon.com/images/I/41FvHVAcbeL._AC_SX679_.jpg",
-        "link_afiliado": "https://link.amazon/B06K3dKIO"
-    },
-    {
-        "titulo": "Kärcher Lavadora de Alta pressão Prática Black, 1500 PSI/Libras, 1400W, 300L/h com Aplicador de Detergente e Lança Regul",
-        "preco": "279,90",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "🚚 *Seleção Amazon*",
-        "imagem": "https://m.media-amazon.com/images/I/71Vmy52AhJL._AC_SX569_.jpg",
-        "link_afiliado": "https://link.amazon/B05LHVVff"
-    },
-    {
-        "titulo": "Whisky Old Parr 12 anos 750ml",
-        "preco": "84,90",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "🚚 *Seleção Amazon*",
-        "imagem": "https://m.media-amazon.com/images/I/51IQlv4pAdL._AC_SX466_.jpg",
-        "link_afiliado": "https://link.amazon/B0jbvNCrs"
-    },
-    {
-        "titulo": "Flash Limp - Mop Giratório Fit, Balde 8 litros - MOP5010",
-        "preco": "66,00",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "🚚 *Seleção Amazon*",
-        "imagem": "https://m.media-amazon.com/images/I/71z-3rqPaUL._AC_SX569_.jpg",
-        "link_afiliado": "https://link.amazon/B01KkhAIC"
-    },
-    {
-        "titulo": "Brilhante Limpeza Total - Lava Roupas Líquido 3L",
-        "preco": "27,99",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "🚚 *Seleção Amazon*",
-        "imagem": "https://m.media-amazon.com/images/I/71jvqKocIgL._AC_SX679_.jpg",
-        "link_afiliado": "https://link.amazon/B00NbVZNj"
-    },
-    {
-        "titulo": "Samsung Smart TV 43\" QLED Full HD Q5F 2025, Xbox Cloud Gaming, Canais Gratuitos, HDR, Som em Movimento Virtual",
-        "preco": "1.747,99",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "🚚 *Seleção Amazon*",
-        "imagem": "https://m.media-amazon.com/images/I/61E3pEdWcsL._AC_SX679_.jpg",
-        "link_afiliado": "https://link.amazon/B05qPFfem"
-    },
-    {
-        "titulo": "Kit com até 10 Calcinhas Modeladoras Cintura Alta Cós Duplo Fio Duplo Segura Barriga Fitness Pós Parto",
-        "preco": "56,25",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "🔥 *Oferta Relâmpago*",
-        "imagem": "https://down-br.img.susercontent.com/file/br-11134207-820m7-mlw2rp2dtudge1",
-        "link_afiliado": "https://s.shopee.com.br/2BDcwVZ9ov"
-    },
-    {
-        "titulo": "Kit Calça Jeans Skinny Masculina Com Lycra Estica Muito Nf super promoção",
-        "preco": "69,99",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "🔥 *Oferta Relâmpago*",
-        "imagem": "https://down-br.img.susercontent.com/file/br-11134211-7r98o-lyy5tis0j9n998",
-        "link_afiliado": "https://s.shopee.com.br/198MUNJap"
-    },
-    {
-        "titulo": "Air Fryer Philco 4,4L Antiaderente Redstone 1500W PFR15PI",
-        "preco": "242,91",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "🔥 *Oferta Relâmpago*",
-        "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-825as-mr67r4hszv2fe8",
-        "link_afiliado": "https://s.shopee.com.br/5VU4uW8vxN"
-    },
-    {
-        "titulo": "WHEY 900g - BlackFIT - O MAIS BARATO DO BRASIL",
-        "preco": "39,49",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "🔥 *Oferta Relâmpago*",
-        "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-maews3pvaahbd6",
-        "link_afiliado": "https://s.shopee.com.br/W5OxHxqDM"
-    },
-    {
-        "titulo": "Sofá Retrátil e Reclinável 2,10m com Molas e Espuma D33 Thunder. Velusoft Cama inBox",
-        "preco": "1.152,54",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "🔥 *Oferta Relâmpago*",
-        "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-824g2-mfe207nivnrcf7",
-        "link_afiliado": "https://s.shopee.com.br/6AjlhePBIi"
-    },
-    {
-        "titulo": "Caixa de Som Bluetooth JBL Boombox 4, com Auracast, IP68 Bivolt Preta",
-        "preco": "2.291,08",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "🔥 *Oferta Relâmpago*",
-        "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-821cy-mh9ayg1zfa4s4a",
-        "link_afiliado": "https://s.shopee.com.br/2VqTKrb3Gm"
-    },
-    {
-        "titulo": "Percarbonato 100% Puro Tira Manchas Roupas Brancas e Coloridas",
-        "preco": "15,99",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "🔥 *Oferta Relâmpago*",
-        "imagem": "https://down-br.img.susercontent.com/file/br-11134207-820lm-mohh8j4tjpc0e3",
-        "link_afiliado": "https://s.shopee.com.br/7VF9GuG2Lq"
-    },
-    {
-        "titulo": "Mesa Dobrável Notebook Retrátil Home Office Apoio Cama Sofá Trabalho Café",
-        "preco": "37,89",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "🔥 *Oferta Relâmpago*",
-        "imagem": "https://down-br.img.susercontent.com/file/br-11134207-820mf-mnlw9ncbyq68fe",
-        "link_afiliado": "https://s.shopee.com.br/8KoG12brEc"
-    },
-    {
-        "titulo": "Mop Mágico Rodo de Silicone 50cm Pontos TPE Limpa Piso Banheiro Cozinha Sala 120/150cm Limpeza",
-        "preco": "19,99",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "🔥 *Oferta Relâmpago*",
-        "imagem": "https://down-br.img.susercontent.com/file/cn-11134207-820l4-mpuir8tnrq4uce",
-        "link_afiliado": "https://s.shopee.com.br/4qENqaBzOM"
-    },
-    {
-        "titulo": "Rodo de Silicone Daxxen® Ákora – Limpeza Sem Risco, Secagem Rápida e Praticidade",
-        "preco": "52,00",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "🔥 *Oferta Relâmpago*",
-        "imagem": "https://down-br.img.susercontent.com/file/br-11134207-81z1k-mfbn23vg7ldxaf",
-        "link_afiliado": "https://s.shopee.com.br/4VbXRwdE5h"
-    },
-    {
-        "titulo": "Bomba Elétrica Portátil Digital Para Encher Pneu De Carro Moto Bicicleta Inflador Automotivo Cor Preto",
-        "preco": "169,99",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "⚡ *Recomendação VIP*",
-        "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_919649-MLA112122698633_052026-O.webp",
-        "link_afiliado": "https://meli.la/2sinYPC"
-    },
-    {
-        "titulo": "Moto Serra Elétrica 12 Polegadas Portátil 2 Baterias",
-        "preco": "339,90",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "⚡ *Recomendação VIP*",
-        "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_972941-MLB106013055061_012026-F-moto-serra-eletrica-12-polegadas-portatil-2-baterias.webp",
-        "link_afiliado": "https://meli.la/329LRhF"
-    },
-    {
-        "titulo": "Smartphone Infinix Smart 10 4GB RAM 256GB SSD Câmera 8MP + IA, Tela 6.67 HD+ 120Hz, Bateria 5000mAh, Processador T7250, ",
-        "preco": "620,52",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "⚡ *Recomendação VIP*",
-        "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_964227-MLA100071062557_122025-O.webp",
-        "link_afiliado": "https://meli.la/1vtM5HX"
-    },
-    {
-        "titulo": "DeckCasa Escova elétrica de limpeza JY-6010 Branco Unidade 1",
-        "preco": "42,90",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "⚡ *Recomendação VIP*",
-        "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_824959-MLA99446279174_112025-O.webp",
-        "link_afiliado": "https://meli.la/1qpaZrJ"
-    },
-    {
-        "titulo": "Caixa de Som Boombox Plus AIWA BBS-01-LBL 200W Bluetooth 30H IP66 USB RGB",
-        "preco": "1240,70",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "⚡ *Recomendação VIP*",
-        "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_825005-MLA112458910702_062026-O.webp",
-        "link_afiliado": "https://meli.la/1ESwMa2"
-    },
-    {
-        "titulo": "Lava Roupas Líquido Omo Lavanderia Profissional Lavagem 7 L",
-        "preco": "60,53",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "⚡ *Recomendação VIP*",
-        "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_774608-MLA99929782565_112025-O.webp",
-        "link_afiliado": "https://meli.la/2U7RBJP"
-    },
-    {
-        "titulo": "Kit 10 Pote De Vidro Marmita Hermético 370ml Freezer Fitness Rishon",
-        "preco": "69,35",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "⚡ *Recomendação VIP*",
-        "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_605578-MLA113633610823_062026-O.webp",
-        "link_afiliado": "https://meli.la/25AzY27"
-    },
-    {
-        "titulo": "Conjunto de panelas antiaderente 10 peças Coffee cappuccino Imperial",
-        "preco": "279,99",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "⚡ *Recomendação VIP*",
-        "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_881674-MLA106260237067_012026-O.webp",
-        "link_afiliado": "https://meli.la/1dqKR7L"
-    },
-    {
-        "titulo": "Smart Tv 43 Aoc Led Roku Full Hd Wi-fi 60hz Hdmi Usb 43s5155/78g",
-        "preco": "1376,10",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "⚡ *Recomendação VIP*",
-        "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_935991-MLA99489146286_112025-O.webp",
-        "link_afiliado": "https://meli.la/1MTUoEP"
-    },
-    {
-        "titulo": "Caixa De Som Partybox Aiwa Pb-06 Bluetooth 20h Rgb Usb Tws",
-        "preco": "1186,55",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "⚡ *Recomendação VIP*",
-        "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_890159-MLA99508458050_112025-O.webp",
-        "link_afiliado": "https://meli.la/2xFipLg"
-    },
-    {
-        "titulo": "Kit 5 Camisetas Básicas Masculina Dry Fit Lisa Tradicional",
-        "preco": "39,77",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "⚡ *Recomendação VIP*",
-        "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_988988-MLB113523690029_062026-F-kit-5-camisetas-basicas-masculina-dry-fit-lisa-tradicional.webp",
-        "link_afiliado": "https://meli.la/1MeVGkN"
-    },
-    {
-        "titulo": "Secador De Sapato Inteligente Dobrável Tênis Elimina Umidade Mal Cheiro E Odor 110V / 220V",
-        "preco": "49,99",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "🔥 *Oferta Relâmpago*",
-        "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-823qs-mohgjj08s4y1cc",
-        "link_afiliado": "https://s.shopee.com.br/qiD61kEMu"
-    },
-    {
-        "titulo": "Conjunto Mala De Viagem 10KG E Frasqueira Cadeado TSA Roda Dupla 360° PROMOÇÃO",
-        "preco": "180,41",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "🔥 *Oferta Relâmpago*",
-        "imagem": "https://down-br.img.susercontent.com/file/br-11134207-820ma-mosu8cn2mux2da",
-        "link_afiliado": "https://s.shopee.com.br/1qakHoc8UT"
-    },
-    {
-        "titulo": "Kit 3 Camisas Masculinas 100% Algodão Premium Conforto Moda Casual Street Paris",
-        "preco": "62,93",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "🔥 *Oferta Relâmpago*",
-        "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-8261k-mj7vh44bfitc2c",
-        "link_afiliado": "https://s.shopee.com.br/9fJbcBnxOu"
-    },
-    {
-        "titulo": "Bermuda Masculina Cargo Brim Sarja Premium",
-        "preco": "59,00",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "🔥 *Oferta Relâmpago*",
-        "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-mduxczaf2sjke5",
-        "link_afiliado": "https://s.shopee.com.br/60QJFRAqOZ"
-    },
-    {
-        "titulo": "Kit 3un Downy amaciante concentrado fragrância brisa de verão 500mL",
-        "preco": "49,89",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "🔥 *Oferta Relâmpago*",
-        "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m8na2pgw51n51c",
-        "link_afiliado": "https://s.shopee.com.br/6pzQEwLofV"
-    },
-    {
-        "titulo": "Cooler Multifuncional Super Térmica 32 Litros Casa Praia Camping Viagens Multiuso",
-        "preco": "141,41",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "🔥 *Oferta Relâmpago*",
-        "imagem": "https://down-br.img.susercontent.com/file/br-11134207-81z1k-mfe54je0p345ca",
-        "link_afiliado": "https://s.shopee.com.br/1gHK5QbURG"
-    },
-    {
-        "titulo": "Kit 2 Croppeds de Renda Feminino com Bojo e Alça Guipir – Moda Festa, Balada, Verão e Carnaval",
-        "preco": "45,54",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "🔥 *Oferta Relâmpago*",
-        "imagem": "https://down-br.img.susercontent.com/file/br-11134207-81ztc-mjfsmsv7iyv6b9",
-        "link_afiliado": "https://s.shopee.com.br/8V7eDxuHV5"
-    },
-    {
-        "titulo": "Kit 9 Pecas Saco De Organizar Viagem De Cosméticos De Bagagem Multifuncional Para Roupas E Sapatos",
-        "preco": "48,87",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "🔥 *Oferta Relâmpago*",
-        "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-823oc-mogxkgp0gvm725",
-        "link_afiliado": "https://s.shopee.com.br/W5MhEhHVM"
-    },
-    {
-        "titulo": "Kit Calça de Moletom Algodão unissex com Elástico e Punho Estilo e Conforto",
-        "preco": "54,90",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "🔥 *Oferta Relâmpago*",
-        "imagem": "https://down-br.img.susercontent.com/file/br-11134207-81ztc-mivm55zz00zm3b",
-        "link_afiliado": "https://s.shopee.com.br/1qakHfPGuB"
-    },
-    {
-        "titulo": "CONJUNTO FEMENINO LOOK SOCIAL E MODERNO EN COLETE E CALÇA",
-        "preco": "67,50",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "🔥 *Oferta Relâmpago*",
-        "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-mcjb6crs2m2a64",
-        "link_afiliado": "https://s.shopee.com.br/AUsiba61GN"
-    },
-    {
-        "titulo": "[BANY] Conjunto de Pijamas de Seda para Mulheres com 5 Peças, Vestido de Pijama com Decote em V e Camisola Us",
-        "preco": "37,78",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "🔥 *Oferta Relâmpago*",
-        "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-824ip-meptloc0yi2qc0",
-        "link_afiliado": "https://s.shopee.com.br/7KvgpjHe1y"
     }
 ]
