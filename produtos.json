@@ -1,5 +1,599 @@
 [
     {
+        "titulo": "Xiaomi Redmi Buds 6 Play",
+        "preco": "89,90",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "",
+        "imagem": "https://m.media-amazon.com/images/I/51DVGGv77KL._AC_UL320_.jpg",
+        "link_afiliado": "https://link.amazon/B02ZjTupZ"
+    },
+    {
+        "titulo": "Fone de Ouvido Sem Fio, HUAWEI FreeBuds SE 2, Até 40 Horas de Bateria, Compacto e Confortável, Até 3 Horas de Música com",
+        "preco": "130,38",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "🚚 *Frete GRÁTIS com Prime*",
+        "imagem": "https://m.media-amazon.com/images/I/61iR-8Aj7CL._AC_UL320_.jpg",
+        "link_afiliado": "https://link.amazon/B03EFiZYE"
+    },
+    {
+        "titulo": "Samsung Galaxy Buds Core, Fone de Ouvido, sem fio, cancelamento de ruído, interprete inteligente",
+        "preco": "224,40",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "🚚 *Frete GRÁTIS com Prime*",
+        "imagem": "https://m.media-amazon.com/images/I/31zLQOfTQ2L._AC_UL320_.jpg",
+        "link_afiliado": "https://link.amazon/B0f78XNT1"
+    },
+    {
+        "titulo": "I2GO, Headphone Bass 500, Bluetooth, Microfone Integrado, Controle Multimídia, Até 30h de bateria, Entrada cabo auxiliar",
+        "preco": "109,90",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "🚚 *Frete GRÁTIS com Prime*",
+        "imagem": "https://m.media-amazon.com/images/I/71lH6hi34vL._AC_UL320_.jpg",
+        "link_afiliado": "https://link.amazon/B012o2SMB"
+    },
+    {
+        "titulo": "Colchão Dura-Beam Downy Casal com bomba de pé embutida",
+        "preco": "155,29",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "",
+        "imagem": "https://images-na.ssl-images-amazon.com/images/I/71rSwNQKTiL._AC_UL165_SR165,165_.jpg",
+        "link_afiliado": "https://link.amazon/B03WfGunm"
+    },
+    {
+        "titulo": "ATTACK SHARK X11 Mouse sem fio leve, 62g, RGB, conexão tri-modo (2.4G/USB-C/BT), 22K DPI, sensor PAW3311, 5 botões progr",
+        "preco": "179,90",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "",
+        "imagem": "https://m.media-amazon.com/images/I/511ErkBZ2aL._AC_UL320_.jpg",
+        "link_afiliado": "https://link.amazon/B040TwzDK"
+    },
+    {
+        "titulo": "MousePad Desk Pad Eddias em Couro Ecologico 90x40cm - (Café)",
+        "preco": "49,90",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "",
+        "imagem": "https://m.media-amazon.com/images/I/41nLgkxKYmL._AC_SR160,134_CB1169409_QL70_.jpg",
+        "link_afiliado": "https://link.amazon/A00yNmugt"
+    },
+    {
+        "titulo": "Mouse sem fio Logitech Pebble 2 M350s com Clique Silencioso, Design Slim Ambidestro, Conexão Bluetooth e Pilha Inclusa -",
+        "preco": "105,91",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "🚚 *Frete GRÁTIS com Prime*",
+        "imagem": "https://m.media-amazon.com/images/I/61mrwx7vvsL._AC_UL320_.jpg",
+        "link_afiliado": "https://link.amazon/B05JJdVcu"
+    },
+    {
+        "titulo": "Luz de Teto Inteligente RGB 24W, 16 Milhões de Cores, Controle por Voz com Alexa e Assistant, App Tuya, Branco Ajustável",
+        "preco": "94,99",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "🚚 *Frete GRÁTIS com Prime*",
+        "imagem": "https://m.media-amazon.com/images/I/71gkyfKddNL._AC_UL320_.jpg",
+        "link_afiliado": "https://link.amazon/B0bBdfFwD"
+    },
+    {
+        "titulo": "Dom Quixote de la Mancha – Edição de Luxo Almofadada | Versão Integral em Capa Dura",
+        "preco": "73,10",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "",
+        "imagem": "https://images-na.ssl-images-amazon.com/images/I/7173OUDvmuL._AC_UL165_SR165,165_.jpg",
+        "link_afiliado": "https://link.amazon/B05rLlK91"
+    },
+    {
+        "titulo": "Luminária Inteligente 18W 3000-6500K Wifi Elgin Quadrada de Embutir compatível com Alexa e Google Home",
+        "preco": "76,86",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "🚚 *Frete GRÁTIS com Prime*",
+        "imagem": "https://m.media-amazon.com/images/I/61NUn5wYW9L._AC_UL320_.jpg",
+        "link_afiliado": "https://link.amazon/B0azuVdXA"
+    },
+    {
+        "titulo": "Lâmpada Smart​ LED Inteligente RGB E27​ 18W Wi-Fi Bluetooth​ 16 Milhões de Cores Compatível com Alexa Google Assistente ",
+        "preco": "34,90",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "🚚 *Frete GRÁTIS com Prime*",
+        "imagem": "https://m.media-amazon.com/images/I/61GxnvSTvfL._AC_UL320_.jpg",
+        "link_afiliado": "https://link.amazon/B0jag02DK"
+    },
+    {
+        "titulo": "Colchão Inflável Casal - Colchão de Ar para Camping, Casa e Visitas - 186x150x22cm - Estrutura Honeycomb Reforçada (Azul",
+        "preco": "94,99",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "",
+        "imagem": "https://images-na.ssl-images-amazon.com/images/I/51zYA0blmJL._AC_UL165_SR165,165_.jpg",
+        "link_afiliado": "https://link.amazon/B0cNcxkn9"
+    },
+    {
+        "titulo": "Colapso",
+        "preco": "157,61",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "",
+        "imagem": "https://images-na.ssl-images-amazon.com/images/I/A1ybPZVzBeL._AC_UL165_SR165,165_.jpg",
+        "link_afiliado": "https://link.amazon/B0hBSVx3J"
+    },
+    {
+        "titulo": "Frieren e a Jornada Para o Além - 02",
+        "preco": "33,25",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "",
+        "imagem": "https://images-na.ssl-images-amazon.com/images/I/91R680Ay+YL._AC_UL165_SR165,165_.jpg",
+        "link_afiliado": "https://link.amazon/B05u8YQkP"
+    },
+    {
+        "titulo": "MODUS 950mL Garrafa de Água Térmica Esportiva Inox Isolada a Vácuo | com Base Emborrachada Anti Derrapante, Alca Paracor",
+        "preco": "69,98",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "🚚 *Frete GRÁTIS com Prime*",
+        "imagem": "https://m.media-amazon.com/images/I/61X9xNUtLuL._AC_UL320_.jpg",
+        "link_afiliado": "https://link.amazon/B0ix07E5s"
+    },
+    {
+        "titulo": "Ventilador de Teto LED Silencioso Nepul Turbo com 3 Pás Retráteis e Controle Remoto Branco 42\"",
+        "preco": "359,94",
+        "preco_antigo": "999,00",
+        "desconto": "(63,97% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_663893-MLA97611338464_112025-AB.webp",
+        "link_afiliado": "https://meli.la/215kcxF"
+    },
+    {
+        "titulo": "Creatina Monohidratada 500g Growth Supplements - Sem Sabor em Pó",
+        "preco": "68,90",
+        "preco_antigo": "104,90",
+        "desconto": "(34,32% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_602304-MLA109372354737_032026-AB.webp",
+        "link_afiliado": "https://meli.la/1qTehwx"
+    },
+    {
+        "titulo": "Cadeira De Escritorio Ergonomica Nr17 Glorious Marqs Home Giratoria Resistente Reforçada 180kg Confortavel Reuniao Mesh Preta",
+        "preco": "379,90",
+        "preco_antigo": "588,27",
+        "desconto": "(35,42% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_817671-MLA110181633795_042026-AB.webp",
+        "link_afiliado": "https://meli.la/1UkRVGp"
+    },
+    {
+        "titulo": "Travesseiro Cervical Borboleta Memory Foam Alívio Dor Cervic",
+        "preco": "163,63",
+        "preco_antigo": "298,00",
+        "desconto": "(45,09% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_723979-MLB101880455787_122025-AB--travesseiro-cervical-borboleta-memory-foam-alivio-dor-cervic.webp",
+        "link_afiliado": "https://meli.la/1mnWUma"
+    },
+    {
+        "titulo": "Furadeira Parafusadeira Sem Fio 3/8 Maleta + Kit Ferramentas",
+        "preco": "226,10",
+        "preco_antigo": "429,90",
+        "desconto": "(47,41% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_743443-MLB96980705310_112025-AB--furadeira-parafusadeira-sem-fio-38-maleta--kit-ferramentas.webp",
+        "link_afiliado": "https://meli.la/2vd67Nv"
+    },
+    {
+        "titulo": "Chuveiro Eletrônio Lorenzetti Acqua Storm Ultra Branco 7800W",
+        "preco": "341,82",
+        "preco_antigo": "850,00",
+        "desconto": "(59,79% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_808703-MLA99523580704_122025-AB.webp",
+        "link_afiliado": "https://meli.la/2V6rgin"
+    },
+    {
+        "titulo": "Whey Protein Concentrado 1kg Dark Lab Sabor Doce de leite",
+        "preco": "147,81",
+        "preco_antigo": "349,90",
+        "desconto": "(57,76% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_926889-MLA99570923936_122025-AB.webp",
+        "link_afiliado": "https://meli.la/1P7dNJ1"
+    },
+    {
+        "titulo": "Jogo Kit de Ferramentas Manuais Chave Catraca 1/2 8 a 32mm BCS022 The Black Tools Cor Amarelo",
+        "preco": "119,90",
+        "preco_antigo": "279,90",
+        "desconto": "(57,16% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_680576-MLA113460946830_072026-AB.webp",
+        "link_afiliado": "https://meli.la/2tPXjCA"
+    },
+    {
+        "titulo": "Kit 2 Câmeras Segurança Ip Interna Externa Wifi iCSee Infravermelho Prova D’Água - HW",
+        "preco": "173,02",
+        "preco_antigo": "339,00",
+        "desconto": "(48,96% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_901090-MLA99414404486_112025-AB.webp",
+        "link_afiliado": "https://meli.la/1jSnQfq"
+    },
+    {
+        "titulo": "Escova Modeladora De Ions Negativosde 38mm/9 Ajustes De Temperatura,liso Oucacheado,secagem Rápida,tecnologia Deaquecimento Ptc/ntc Tecnologia,cuidado Capilar Com Íons Negativos,cachos Duradouros",
+        "preco": "169,00",
+        "preco_antigo": "210,60",
+        "desconto": "(19,75% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_795003-MLA99347579358_112025-AB.webp",
+        "link_afiliado": "https://meli.la/1gcs7Pk"
+    },
+    {
+        "titulo": "Sapo Apertos Raposa Louca Nova Geração Ginásio Palma Guarda Aperto De Mão Antiderrapante Protetor Ginástica",
+        "preco": "148,42",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mqzywjzfmex8eb",
+        "link_afiliado": "https://s.shopee.com.br/70JJnUx6g1"
+    },
+    {
+        "titulo": "Tênis mais vendido Feminino  leve e confortável na promoção academia caminhada para o dia dia",
+        "preco": "47,99",
+        "preco_antigo": "69,55",
+        "desconto": "(31% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh7ermfbvevb27",
+        "link_afiliado": "https://s.shopee.com.br/7KwAC6vq03"
+    },
+    {
+        "titulo": "Tênis Masculino 320d Original Mais Vendido Oferta Promoção Barato",
+        "preco": "44,74",
+        "preco_antigo": "69,91",
+        "desconto": "(36% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/sg-11134201-820lk-mnk6da9is5c3cd",
+        "link_afiliado": "https://s.shopee.com.br/7fZ0aiuZK5"
+    },
+    {
+        "titulo": "Calça Alfaiataria Feminina  Social Casual Reta plissada Elegante Plus size mais vendidas do ano",
+        "preco": "47,50",
+        "preco_antigo": "98,96",
+        "desconto": "(52% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-mnljjb8b96gx53",
+        "link_afiliado": "https://s.shopee.com.br/5LB5oR3S3b"
+    },
+    {
+        "titulo": "Kit 4 Pares de Chinelo Masculino Adulto Tira Grossa Mais Vendidos",
+        "preco": "37,90",
+        "preco_antigo": "39,89",
+        "desconto": "(5% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcb369qs578gc9",
+        "link_afiliado": "https://s.shopee.com.br/5fnwD32BNd"
+    },
+    {
+        "titulo": "Tinta Suvinil Rende & Cobre Muito 3,2L Cores Mais Vendidas- Alta Cobertura e Rendimento",
+        "preco": "112,95",
+        "preco_antigo": "154,73",
+        "desconto": "(27% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-mou6z0rlt5vq89",
+        "link_afiliado": "https://s.shopee.com.br/6AkCny0HMg"
+    },
+    {
+        "titulo": "Kit 3 Sapatênis Masculino Polo Energy 3279 Original Mais Vendido Promoção LojaSpark",
+        "preco": "148,74",
+        "preco_antigo": "239,90",
+        "desconto": "(38% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m82gjfq2vi7l4e",
+        "link_afiliado": "https://s.shopee.com.br/6L3d0Gze1h"
+    },
+    {
+        "titulo": "Mesa Computador Multiuso Escritorio 1 Gaveta Prateleira Mais Vendida",
+        "preco": "78,99",
+        "preco_antigo": "197,47",
+        "desconto": "(60% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lx2tqvz219z3b2",
+        "link_afiliado": "https://s.shopee.com.br/4Az8QI7tQE"
+    },
+    {
+        "titulo": "SHORT BERMUDA CARGO COM FITA INFANTIL E JUVENIL MENINO ,MAIS VENDIDO BOLSO FRONTAL 2 ao 16 ANOS",
+        "preco": "41,99",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztu-ml4b755bruv748",
+        "link_afiliado": "https://s.shopee.com.br/50YFPp4ijJ"
+    },
+    {
+        "titulo": "TENIS  FEMININO MAIS VENDIDO  CASUAL PLATAFORMA  NA PROMOÇÃO",
+        "preco": "49,60",
+        "preco_antigo": "80,00",
+        "desconto": "(38% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjhjd1awlb7qd2",
+        "link_afiliado": "https://s.shopee.com.br/3VjRd4AQlu"
+    },
+    {
+        "titulo": "Tênis Masculino 320d Original Mais Vendido Oferta Promoção Barato LojaSpark",
+        "preco": "44,74",
+        "preco_antigo": "69,91",
+        "desconto": "(36% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98s-llux2dxeujw78e",
+        "link_afiliado": "https://s.shopee.com.br/3g2rpN9nQv"
+    },
+    {
+        "titulo": "Kit 3 Tênis Masculino 320d Oferta Promoção Barato Mais Vendido Loja Easy",
+        "preco": "119,65",
+        "preco_antigo": "209,91",
+        "desconto": "(43% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98q-lluyrikgo8iz20",
+        "link_afiliado": "https://s.shopee.com.br/1VyNFOI2pS"
+    },
+    {
+        "titulo": "TENIS FEMININO PLATAFORMA  MAIS VENDIDO NA PROMOÇÃO ,  PEÇA JÁ O SEU !",
+        "preco": "49,60",
+        "preco_antigo": "80,00",
+        "desconto": "(38% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjhjd1awlb7qd2",
+        "link_afiliado": "https://s.shopee.com.br/20udqJG8oV"
+    },
+    {
+        "titulo": "Chinelo feminino Ortopédico Antiderrapante casual Macio Confortável Moderno dia a dia Mais Vendido",
+        "preco": "31,99",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-mq2hhx4rbgn615",
+        "link_afiliado": "https://s.shopee.com.br/19ZSdNks3"
+    },
+    {
+        "titulo": "Kit 2 CALÇA FLARE Legging Infantil flanelada estilo básico escola a mais vendido",
+        "preco": "50,90",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztk-mkp5tg6c8ydf63",
+        "link_afiliado": "https://s.shopee.com.br/gPGFrLDW7"
+    },
+    {
+        "titulo": "Kit 3 Blusas Feminina Regata Alcinha Fina Suplex Com Forro Verão Tendencia Mais Vendido",
+        "preco": "53,90",
+        "preco_antigo": "89,83",
+        "desconto": "(40% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhavc1fga879c8",
+        "link_afiliado": "https://s.shopee.com.br/3LQ1QlB46t"
+    },
+    {
+        "titulo": "Chaleira Elétrica Inox 1.8L 1500W Desligamento Automático Para Café e Chá",
+        "preco": "51,99",
+        "preco_antigo": "79,98",
+        "desconto": "(35% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-820m0-moic7itn75s663",
+        "link_afiliado": "https://s.shopee.com.br/40fiDz8WlD"
+    },
+    {
+        "titulo": "Bolsa Asinha Duas Correntes Pequena Mais Vendida Tendencia Grife de Luxo",
+        "preco": "33,12",
+        "preco_antigo": "39,90",
+        "desconto": "(17% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-820m4-mnw5xj2snfuqbb",
+        "link_afiliado": "https://s.shopee.com.br/2qTkpqCy7q"
+    },
+    {
+        "titulo": "Relógio Smartwatch S11 Série 11 Tela AMOLED 2.02\"  GPS Monitor Saúde Esportivo Premium Mais Vendido",
+        "preco": "179,00",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-820mb-mnhekd4titqc3c",
+        "link_afiliado": "https://s.shopee.com.br/2gAKdXDbSp"
+    },
+    {
+        "titulo": "Kit 20 Esmaltes Drica Mais Vendidos! - Envio Imediato!",
+        "preco": "55,47",
+        "preco_antigo": "65,26",
+        "desconto": "(15% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdvx-mdepjkch3qjdc8",
+        "link_afiliado": "https://s.shopee.com.br/4Vbyou6ckG"
+    },
+    {
+        "titulo": "Kit Mão Francesa 10 Ou 12  Peças Reforçadas Suporte Prateleira Envio imediato Mais vendido",
+        "preco": "46,90",
+        "preco_antigo": "55,18",
+        "desconto": "(15% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg55r8lrbpc4c1",
+        "link_afiliado": "https://s.shopee.com.br/5VUW0k2oic"
+    },
+    {
+        "titulo": "Perfume Fit Lux Spa - Mais Vendidos - Touti Fragrancia Alta Fixacao Marcante Luxo",
+        "preco": "37,89",
+        "preco_antigo": "39,88",
+        "desconto": "(5% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzldw7b6nk451d",
+        "link_afiliado": "https://s.shopee.com.br/2LXUEvEs8X"
+    },
+    {
+        "titulo": "Gelo de Sabor 1kg para 50L - os Mais vendidos 1 kg faz 500 gelos",
+        "preco": "41,62",
+        "preco_antigo": "42,91",
+        "desconto": "(3% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lqxfg3i80dvfe3",
+        "link_afiliado": "https://s.shopee.com.br/LmPrFMUC5"
+    },
+    {
+        "titulo": "Kit Mais Vendidos Blend Roll-on de Óleo Essenciais Infantil Soninho + Xô Cólica Tropfen",
+        "preco": "49,45",
+        "preco_antigo": "89,91",
+        "desconto": "(45% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/sg-11134201-81ztm-mmrk5nqw4ykkd5",
+        "link_afiliado": "https://s.shopee.com.br/1qbDe0Gm9U"
+    },
+    {
+        "titulo": "Kit 5 Livros Atividades Educativas para Alfabetização Vogais Consoantes Alfabeto Números Cores Educação Infantil Escolar",
+        "preco": "57,00",
+        "preco_antigo": "68,67",
+        "desconto": "(17% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-820lq-monv6kfwakue5c",
+        "link_afiliado": "https://s.shopee.com.br/3B6bESBhRs"
+    },
+    {
+        "titulo": "Máquina De Barbear Masculina Recarregável 220V 4D 3 Cabeças| Modelo de 2026 - Suave para a pele",
+        "preco": "52,90",
+        "preco_antigo": "99,81",
+        "desconto": "(47% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/sg-11134201-821ex-mgiwaj1rdm308f",
+        "link_afiliado": "https://s.shopee.com.br/20udqHcoIo"
+    },
+    {
+        "titulo": "Tênis Feminino casual lançamento leve e confortável mais vendido",
+        "preco": "49,95",
+        "preco_antigo": "99,90",
+        "desconto": "(50% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mje7qfcnzpqbc7",
+        "link_afiliado": "https://s.shopee.com.br/2LXUEtbXcq"
+    },
+    {
+        "titulo": "Conjunto envio rapido mais vendidos  Lanzinha Bolso e touca com cordão punho calça moda feminina  outono inverno casual",
+        "preco": "59,99",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-820lr-mpccnn5nzcaq00",
+        "link_afiliado": "https://s.shopee.com.br/1qbDdydRdh"
+    },
+    {
+        "titulo": "Macacão Longo 2 Em 1 envio rápido mais vendidos calça pantalona casual moda blogueira tendência  lançamento  festa",
+        "preco": "37,99",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-mpplpza8o2rk41",
+        "link_afiliado": "https://s.shopee.com.br/3LQ1QjXjaw"
+    },
+    {
+        "titulo": "macacão longo 2 Em 1 mais vendidos envio rapido calça pantalona casual  moda tendência casual básico noite",
+        "preco": "37,99",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-820lu-mpplpza6wv7lbd",
+        "link_afiliado": "https://s.shopee.com.br/3qMI1eVpa1"
+    },
+    {
+        "titulo": "Tinta Rende & Cobre Muito Cores Mais Vendidas 16L Suvinil",
+        "preco": "356,59",
+        "preco_antigo": "575,15",
+        "desconto": "(38% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-820lj-moy5p8sj7k006e",
+        "link_afiliado": "https://s.shopee.com.br/2gAKdVaGwk"
+    },
+    {
+        "titulo": "Macacão longo 2 Em 1 Envio Rápido top mais vendidos calça pantalona  casual feminino  Moda Verão Tendência Brasil",
+        "preco": "34,99",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-820lr-mpplpza6vgn548",
+        "link_afiliado": "https://s.shopee.com.br/5Arfc6Qks9"
+    },
+    {
+        "titulo": "Pano de Microfibra Grande Kit 10 Unid. 40x60cm Multiuso Limpa Sem Fiapo Cor Sortida Mais Vendido!",
+        "preco": "41,24",
+        "preco_antigo": "69,90",
+        "desconto": "(41% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mc7wtmm7xl2j11",
+        "link_afiliado": "https://s.shopee.com.br/4Az8QGUYtv"
+    },
+    {
+        "titulo": "TÊNIS TRATORADO FEMININO MAIS VENDIDO PERFEITO PRO DIA DIA",
+        "preco": "49,60",
+        "preco_antigo": "80,00",
+        "desconto": "(38% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjhjd1awlb7qd2",
+        "link_afiliado": "https://s.shopee.com.br/4VbyosTIDx"
+    },
+    {
+        "titulo": "Vestido Feminino Curto Blogueira Gringa Fenda Festa Balada Verão Mais Vendido",
+        "preco": "47,92",
+        "preco_antigo": "48,90",
+        "desconto": "(2% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-81zu7-mkl5kl9isyki6d",
+        "link_afiliado": "https://s.shopee.com.br/60QmbdNaBC"
+    },
+    {
+        "titulo": "Conjunto Lanzinha Envio Rápido mais vendidos casual  capuz cordão bolso moda feminina outono inverno  despojado elegante",
+        "preco": "58,99",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-820mh-mor2x1xb7xfkcc",
+        "link_afiliado": "https://s.shopee.com.br/7VFaOOHs8N"
+    },
+    {
+        "titulo": "Calça legging com pézinho, tecido suplex flanelado. Ideal para o dia dia .Cintura alta, mais vendido",
+        "preco": "34,00",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzt3m8vj8pwlf8",
+        "link_afiliado": "https://s.shopee.com.br/8pkxyqCnQV"
+    },
+    {
+        "titulo": "Conjunto  Envio Rápido casual mais vendidos Lanzinha Bolso e touca com cordão punho moda feminina outono inverno festa",
+        "preco": "58,99",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mp41z8y3wg052b",
+        "link_afiliado": "https://s.shopee.com.br/904OB9CA5U"
+    },
+    {
+        "titulo": "3 Macacões Bebê Amore Mais Vendidos Vira Pé com Zíper Menina 100% Algodão",
+        "preco": "75,91",
+        "preco_antigo": "99,88",
+        "desconto": "(24% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhqaznmyy7eud2",
+        "link_afiliado": "https://s.shopee.com.br/80BqzJFy7G"
+    },
+    {
+        "titulo": "TENIS FEMININO CASUAL PLATAFORMA MAIS VENDIDO E CONTÁVEL",
+        "preco": "49,99",
+        "preco_antigo": "67,55",
+        "desconto": "(26% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-820mb-mlxxwcmlb6ro81",
+        "link_afiliado": "https://s.shopee.com.br/4qEpDUS1Y7"
+    },
+    {
         "titulo": "Lampada Inteligente Wi-Fi, Lampada LED Smart, RGB+CCT, 12W+3W — 16 milhões de cores, 2700K–6500K, Controle por APP (Tuya",
         "preco": "45,49",
         "preco_antigo": "",
@@ -36,24 +630,6 @@
         "link_afiliado": "https://link.amazon/B0hIX9tA3"
     },
     {
-        "titulo": "Dom Quixote de la Mancha – Edição de Luxo Almofadada | Versão Integral em Capa Dura",
-        "preco": "73,10",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://images-na.ssl-images-amazon.com/images/I/7173OUDvmuL._AC_UL165_SR165,165_.jpg",
-        "link_afiliado": "https://link.amazon/B03DktMWi"
-    },
-    {
-        "titulo": "Colapso",
-        "preco": "157,61",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://images-na.ssl-images-amazon.com/images/I/A1ybPZVzBeL._AC_UL165_SR165,165_.jpg",
-        "link_afiliado": "https://link.amazon/B05ZRxwQn"
-    },
-    {
         "titulo": "Garrafa Térmica Nórdica 1L Creme Cabo de Madeira Premium | Ideal para café, chá e bebidas quentes ou frias. Resistente a",
         "preco": "36,99",
         "preco_antigo": "",
@@ -72,15 +648,6 @@
         "link_afiliado": "https://link.amazon/B03VRgHn4"
     },
     {
-        "titulo": "Frieren e a Jornada Para o Além - 02",
-        "preco": "33,25",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://images-na.ssl-images-amazon.com/images/I/91R680Ay+YL._AC_UL165_SR165,165_.jpg",
-        "link_afiliado": "https://link.amazon/B0j8j46ec"
-    },
-    {
         "titulo": "Colchão Dura-Beam Classic Downy Casal",
         "preco": "118,18",
         "preco_antigo": "",
@@ -90,15 +657,6 @@
         "link_afiliado": "https://link.amazon/B0fEAoKxU"
     },
     {
-        "titulo": "MousePad Desk Pad Eddias em Couro Ecologico 90x40cm - (Café)",
-        "preco": "49,90",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://m.media-amazon.com/images/I/41nLgkxKYmL._AC_SR160,134_CB1169409_QL70_.jpg",
-        "link_afiliado": "https://link.amazon/A0gZZBbUs"
-    },
-    {
         "titulo": "Mouse Sem Fio Gamer Leve, 2.4G, Bluetooth, USB-C, 4000DPI, 1000Hz, Bateria 400mAh, Ergonômico para PC/Notebook",
         "preco": "90,00",
         "preco_antigo": "",
@@ -106,15 +664,6 @@
         "frete": "🚚 *Frete GRÁTIS com Prime*",
         "imagem": "https://m.media-amazon.com/images/I/51jRjk+rIyL._AC_UL320_.jpg",
         "link_afiliado": "https://link.amazon/B05RBEU3u"
-    },
-    {
-        "titulo": "Samsung Galaxy Buds Core, Fone de Ouvido, sem fio, cancelamento de ruído, interprete inteligente",
-        "preco": "224,40",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "🚚 *Frete GRÁTIS com Prime*",
-        "imagem": "https://m.media-amazon.com/images/I/31zLQOfTQ2L._AC_UL320_.jpg",
-        "link_afiliado": "https://link.amazon/B06WCdiPP"
     },
     {
         "titulo": "PHILIPS, Headphone Bluetooth, TAH2300BK/00, Com Microfone, Até 55 horas de bateria, Design Over-ear, Dobrável, Preto",
@@ -234,177 +783,6 @@
         "link_afiliado": "https://meli.la/32GJH14"
     },
     {
-        "titulo": "Tênis Masculino 320d Original Mais Vendido Oferta Promoção Barato LojaSpark",
-        "preco": "44,74",
-        "preco_antigo": "69,91",
-        "desconto": "(36% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98s-llux2dxeujw78e",
-        "link_afiliado": "https://s.shopee.com.br/9pdTWH8gWm"
-    },
-    {
-        "titulo": "TENIS FEMININO PLATAFORMA  MAIS VENDIDO NA PROMOÇÃO ,  PEÇA JÁ O SEU !",
-        "preco": "49,60",
-        "preco_antigo": "80,00",
-        "desconto": "(38% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjhjd1awlb7qd2",
-        "link_afiliado": "https://s.shopee.com.br/904MWkBrDZ"
-    },
-    {
-        "titulo": "Chinelo feminino Ortopédico Antiderrapante casual Macio Confortável Moderno dia a dia Mais Vendido",
-        "preco": "31,99",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-mq2hhx4rbgn615",
-        "link_afiliado": "https://s.shopee.com.br/8AVFXDF1uM"
-    },
-    {
-        "titulo": "Kit 2 CALÇA FLARE Legging Infantil flanelada estilo básico escola a mais vendido",
-        "preco": "50,90",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztk-mkp5tg6c8ydf63",
-        "link_afiliado": "https://s.shopee.com.br/2BE2OBbs58"
-    },
-    {
-        "titulo": "Máquina De Barbear Masculina Recarregável 220V 4D 3 Cabeças| Modelo de 2026 - Suave para a pele",
-        "preco": "52,90",
-        "preco_antigo": "99,81",
-        "desconto": "(47% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/sg-11134201-821ex-mgiwaj1rdm308f",
-        "link_afiliado": "https://s.shopee.com.br/2LXSaUbEk9"
-    },
-    {
-        "titulo": "Kit 3 Blusas Feminina Regata Alcinha Fina Suplex Com Forro Verão Tendencia Mais Vendido",
-        "preco": "53,90",
-        "preco_antigo": "89,83",
-        "desconto": "(40% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhavc1fga879c8",
-        "link_afiliado": "https://s.shopee.com.br/AAGJut7Pqw"
-    },
-    {
-        "titulo": "Chaleira Elétrica Inox 1.8L 1500W Desligamento Automático Para Café e Chá",
-        "preco": "51,99",
-        "preco_antigo": "79,98",
-        "desconto": "(35% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-820m0-moic7itn75s663",
-        "link_afiliado": "https://s.shopee.com.br/2qTjBPZKjr"
-    },
-    {
-        "titulo": "Bolsa Asinha Duas Correntes Pequena Mais Vendida Tendencia Grife de Luxo",
-        "preco": "33,12",
-        "preco_antigo": "39,90",
-        "desconto": "(17% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-820m4-mnw5xj2snfuqbb",
-        "link_afiliado": "https://s.shopee.com.br/5LB4A0Pof5"
-    },
-    {
-        "titulo": "Relógio Smartwatch S11 Série 11 Tela AMOLED 2.02\"  GPS Monitor Saúde Esportivo Premium Mais Vendido",
-        "preco": "179,00",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-820mb-mnhekd4titqc3c",
-        "link_afiliado": "https://s.shopee.com.br/5fnuYcOXz7"
-    },
-    {
-        "titulo": "Kit 20 Esmaltes Drica Mais Vendidos! - Envio Imediato!",
-        "preco": "55,47",
-        "preco_antigo": "65,26",
-        "desconto": "(15% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdvx-mdepjkch3qjdc8",
-        "link_afiliado": "https://s.shopee.com.br/60QkxENHJH"
-    },
-    {
-        "titulo": "Kit Mão Francesa 10 Ou 12  Peças Reforçadas Suporte Prateleira Envio imediato Mais vendido",
-        "preco": "46,90",
-        "preco_antigo": "55,18",
-        "desconto": "(15% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg55r8lrbpc4c1",
-        "link_afiliado": "https://s.shopee.com.br/70JI94JTHV"
-    },
-    {
-        "titulo": "Perfume Fit Lux Spa - Mais Vendidos - Touti Fragrancia Alta Fixacao Marcante Luxo",
-        "preco": "37,89",
-        "preco_antigo": "39,88",
-        "desconto": "(5% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzldw7b6nk451d",
-        "link_afiliado": "https://s.shopee.com.br/8pkwKRCUYY"
-    },
-    {
-        "titulo": "Gelo de Sabor 1kg para 50L - os Mais vendidos 1 kg faz 500 gelos",
-        "preco": "41,62",
-        "preco_antigo": "42,91",
-        "desconto": "(3% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lqxfg3i80dvfe3",
-        "link_afiliado": "https://s.shopee.com.br/8V85vpDlEO"
-    },
-    {
-        "titulo": "Kit Mais Vendidos Blend Roll-on de Óleo Essenciais Infantil Soninho + Xô Cólica Tropfen",
-        "preco": "49,45",
-        "preco_antigo": "89,91",
-        "desconto": "(45% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/sg-11134201-81ztm-mmrk5nqw4ykkd5",
-        "link_afiliado": "https://s.shopee.com.br/9ANmj3BDsa"
-    },
-    {
-        "titulo": "Kit 5 Livros Atividades Educativas para Alfabetização Vogais Consoantes Alfabeto Números Cores Educação Infantil Escolar",
-        "preco": "57,00",
-        "preco_antigo": "68,67",
-        "desconto": "(17% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-820lq-monv6kfwakue5c",
-        "link_afiliado": "https://s.shopee.com.br/5VUUMJPBK6"
-    },
-    {
-        "titulo": "Tênis Feminino casual lançamento leve e confortável mais vendido",
-        "preco": "49,95",
-        "preco_antigo": "99,90",
-        "desconto": "(50% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mje7qfcnzpqbc7",
-        "link_afiliado": "https://s.shopee.com.br/8fRW82OLk9"
-    },
-    {
-        "titulo": "Conjunto envio rapido mais vendidos  Lanzinha Bolso e touca com cordão punho calça moda feminina  outono inverno casual",
-        "preco": "59,99",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-820lr-mpccnn5nzcaq00",
-        "link_afiliado": "https://s.shopee.com.br/1LevOYqGcf"
-    },
-    {
-        "titulo": "Macacão Longo 2 Em 1 envio rápido mais vendidos calça pantalona casual moda blogueira tendência  lançamento  festa",
-        "preco": "37,99",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-mpplpza8o2rk41",
-        "link_afiliado": "https://s.shopee.com.br/1VyLarpdHg"
-    },
-    {
-        "titulo": "macacão longo 2 Em 1 mais vendidos envio rapido calça pantalona casual  moda tendência casual básico noite",
-        "preco": "37,99",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-820lu-mpplpza6wv7lbd",
-        "link_afiliado": "https://s.shopee.com.br/20ucBmnjGj"
-    },
-    {
         "titulo": "Tenis Knu School Unissex Premium Cadarço Grosso Skate Basquete Confortavel leve Macio Mais Vendido Promoção",
         "preco": "44,06",
         "preco_antigo": "89,92",
@@ -412,78 +790,6 @@
         "frete": "",
         "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-mp3uusgqcveu39",
         "link_afiliado": "https://s.shopee.com.br/LmOCiu4eN"
-    },
-    {
-        "titulo": "Tinta Rende & Cobre Muito Cores Mais Vendidas 16L Suvinil",
-        "preco": "356,59",
-        "preco_antigo": "548,60",
-        "desconto": "(35% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-820lj-moy5p8sj7k006e",
-        "link_afiliado": "https://s.shopee.com.br/W5oP1tRJO"
-    },
-    {
-        "titulo": "Macacão longo 2 Em 1 Envio Rápido top mais vendidos calça pantalona  casual feminino  Moda Verão Tendência Brasil",
-        "preco": "34,99",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-820lr-mpplpza6vgn548",
-        "link_afiliado": "https://s.shopee.com.br/1BLVCFqtxS"
-    },
-    {
-        "titulo": "Pano de Microfibra Grande Kit 10 Unid. 40x60cm Multiuso Limpa Sem Fiapo Cor Sortida Mais Vendido!",
-        "preco": "41,24",
-        "preco_antigo": "69,90",
-        "desconto": "(41% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mc7wtmm7xl2j11",
-        "link_afiliado": "https://s.shopee.com.br/4LIWy4eqX1"
-    },
-    {
-        "titulo": "TÊNIS TRATORADO FEMININO MAIS VENDIDO PERFEITO PRO DIA DIA",
-        "preco": "49,60",
-        "preco_antigo": "80,00",
-        "desconto": "(38% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjhjd1awlb7qd2",
-        "link_afiliado": "https://s.shopee.com.br/4VbxANeDC2"
-    },
-    {
-        "titulo": "Vestido Feminino Curto Blogueira Gringa Fenda Festa Balada Verão Mais Vendido",
-        "preco": "47,92",
-        "preco_antigo": "48,90",
-        "desconto": "(2% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-81zu7-mkl5kl9isyki6d",
-        "link_afiliado": "https://s.shopee.com.br/50YDlIcJB5"
-    },
-    {
-        "titulo": "Conjunto Lanzinha Envio Rápido mais vendidos casual  capuz cordão bolso moda feminina outono inverno  despojado elegante",
-        "preco": "58,99",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-820mh-mor2x1xb7xfkcc",
-        "link_afiliado": "https://s.shopee.com.br/3LPzmEieYb"
-    },
-    {
-        "titulo": "Calça legging com pézinho, tecido suplex flanelado. Ideal para o dia dia .Cintura alta, mais vendido",
-        "preco": "34,00",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzt3m8vj8pwlf8",
-        "link_afiliado": "https://s.shopee.com.br/7psP8VRWQN"
-    },
-    {
-        "titulo": "Conjunto  Envio Rápido casual mais vendidos Lanzinha Bolso e touca com cordão punho moda feminina outono inverno festa",
-        "preco": "58,99",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mp41z8y3wg052b",
-        "link_afiliado": "https://s.shopee.com.br/5fnuYWZlos"
     },
     {
         "titulo": "Panela De Pressão 4,5litros Panelux Linha Classic Alto Brilho A Mais Vendida Do Brasil",
@@ -531,15 +837,6 @@
         "link_afiliado": "https://s.shopee.com.br/30n9NcjvEd"
     },
     {
-        "titulo": "3 Macacões Bebê Amore Mais Vendidos Vira Pé com Zíper Menina 100% Algodão",
-        "preco": "75,91",
-        "preco_antigo": "99,88",
-        "desconto": "(24% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhqaznmyy7eud2",
-        "link_afiliado": "https://s.shopee.com.br/5q7KkpZ8Tv"
-    },
-    {
         "titulo": "Kit 3 Macacões Bebê Amore Vira Pé Zíper Mais Vendidos Menino 100% Algodão",
         "preco": "75,50",
         "preco_antigo": "99,34",
@@ -556,15 +853,6 @@
         "frete": "",
         "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m0ug60nv7fjrb3",
         "link_afiliado": "https://s.shopee.com.br/2VqsmhlpFq"
-    },
-    {
-        "titulo": "TENIS FEMININO CASUAL PLATAFORMA MAIS VENDIDO E CONTÁVEL",
-        "preco": "49,99",
-        "preco_antigo": "67,55",
-        "desconto": "(26% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-820mb-mlxxwcmlb6ro81",
-        "link_afiliado": "https://s.shopee.com.br/19Xo6vLKH"
     },
     {
         "titulo": "Conjunto Lanzinha mais vendidos casual Plus e cordão bolso moda feminina outono inverno 2026 despojado festa elegante.",
@@ -610,293 +898,5 @@
         "frete": "",
         "imagem": "https://images-na.ssl-images-amazon.com/images/I/612qiWchIdL._AC_UL165_SR165,165_.jpg",
         "link_afiliado": "https://link.amazon/B03LSfQhz"
-    },
-    {
-        "titulo": "Garrafa Térmica Agua Aço Inox 600ml BARATINHA + Protetor de Base de Silicone, Duplamente Isolada, Aço Inox 304, Mantém B",
-        "preco": "50,90",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "🚚 *Frete GRÁTIS com Prime*",
-        "imagem": "https://m.media-amazon.com/images/I/71U4KIxh5CL._AC_UL320_.jpg",
-        "link_afiliado": "https://link.amazon/B08924Dlx"
-    },
-    {
-        "titulo": "Colchão Inflável Casal C/Inflador Acoplado Multiuso O2Flow",
-        "preco": "107,00",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://images-na.ssl-images-amazon.com/images/I/41cvLyIU7XL._AC_UL165_SR165,165_.jpg",
-        "link_afiliado": "https://link.amazon/B0co60beD"
-    },
-    {
-        "titulo": "Luminária LED Ecospot Inteligente 5W 3000-6500k Elgin Redonda WIFI RGB Bivolt Compatível com Alexa e Google Home",
-        "preco": "59,76",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "🚚 *Frete GRÁTIS com Prime*",
-        "imagem": "https://m.media-amazon.com/images/I/61Hb6xuWsUL._AC_UL320_.jpg",
-        "link_afiliado": "https://link.amazon/B04IaQwtX"
-    },
-    {
-        "titulo": "Intex, Bomba de Ar manual para colchão e bóia inflável, funcionamento rápido, média (37cm)",
-        "preco": "39,90",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://images-na.ssl-images-amazon.com/images/I/6131maLjZDL._AC_UL165_SR165,165_.jpg",
-        "link_afiliado": "https://link.amazon/B0coOS6a7"
-    },
-    {
-        "titulo": "Luz de Teto Inteligente RGB 24W, 16 Milhões de Cores, Controle por Voz com Alexa e Assistant, App Tuya, Branco Ajustável",
-        "preco": "94,99",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "🚚 *Frete GRÁTIS com Prime*",
-        "imagem": "https://m.media-amazon.com/images/I/71gkyfKddNL._AC_UL320_.jpg",
-        "link_afiliado": "https://link.amazon/B00VD164s"
-    },
-    {
-        "titulo": "Lâmpada LED RGB com Controle Remoto E27, 16 Cores, Luz Colorida Decorativa, Ideal para Quarto, Sala e Festa. Luz Colorid",
-        "preco": "39,49",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "🚚 *Frete GRÁTIS com Prime*",
-        "imagem": "https://m.media-amazon.com/images/I/51qMBAjT+BL._AC_UL320_.jpg",
-        "link_afiliado": "https://link.amazon/B0eCrIODS"
-    },
-    {
-        "titulo": "Bel - Bomba Manual para Infláveis",
-        "preco": "32,55",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://images-na.ssl-images-amazon.com/images/I/511aEMatDbL._AC_UL165_SR165,165_.jpg",
-        "link_afiliado": "https://link.amazon/B09maKc19"
-    },
-    {
-        "titulo": "soundcore P31i da Anker, Fone de Ouvido Bluetooth 6.1 Sem Fio, TWS IP55 | 50H, Som de Alta Resolução, Cancelamento de Ru",
-        "preco": "312,55",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://m.media-amazon.com/images/I/51nHT2kQ1bL._AC_SR160,134_CB1169409_QL70_.jpg",
-        "link_afiliado": "https://link.amazon/A0gcYjz9i"
-    },
-    {
-        "titulo": "Whey Protein Concentrado Pote (900g), Chocolate Branco, Dux Human Health",
-        "preco": "203,00",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://images-na.ssl-images-amazon.com/images/I/71i2lK75aCL._AC_UL450_SR450,320_.jpg",
-        "link_afiliado": "https://link.amazon/B0dUF9Upc"
-    },
-    {
-        "titulo": "Sanduicheira Elétrica Cadence Click - 220V",
-        "preco": "88,85",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://images-na.ssl-images-amazon.com/images/I/51UxR8FHe-L._AC_UL450_SR450,320_.jpg",
-        "link_afiliado": "https://link.amazon/B0hO3OVhr"
-    },
-    {
-        "titulo": "Mixer de Mão 200W Elgin Compacto e Leve, ergonômico e fácil de limpar Branco 110v",
-        "preco": "74,90",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://images-na.ssl-images-amazon.com/images/I/41Bo0r++HQL._AC_UL450_SR450,320_.jpg",
-        "link_afiliado": "https://link.amazon/B0fWlPoSJ"
-    },
-    {
-        "titulo": "Kit 6 Pares Meia Cano Médio Alto Atoalhada Esportiva Algodão Masculina Feminina Unissex Adulto Academia Dia a Dia Puma",
-        "preco": "54,99",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://images-na.ssl-images-amazon.com/images/I/810jGLHWRwL._AC_UL450_SR450,320_.jpg",
-        "link_afiliado": "https://link.amazon/B0dGIfLdp"
-    },
-    {
-        "titulo": "Scotch, 3M, Fixa Forte, Fita Dupla Face, Fixação Extrema, 24mm x 2m",
-        "preco": "30,44",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://images-na.ssl-images-amazon.com/images/I/71mEwfbHotL._AC_UL450_SR450,320_.jpg",
-        "link_afiliado": "https://link.amazon/B00yKwEPS"
-    },
-    {
-        "titulo": "Mor Life - Colchão Inflável Multiuso King com Fole",
-        "preco": "113,05",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://images-na.ssl-images-amazon.com/images/I/41OwPbwDc5L._AC_UL450_SR450,320_.jpg",
-        "link_afiliado": "https://link.amazon/B02vrE4gq"
-    },
-    {
-        "titulo": "Auxiliar Partida Portátil Veicular Compressor Ar Emergência",
-        "preco": "159,40",
-        "preco_antigo": "299,00",
-        "desconto": "(46,69% OFF)",
-        "frete": "⚡ *Frete FULL / GRÁTIS*",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_952601-MLB104060579421_012026-AB--auxiliar-partida-portatil-veicular-compressor-ar-emergencia.webp",
-        "link_afiliado": "https://meli.la/1fJwegN"
-    },
-    {
-        "titulo": "Kit 700 Figurinha Do Álbum Copa Do Mundo 2026- 100 Envelopes",
-        "preco": "474,70",
-        "preco_antigo": "1.000,00",
-        "desconto": "(52,53% OFF)",
-        "frete": "⚡ *Frete FULL / GRÁTIS*",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_719889-MLB110799756479_042026-AB--kit-700-figurinha-do-album-copa-do-mundo-2026-100-envelopes.webp",
-        "link_afiliado": "https://meli.la/2vSctET"
-    },
-    {
-        "titulo": "Secador De Cabelos Philco psc3500 4 Em 1 dobrável motor bldc Prateado",
-        "preco": "379,00",
-        "preco_antigo": "599,00",
-        "desconto": "(36,73% OFF)",
-        "frete": "⚡ *Frete FULL / GRÁTIS*",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_871708-MLA100016593317_122025-AB.webp",
-        "link_afiliado": "https://meli.la/1iHK2Yw"
-    },
-    {
-        "titulo": "Mangueira Jardim 30 Metros Com Esguicho Trançada Reforçada Flexível 7/16 Anti Dobra Irrigação Quintal Poço Lavagem Durável Marqs Home",
-        "preco": "38,18",
-        "preco_antigo": "69,90",
-        "desconto": "(45,38% OFF)",
-        "frete": "⚡ *Frete FULL / GRÁTIS*",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_871879-MLA109738915530_042026-AB.webp",
-        "link_afiliado": "https://meli.la/2dMZBxx"
-    },
-    {
-        "titulo": "Escada Articulada 4x4 em Alumínio 16 Degraus 4,48m - Reisam",
-        "preco": "493,99",
-        "preco_antigo": "569,99",
-        "desconto": "(13,33% OFF)",
-        "frete": "⚡ *Frete FULL / GRÁTIS*",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_715916-MLA99521624378_122025-AB.webp",
-        "link_afiliado": "https://meli.la/18H7iT2"
-    },
-    {
-        "titulo": "Kit 2 Controles Remoto Peccinin para Portão Eletrônico - Tecnologia Rolling Code e Alcance Ampliado",
-        "preco": "55,99",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-820lr-mq550c9ziy2odb",
-        "link_afiliado": "https://s.shopee.com.br/4LI1v9Rfzy"
-    },
-    {
-        "titulo": "Brinquedo Interativo Cachorro Eletronico Educativo Infantil Divertido Tecnologia Avancada",
-        "preco": "43,98",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/sg-11134201-825zr-mjlgosdsvdvnf0",
-        "link_afiliado": "https://s.shopee.com.br/4AybiqSJKv"
-    },
-    {
-        "titulo": "Livro Antigo Semicondutores Física E Eletrônica De E. J Cass (Usado)",
-        "preco": "60,00",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-820lg-mncyjg72q0ow08",
-        "link_afiliado": "https://s.shopee.com.br/5Ar8ugOVJ5"
-    },
-    {
-        "titulo": "teoria e processo de desenvolvimento em eletrônica - sidnei david",
-        "preco": "30,00",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-820lw-mpo245mn30g161",
-        "link_afiliado": "https://s.shopee.com.br/50XiiNP8e2"
-    },
-    {
-        "titulo": "Luz Eletrônica Do Desktop Jogo De SOSFER , Transparente Da Atmosfera Tecnologia Iluminação Diodo Emissor De Cubo",
-        "preco": "139,84",
-        "preco_antigo": "341,07",
-        "desconto": "(59% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/sg-11134201-824gv-mpzolbr2rg2406",
-        "link_afiliado": "https://s.shopee.com.br/80BKHLbULJ"
-    },
-    {
-        "titulo": "Kit de Robótica Maker - Robô Ambulante DIY | Componentes Eletrônicos",
-        "preco": "67,00",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m0p4cvyiqnwh19",
-        "link_afiliado": "https://s.shopee.com.br/AKZF3dSbbj"
-    },
-    {
-        "titulo": "Kit Arduino Robô Seguidor de Linha DIY - Arduino, Módulos e Componentes Eletrônicos",
-        "preco": "247,00",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lqd2hryngmqn08",
-        "link_afiliado": "https://s.shopee.com.br/9fJYGPV8xX"
-    },
-    {
-        "titulo": "Livro Eletrônica Fácil Novatec Editora",
-        "preco": "42,00",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/d9f37412065be0dcd53110546b3596f0",
-        "link_afiliado": "https://s.shopee.com.br/9V0846VmIS"
-    },
-    {
-        "titulo": "A Arte da Eletrônica - Circuitos Eletrônicos e Microeletrônica -  Horowitz, Paul / Hill, Winfield / Pertence Jr., Antoni",
-        "preco": "387,90",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-820l5-mnxmyd758j5w3e",
-        "link_afiliado": "https://s.shopee.com.br/111ZwU28Xn"
-    },
-    {
-        "titulo": "OUDIMEIHE DIY Relógio De Areia Digital , Tecnologia Sense Cyber Style LED Ampulheta Eletrônica , Brinquedos De Descompri",
-        "preco": "64,77",
-        "preco_antigo": "147,20",
-        "desconto": "(56% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/sg-11134201-7raum-mb4shlw3tky858",
-        "link_afiliado": "https://s.shopee.com.br/qi9kB2lsi"
-    },
-    {
-        "titulo": "Riddex Aid Repelente Eletrônico Riddex Aid Bivolt 110V/220V Tecnologia Ultrassom Alcance 185m² Prático e Seguro para Cas",
-        "preco": "32,00",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/sg-11134201-81zwg-miifo2fu3ev502",
-        "link_afiliado": "https://s.shopee.com.br/2LWxWvx3pv"
-    },
-    {
-        "titulo": "Livro Eletrônica Analógica Básica",
-        "preco": "60,00",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134201-23010-cct2d01cd8lve0",
-        "link_afiliado": "https://s.shopee.com.br/1LeQL60rrd"
-    },
-    {
-        "titulo": "BRASTOY Blocos de construção eletrônicos educativos Brinquedo para aprendizagem precoce 50 em 1",
-        "preco": "106,69",
-        "preco_antigo": "213,38",
-        "desconto": "(50% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk8xx9qeavib42",
-        "link_afiliado": "https://s.shopee.com.br/3qLlJgrLn4"
     }
 ]
