@@ -25,6 +25,8 @@
         
         .caixa-etiqueta-laranja {
             background-color: #f58634; 
+        .caixa-etiqueta-amazon { background-color: #232F3E; } /* Azul Escuro Amazon */
+        .caixa-etiqueta-shopee { background-color: #EE4D2D; } /* Vermelho/Laranja Shopee */
         }
         
         .container { max-width: 1200px; margin: 2rem auto; padding: 0 1rem; }
@@ -132,10 +134,21 @@
                         corTextoBotao = "white";
                     }
 
-                    // 🔥 LÓGICA DA ETIQUETA VIP INSERIDA AQUI!
+                    // 🔥 LÓGICA DA ETIQUETA VIP MULTI-LOJAS!
                     let htmlEtiqueta = "";
                     if (prod.tag_promo && prod.tag_promo.trim() !== "") {
-                        let classeCor = prod.tag_promo.includes("VENDIDO") ? "caixa-etiqueta-laranja" : "";
+                        let classeCor = "";
+                        
+                        // Define a cor da etiqueta baseada na plataforma!
+                        if (linkBase.includes("amzn") || linkBase.includes("amazon")) {
+                            classeCor = "caixa-etiqueta-amazon";
+                        } else if (linkBase.includes("shopee") || linkBase.includes("shp.ee")) {
+                            classeCor = "caixa-etiqueta-shopee";
+                        } else {
+                            // Se for Mercado Livre, verifica se é Mais Vendido
+                            classeCor = prod.tag_promo.includes("VENDIDO") ? "caixa-etiqueta-laranja" : "";
+                        }
+                        
                         htmlEtiqueta = `<div class="caixa-etiqueta-vip ${classeCor}">${prod.tag_promo}</div>`;
                     }
                     
