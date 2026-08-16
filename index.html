@@ -10,9 +10,9 @@
         header h1 { margin: 0; font-size: 2rem; }
         header p { margin-top: 10px; font-size: 1.1rem; color: #ecf0f1; }
         
-        /* O SEU CSS FICOU PERFEITO AQUI */
+        /* 🔥 AQUI ESTÁ A MÁGICA QUE DESENHA A CAIXINHA VIP! */
         .caixa-etiqueta-vip {
-            background-color: #3483fa; /* Azul Oficial Mercado Livre */
+            background-color: #3483fa; 
             color: #ffffff;
             font-size: 11px;
             font-weight: 600;
@@ -24,7 +24,7 @@
         }
         
         .caixa-etiqueta-laranja {
-            background-color: #f58634; /* Laranja Oficial 'Mais Vendido' */
+            background-color: #f58634; 
         }
         
         .container { max-width: 1200px; margin: 2rem auto; padding: 0 1rem; }
@@ -114,28 +114,27 @@
                     
                     // 🕵️‍♂️ DETETIVE DE LINKS: Descobre a loja e muda a cor do botão!
                     let nomeBotao = "Ver Oferta Oficial";
-                    let corBotao = "#3498db"; // Azul Padrão
+                    let corBotao = "#3498db"; 
                     let corTextoBotao = "white";
 
                     let linkBase = prod.link_afiliado.toLowerCase();
                     if (linkBase.includes("amzn") || linkBase.includes("amazon")) {
                         nomeBotao = "Ver na Amazon";
-                        corBotao = "#FF9900"; // Laranja Amazon
+                        corBotao = "#FF9900"; 
                         corTextoBotao = "#232F3E";
                     } else if (linkBase.includes("meli") || linkBase.includes("mercadolivre")) {
                         nomeBotao = "Ver no Mercado Livre";
-                        corBotao = "#FFE600"; // Amarelo ML
+                        corBotao = "#FFE600"; 
                         corTextoBotao = "#2D3277";
                     } else if (linkBase.includes("shopee")) {
                         nomeBotao = "Ver na Shopee";
-                        corBotao = "#EE4D2D"; // Laranja/Vermelho Shopee
+                        corBotao = "#EE4D2D"; 
                         corTextoBotao = "white";
                     }
 
                     // 🔥 LÓGICA DA ETIQUETA VIP INSERIDA AQUI!
                     let htmlEtiqueta = "";
                     if (prod.tag_promo && prod.tag_promo.trim() !== "") {
-                        // Se for "MAIS VENDIDO", muda a cor da caixa para laranja, senão fica azul
                         let classeCor = prod.tag_promo.includes("VENDIDO") ? "caixa-etiqueta-laranja" : "";
                         htmlEtiqueta = `<div class="caixa-etiqueta-vip ${classeCor}">${prod.tag_promo}</div>`;
                     }
