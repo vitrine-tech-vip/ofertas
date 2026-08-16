@@ -10,6 +10,23 @@
         header h1 { margin: 0; font-size: 2rem; }
         header p { margin-top: 10px; font-size: 1.1rem; color: #ecf0f1; }
         
+        /* O SEU CSS FICOU PERFEITO AQUI */
+        .caixa-etiqueta-vip {
+            background-color: #3483fa; /* Azul Oficial Mercado Livre */
+            color: #ffffff;
+            font-size: 11px;
+            font-weight: 600;
+            padding: 4px 8px;
+            border-radius: 4px;
+            display: inline-block;
+            margin-bottom: 8px;
+            text-transform: uppercase;
+        }
+        
+        .caixa-etiqueta-laranja {
+            background-color: #f58634; /* Laranja Oficial 'Mais Vendido' */
+        }
+        
         .container { max-width: 1200px; margin: 2rem auto; padding: 0 1rem; }
         .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 20px; }
         
@@ -114,11 +131,20 @@
                         corBotao = "#EE4D2D"; // Laranja/Vermelho Shopee
                         corTextoBotao = "white";
                     }
+
+                    // 🔥 LÓGICA DA ETIQUETA VIP INSERIDA AQUI!
+                    let htmlEtiqueta = "";
+                    if (prod.tag_promo && prod.tag_promo.trim() !== "") {
+                        // Se for "MAIS VENDIDO", muda a cor da caixa para laranja, senão fica azul
+                        let classeCor = prod.tag_promo.includes("VENDIDO") ? "caixa-etiqueta-laranja" : "";
+                        htmlEtiqueta = `<div class="caixa-etiqueta-vip ${classeCor}">${prod.tag_promo}</div>`;
+                    }
                     
                     card.innerHTML = `
                         ${tagDesconto}
                         <img src="${prod.imagem}" alt="Imagem do Produto">
                         <div class="card-content">
+                            ${htmlEtiqueta} <!-- A ETIQUETA RENDERIZA EXATAMENTE AQUI -->
                             <div class="title">${prod.titulo}</div>
                             ${tagPrecoAntigo}
                             <div class="price">R$ ${prod.preco}</div>
