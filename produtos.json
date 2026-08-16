@@ -1,156 +1,201 @@
 [
     {
-        "titulo": "Xiaomi Redmi Buds 6 Play",
-        "preco": "89,90",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://m.media-amazon.com/images/I/51DVGGv77KL._AC_UL320_.jpg",
-        "link_afiliado": "https://link.amazon/B02ZjTupZ"
-    },
-    {
-        "titulo": "Fone de Ouvido Sem Fio, HUAWEI FreeBuds SE 2, Até 40 Horas de Bateria, Compacto e Confortável, Até 3 Horas de Música com",
-        "preco": "130,38",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "🚚 *Frete GRÁTIS com Prime*",
-        "imagem": "https://m.media-amazon.com/images/I/61iR-8Aj7CL._AC_UL320_.jpg",
-        "link_afiliado": "https://link.amazon/B03EFiZYE"
-    },
-    {
-        "titulo": "Samsung Galaxy Buds Core, Fone de Ouvido, sem fio, cancelamento de ruído, interprete inteligente",
-        "preco": "224,40",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "🚚 *Frete GRÁTIS com Prime*",
-        "imagem": "https://m.media-amazon.com/images/I/31zLQOfTQ2L._AC_UL320_.jpg",
-        "link_afiliado": "https://link.amazon/B0f78XNT1"
-    },
-    {
-        "titulo": "I2GO, Headphone Bass 500, Bluetooth, Microfone Integrado, Controle Multimídia, Até 30h de bateria, Entrada cabo auxiliar",
-        "preco": "109,90",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "🚚 *Frete GRÁTIS com Prime*",
-        "imagem": "https://m.media-amazon.com/images/I/71lH6hi34vL._AC_UL320_.jpg",
-        "link_afiliado": "https://link.amazon/B012o2SMB"
-    },
-    {
-        "titulo": "Colchão Dura-Beam Downy Casal com bomba de pé embutida",
-        "preco": "155,29",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://images-na.ssl-images-amazon.com/images/I/71rSwNQKTiL._AC_UL165_SR165,165_.jpg",
-        "link_afiliado": "https://link.amazon/B03WfGunm"
-    },
-    {
-        "titulo": "ATTACK SHARK X11 Mouse sem fio leve, 62g, RGB, conexão tri-modo (2.4G/USB-C/BT), 22K DPI, sensor PAW3311, 5 botões progr",
-        "preco": "179,90",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://m.media-amazon.com/images/I/511ErkBZ2aL._AC_UL320_.jpg",
-        "link_afiliado": "https://link.amazon/B040TwzDK"
-    },
-    {
-        "titulo": "MousePad Desk Pad Eddias em Couro Ecologico 90x40cm - (Café)",
-        "preco": "49,90",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://m.media-amazon.com/images/I/41nLgkxKYmL._AC_SR160,134_CB1169409_QL70_.jpg",
-        "link_afiliado": "https://link.amazon/A00yNmugt"
-    },
-    {
-        "titulo": "Mouse sem fio Logitech Pebble 2 M350s com Clique Silencioso, Design Slim Ambidestro, Conexão Bluetooth e Pilha Inclusa -",
-        "preco": "105,91",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "🚚 *Frete GRÁTIS com Prime*",
-        "imagem": "https://m.media-amazon.com/images/I/61mrwx7vvsL._AC_UL320_.jpg",
-        "link_afiliado": "https://link.amazon/B05JJdVcu"
-    },
-    {
-        "titulo": "Luz de Teto Inteligente RGB 24W, 16 Milhões de Cores, Controle por Voz com Alexa e Assistant, App Tuya, Branco Ajustável",
-        "preco": "94,99",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "🚚 *Frete GRÁTIS com Prime*",
-        "imagem": "https://m.media-amazon.com/images/I/71gkyfKddNL._AC_UL320_.jpg",
-        "link_afiliado": "https://link.amazon/B0bBdfFwD"
-    },
-    {
-        "titulo": "Dom Quixote de la Mancha – Edição de Luxo Almofadada | Versão Integral em Capa Dura",
-        "preco": "73,10",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://images-na.ssl-images-amazon.com/images/I/7173OUDvmuL._AC_UL165_SR165,165_.jpg",
-        "link_afiliado": "https://link.amazon/B05rLlK91"
-    },
-    {
-        "titulo": "Luminária Inteligente 18W 3000-6500K Wifi Elgin Quadrada de Embutir compatível com Alexa e Google Home",
-        "preco": "76,86",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "🚚 *Frete GRÁTIS com Prime*",
-        "imagem": "https://m.media-amazon.com/images/I/61NUn5wYW9L._AC_UL320_.jpg",
-        "link_afiliado": "https://link.amazon/B0azuVdXA"
-    },
-    {
-        "titulo": "Lâmpada Smart​ LED Inteligente RGB E27​ 18W Wi-Fi Bluetooth​ 16 Milhões de Cores Compatível com Alexa Google Assistente ",
-        "preco": "34,90",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "🚚 *Frete GRÁTIS com Prime*",
-        "imagem": "https://m.media-amazon.com/images/I/61GxnvSTvfL._AC_UL320_.jpg",
-        "link_afiliado": "https://link.amazon/B0jag02DK"
-    },
-    {
-        "titulo": "Colchão Inflável Casal - Colchão de Ar para Camping, Casa e Visitas - 186x150x22cm - Estrutura Honeycomb Reforçada (Azul",
-        "preco": "94,99",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://images-na.ssl-images-amazon.com/images/I/51zYA0blmJL._AC_UL165_SR165,165_.jpg",
-        "link_afiliado": "https://link.amazon/B0cNcxkn9"
-    },
-    {
-        "titulo": "Colapso",
-        "preco": "157,61",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://images-na.ssl-images-amazon.com/images/I/A1ybPZVzBeL._AC_UL165_SR165,165_.jpg",
-        "link_afiliado": "https://link.amazon/B0hBSVx3J"
-    },
-    {
-        "titulo": "Frieren e a Jornada Para o Além - 02",
-        "preco": "33,25",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://images-na.ssl-images-amazon.com/images/I/91R680Ay+YL._AC_UL165_SR165,165_.jpg",
-        "link_afiliado": "https://link.amazon/B05u8YQkP"
-    },
-    {
-        "titulo": "MODUS 950mL Garrafa de Água Térmica Esportiva Inox Isolada a Vácuo | com Base Emborrachada Anti Derrapante, Alca Paracor",
-        "preco": "69,98",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "🚚 *Frete GRÁTIS com Prime*",
-        "imagem": "https://m.media-amazon.com/images/I/61X9xNUtLuL._AC_UL320_.jpg",
-        "link_afiliado": "https://link.amazon/B0ix07E5s"
-    },
-    {
-        "titulo": "Ventilador de Teto LED Silencioso Nepul Turbo com 3 Pás Retráteis e Controle Remoto Branco 42\"",
-        "preco": "359,94",
-        "preco_antigo": "999,00",
-        "desconto": "(63,97% OFF)",
+        "titulo": "Kit Multi Ferramentas A Bateria 4 Em 1 Brushless - Fasterr",
+        "preco": "789,00",
+        "preco_antigo": "1.299,00",
+        "desconto": "(39,26% OFF)",
         "frete": "⚡ *Frete FULL / GRÁTIS*",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_663893-MLA97611338464_112025-AB.webp",
-        "link_afiliado": "https://meli.la/215kcxF"
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_628547-MLA100022272799_122025-E.webp",
+        "link_afiliado": "https://meli.la/1wvnLMs"
+    },
+    {
+        "titulo": "Lavadora de Alta Pressão WAP Líder 2200 1750W de Potência 1800PSI com Aplicador de Detergente",
+        "preco": "554,90",
+        "preco_antigo": "1.500,00",
+        "desconto": "(63,01% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_841350-MLA99508217916_112025-E.webp",
+        "link_afiliado": "https://meli.la/1XKxN7M"
+    },
+    {
+        "titulo": "Motorola Moto G06 64gb - 4gb RAM azul",
+        "preco": "717,42",
+        "preco_antigo": "999,90",
+        "desconto": "(28,25% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_864588-MLA104122163354_012026-E.webp",
+        "link_afiliado": "https://meli.la/1AfrGHo"
+    },
+    {
+        "titulo": "Tecno Spark Go (2024) 64 Gb Dual Sim 3 Gb Ram Cor Preto",
+        "preco": "519,00",
+        "preco_antigo": "",
+        "desconto": "(20% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_676104-MLU78829247107_082024-E.webp",
+        "link_afiliado": "https://meli.la/2LBFBxU"
+    },
+    {
+        "titulo": "Celular Para Idosos Nokia 110 4G 128mb preto 48mb RAM",
+        "preco": "167,00",
+        "preco_antigo": "229,00",
+        "desconto": "(27,07% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_835096-MLA111661671039_052026-E.webp",
+        "link_afiliado": "https://meli.la/2xNwcT4"
+    },
+    {
+        "titulo": "Mesa de Som Digital Vedo 12 Canais Bluetooth VDA212L",
+        "preco": "597,48",
+        "preco_antigo": "1.200,00",
+        "desconto": "(50,21% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_683994-MLA99955328077_112025-E.webp",
+        "link_afiliado": "https://meli.la/2539Ddt"
+    },
+    {
+        "titulo": "Fone De Ouvido Kz Edx Pro X Preto Com Microfone",
+        "preco": "56,21",
+        "preco_antigo": "69,80",
+        "desconto": "(19,47% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_605859-MLA111543128735_052026-E.webp",
+        "link_afiliado": "https://meli.la/1Vmu7oq"
+    },
+    {
+        "titulo": "Fonte Carregador Para Caixa De Som Jbl Boombox 2 1 Extreme",
+        "preco": "54,54",
+        "preco_antigo": "95,90",
+        "desconto": "(43,13% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_757852-MLB113786154369_062026-E--fonte-carregador-para-caixa-de-som-jbl-boombox-2-1-extreme.webp",
+        "link_afiliado": "https://meli.la/2aaBnBj"
+    },
+    {
+        "titulo": "Caixa de Som PCX6700 Amplificada 650W de Potência Ex Bass Philco",
+        "preco": "551,95",
+        "preco_antigo": "899,00",
+        "desconto": "(38,60% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_977921-MLA96972461760_112025-E.webp",
+        "link_afiliado": "https://meli.la/2LcQLXJ"
+    },
+    {
+        "titulo": "Mini Impressora Portátil Bluetooth Usb Com 1 Rolo Branco",
+        "preco": "93,00",
+        "preco_antigo": "155,65",
+        "desconto": "(40,25% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_775395-MLA112495401575_052026-E.webp",
+        "link_afiliado": "https://meli.la/1WH6Qmo"
+    },
+    {
+        "titulo": "Monitor Tcn 20  Oneview Led Hd+ 60hz 5ms Hdmi/vga Bivolt Pto",
+        "preco": "213,05",
+        "preco_antigo": "315,00",
+        "desconto": "(32,37% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_945638-MLB113454644713_062026-E--monitor-tcn-20--oneview-led-hd-60hz-5ms-hdmivga-bivolt-pto.webp",
+        "link_afiliado": "https://meli.la/1wDXums"
+    },
+    {
+        "titulo": "Headphone Philips Bluetooth E Energia Para 55h Tah2300bk/00 Preto",
+        "preco": "136,62",
+        "preco_antigo": "239,00",
+        "desconto": "(42,84% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_776643-MLA97452664977_112025-E.webp",
+        "link_afiliado": "https://meli.la/1DRM8z7"
+    },
+    {
+        "titulo": "Computador Intel Core i5 3470 16GB RAM SSD 120GB Windows 10.",
+        "preco": "689,00",
+        "preco_antigo": "",
+        "desconto": "(20% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_931542-MLA110508826303_042026-E.webp",
+        "link_afiliado": "https://meli.la/1hfeWzW"
+    },
+    {
+        "titulo": "Smartphone Motorola Moto G06 - 128gb 4gb Ram + 8gb Ram Boost E Camera 50mp Com Ai Bateria De 5200 Mah Tela 6.9 - Azul Marinho",
+        "preco": "743,94",
+        "preco_antigo": "999,00",
+        "desconto": "(25,53% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_657060-MLA104761778541_012026-AB.webp",
+        "link_afiliado": "https://meli.la/1Khc7Z8"
+    },
+    {
+        "titulo": "Razer Gold Digital R$ 100 (Digital)",
+        "preco": "100,00",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_669608-MLA99880037805_112025-AB.webp",
+        "link_afiliado": "https://meli.la/1yDS4zd"
+    },
+    {
+        "titulo": "Fone De Ouvido Headphone Dapon H02d Bluetooth 5.1 Over-ear 22 Horas De Bateria Bege",
+        "preco": "64,20",
+        "preco_antigo": "149,00",
+        "desconto": "(56,91% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_951165-MLA95713207282_102025-AB.webp",
+        "link_afiliado": "https://meli.la/1xD6Ycf"
+    },
+    {
+        "titulo": "Controle Joystick Sem Fio Sony PlayStation 5 DualSense Midnight Black",
+        "preco": "417,57",
+        "preco_antigo": "499,90",
+        "desconto": "(16,47% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_759059-MLA99508283678_112025-AB.webp",
+        "link_afiliado": "https://meli.la/2QtwP5T"
+    },
+    {
+        "titulo": "Fones de ouvido sem fio Xiaomi Redmi Buds 6 Play Bt 5.4, cor azul celeste",
+        "preco": "68,05",
+        "preco_antigo": "113,00",
+        "desconto": "(39,78% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_935289-MLA100007937509_122025-AB.webp",
+        "link_afiliado": "https://meli.la/2jDDC1E"
+    },
+    {
+        "titulo": "Kit Principia para Rotina de Skincare Pele Sensível com Protetor Solar FPS 60",
+        "preco": "75,36",
+        "preco_antigo": "137,00",
+        "desconto": "(44,99% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_761257-MLA108807654621_032026-AB.webp",
+        "link_afiliado": "https://meli.la/1gFagWA"
+    },
+    {
+        "titulo": "Creatina 1kg Suplemento Monohidratada em pó 100% Pura - Soldiers Nutrition",
+        "preco": "57,90",
+        "preco_antigo": "239,90",
+        "desconto": "(75,86% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_894230-MLA111390627295_052026-AB.webp",
+        "link_afiliado": "https://meli.la/2Hpycth"
+    },
+    {
+        "titulo": "Aspirador De Pó e Água Wap Gtw 10 Compacto 1400w 10 Litros Amarelo",
+        "preco": "226,11",
+        "preco_antigo": "399,00",
+        "desconto": "(43,33% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_944970-MLA99949674111_112025-AB.webp",
+        "link_afiliado": "https://meli.la/2Gcpw63"
+    },
+    {
+        "titulo": "Robô aspirador Positivo Casa Inteligente PRA90 preto",
+        "preco": "439,90",
+        "preco_antigo": "934,29",
+        "desconto": "(52,92% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_664514-MLA99926994601_112025-AB.webp",
+        "link_afiliado": "https://meli.la/1TNGAze"
     },
     {
         "titulo": "Creatina Monohidratada 500g Growth Supplements - Sem Sabor em Pó",
@@ -162,598 +207,121 @@
         "link_afiliado": "https://meli.la/1qTehwx"
     },
     {
-        "titulo": "Cadeira De Escritorio Ergonomica Nr17 Glorious Marqs Home Giratoria Resistente Reforçada 180kg Confortavel Reuniao Mesh Preta",
-        "preco": "379,90",
-        "preco_antigo": "588,27",
-        "desconto": "(35,42% OFF)",
+        "titulo": "Relógio Smartwatch Aurafit Trek1 Com Gps À Prova D'água 5atm Preto Sport Preto/verde",
+        "preco": "325,07",
+        "preco_antigo": "459,00",
+        "desconto": "(29,18% OFF)",
         "frete": "⚡ *Frete FULL / GRÁTIS*",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_817671-MLA110181633795_042026-AB.webp",
-        "link_afiliado": "https://meli.la/1UkRVGp"
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_798444-MLB96681873753_102025-AB--relogio-smartwatch-aurafit-trek1-com-gps-a-prova-dagua-5atm.webp",
+        "link_afiliado": "https://meli.la/261mLaR"
     },
     {
-        "titulo": "Travesseiro Cervical Borboleta Memory Foam Alívio Dor Cervic",
-        "preco": "163,63",
-        "preco_antigo": "298,00",
-        "desconto": "(45,09% OFF)",
+        "titulo": "Perfume Arabe Feminino Al Wataniah Sabah Al Ward Edp 100ml",
+        "preco": "108,80",
+        "preco_antigo": "199,90",
+        "desconto": "(45,57% OFF)",
         "frete": "⚡ *Frete FULL / GRÁTIS*",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_723979-MLB101880455787_122025-AB--travesseiro-cervical-borboleta-memory-foam-alivio-dor-cervic.webp",
-        "link_afiliado": "https://meli.la/1mnWUma"
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_722022-MLB104540037760_012026-AB--perfume-arabe-feminino-al-wataniah-sabah-al-ward-edp-100ml.webp",
+        "link_afiliado": "https://meli.la/2xKDUuF"
     },
     {
-        "titulo": "Furadeira Parafusadeira Sem Fio 3/8 Maleta + Kit Ferramentas",
-        "preco": "226,10",
-        "preco_antigo": "429,90",
-        "desconto": "(47,41% OFF)",
+        "titulo": "Câmera De Vídeo Wi-Fi Intelbras IM3 C MicroSD 32GB Branco",
+        "preco": "206,32",
+        "preco_antigo": "436,89",
+        "desconto": "(52,78% OFF)",
         "frete": "⚡ *Frete FULL / GRÁTIS*",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_743443-MLB96980705310_112025-AB--furadeira-parafusadeira-sem-fio-38-maleta--kit-ferramentas.webp",
-        "link_afiliado": "https://meli.la/2vd67Nv"
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_633293-MLA99905167639_112025-AB.webp",
+        "link_afiliado": "https://meli.la/12zoEE7"
     },
     {
-        "titulo": "Chuveiro Eletrônio Lorenzetti Acqua Storm Ultra Branco 7800W",
-        "preco": "341,82",
-        "preco_antigo": "850,00",
-        "desconto": "(59,79% OFF)",
+        "titulo": "Micro-ondas Consul 23l Branco Cms23ab",
+        "preco": "436,05",
+        "preco_antigo": "529,00",
+        "desconto": "(17,57% OFF)",
         "frete": "⚡ *Frete FULL / GRÁTIS*",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_808703-MLA99523580704_122025-AB.webp",
-        "link_afiliado": "https://meli.la/2V6rgin"
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_914513-MLA110469751630_052026-AB.webp",
+        "link_afiliado": "https://meli.la/2wtFHZ4"
     },
     {
-        "titulo": "Whey Protein Concentrado 1kg Dark Lab Sabor Doce de leite",
-        "preco": "147,81",
-        "preco_antigo": "349,90",
-        "desconto": "(57,76% OFF)",
+        "titulo": "Vestido Midi Feminino Canelado Elegante Colado Gola Alta Amy",
+        "preco": "51,00",
+        "preco_antigo": "98,00",
+        "desconto": "(47,96% OFF)",
         "frete": "⚡ *Frete FULL / GRÁTIS*",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_926889-MLA99570923936_122025-AB.webp",
-        "link_afiliado": "https://meli.la/1P7dNJ1"
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_870011-MLB110653451303_042026-E-vestido-midi-feminino-canelado-elegante-colado-gola-alta-amy.webp",
+        "link_afiliado": "https://meli.la/2ZaZfVj"
     },
     {
-        "titulo": "Jogo Kit de Ferramentas Manuais Chave Catraca 1/2 8 a 32mm BCS022 The Black Tools Cor Amarelo",
-        "preco": "119,90",
-        "preco_antigo": "279,90",
-        "desconto": "(57,16% OFF)",
-        "frete": "⚡ *Frete FULL / GRÁTIS*",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_680576-MLA113460946830_072026-AB.webp",
-        "link_afiliado": "https://meli.la/2tPXjCA"
-    },
-    {
-        "titulo": "Kit 2 Câmeras Segurança Ip Interna Externa Wifi iCSee Infravermelho Prova D’Água - HW",
-        "preco": "173,02",
-        "preco_antigo": "339,00",
-        "desconto": "(48,96% OFF)",
-        "frete": "⚡ *Frete FULL / GRÁTIS*",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_901090-MLA99414404486_112025-AB.webp",
-        "link_afiliado": "https://meli.la/1jSnQfq"
-    },
-    {
-        "titulo": "Escova Modeladora De Ions Negativosde 38mm/9 Ajustes De Temperatura,liso Oucacheado,secagem Rápida,tecnologia Deaquecimento Ptc/ntc Tecnologia,cuidado Capilar Com Íons Negativos,cachos Duradouros",
+        "titulo": "Headset com fio USB Logitech H390",
         "preco": "169,00",
-        "preco_antigo": "210,60",
-        "desconto": "(19,75% OFF)",
+        "preco_antigo": "229,90",
+        "desconto": "(26,49% OFF)",
         "frete": "⚡ *Frete FULL / GRÁTIS*",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_795003-MLA99347579358_112025-AB.webp",
-        "link_afiliado": "https://meli.la/1gcs7Pk"
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_925836-MLA111597575083_052026-E.webp",
+        "link_afiliado": "https://meli.la/1Y33dNp"
     },
     {
-        "titulo": "Sapo Apertos Raposa Louca Nova Geração Ginásio Palma Guarda Aperto De Mão Antiderrapante Protetor Ginástica",
-        "preco": "148,42",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mqzywjzfmex8eb",
-        "link_afiliado": "https://s.shopee.com.br/70JJnUx6g1"
-    },
-    {
-        "titulo": "Tênis mais vendido Feminino  leve e confortável na promoção academia caminhada para o dia dia",
-        "preco": "47,99",
-        "preco_antigo": "69,55",
-        "desconto": "(31% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh7ermfbvevb27",
-        "link_afiliado": "https://s.shopee.com.br/7KwAC6vq03"
-    },
-    {
-        "titulo": "Tênis Masculino 320d Original Mais Vendido Oferta Promoção Barato",
-        "preco": "44,74",
-        "preco_antigo": "69,91",
-        "desconto": "(36% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/sg-11134201-820lk-mnk6da9is5c3cd",
-        "link_afiliado": "https://s.shopee.com.br/7fZ0aiuZK5"
-    },
-    {
-        "titulo": "Calça Alfaiataria Feminina  Social Casual Reta plissada Elegante Plus size mais vendidas do ano",
-        "preco": "47,50",
-        "preco_antigo": "98,96",
-        "desconto": "(52% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-mnljjb8b96gx53",
-        "link_afiliado": "https://s.shopee.com.br/5LB5oR3S3b"
-    },
-    {
-        "titulo": "Kit 4 Pares de Chinelo Masculino Adulto Tira Grossa Mais Vendidos",
-        "preco": "37,90",
-        "preco_antigo": "39,89",
-        "desconto": "(5% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcb369qs578gc9",
-        "link_afiliado": "https://s.shopee.com.br/5fnwD32BNd"
-    },
-    {
-        "titulo": "Tinta Suvinil Rende & Cobre Muito 3,2L Cores Mais Vendidas- Alta Cobertura e Rendimento",
-        "preco": "112,95",
-        "preco_antigo": "154,73",
-        "desconto": "(27% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-mou6z0rlt5vq89",
-        "link_afiliado": "https://s.shopee.com.br/6AkCny0HMg"
-    },
-    {
-        "titulo": "Kit 3 Sapatênis Masculino Polo Energy 3279 Original Mais Vendido Promoção LojaSpark",
-        "preco": "148,74",
-        "preco_antigo": "239,90",
-        "desconto": "(38% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m82gjfq2vi7l4e",
-        "link_afiliado": "https://s.shopee.com.br/6L3d0Gze1h"
-    },
-    {
-        "titulo": "Mesa Computador Multiuso Escritorio 1 Gaveta Prateleira Mais Vendida",
-        "preco": "78,99",
-        "preco_antigo": "197,47",
-        "desconto": "(60% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lx2tqvz219z3b2",
-        "link_afiliado": "https://s.shopee.com.br/4Az8QI7tQE"
-    },
-    {
-        "titulo": "SHORT BERMUDA CARGO COM FITA INFANTIL E JUVENIL MENINO ,MAIS VENDIDO BOLSO FRONTAL 2 ao 16 ANOS",
-        "preco": "41,99",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztu-ml4b755bruv748",
-        "link_afiliado": "https://s.shopee.com.br/50YFPp4ijJ"
-    },
-    {
-        "titulo": "TENIS  FEMININO MAIS VENDIDO  CASUAL PLATAFORMA  NA PROMOÇÃO",
-        "preco": "49,60",
-        "preco_antigo": "80,00",
-        "desconto": "(38% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjhjd1awlb7qd2",
-        "link_afiliado": "https://s.shopee.com.br/3VjRd4AQlu"
-    },
-    {
-        "titulo": "Tênis Masculino 320d Original Mais Vendido Oferta Promoção Barato LojaSpark",
-        "preco": "44,74",
-        "preco_antigo": "69,91",
-        "desconto": "(36% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98s-llux2dxeujw78e",
-        "link_afiliado": "https://s.shopee.com.br/3g2rpN9nQv"
-    },
-    {
-        "titulo": "Kit 3 Tênis Masculino 320d Oferta Promoção Barato Mais Vendido Loja Easy",
-        "preco": "119,65",
-        "preco_antigo": "209,91",
-        "desconto": "(43% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98q-lluyrikgo8iz20",
-        "link_afiliado": "https://s.shopee.com.br/1VyNFOI2pS"
-    },
-    {
-        "titulo": "TENIS FEMININO PLATAFORMA  MAIS VENDIDO NA PROMOÇÃO ,  PEÇA JÁ O SEU !",
-        "preco": "49,60",
-        "preco_antigo": "80,00",
-        "desconto": "(38% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjhjd1awlb7qd2",
-        "link_afiliado": "https://s.shopee.com.br/20udqJG8oV"
-    },
-    {
-        "titulo": "Chinelo feminino Ortopédico Antiderrapante casual Macio Confortável Moderno dia a dia Mais Vendido",
-        "preco": "31,99",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-mq2hhx4rbgn615",
-        "link_afiliado": "https://s.shopee.com.br/19ZSdNks3"
-    },
-    {
-        "titulo": "Kit 2 CALÇA FLARE Legging Infantil flanelada estilo básico escola a mais vendido",
-        "preco": "50,90",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztk-mkp5tg6c8ydf63",
-        "link_afiliado": "https://s.shopee.com.br/gPGFrLDW7"
-    },
-    {
-        "titulo": "Kit 3 Blusas Feminina Regata Alcinha Fina Suplex Com Forro Verão Tendencia Mais Vendido",
-        "preco": "53,90",
-        "preco_antigo": "89,83",
-        "desconto": "(40% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhavc1fga879c8",
-        "link_afiliado": "https://s.shopee.com.br/3LQ1QlB46t"
-    },
-    {
-        "titulo": "Chaleira Elétrica Inox 1.8L 1500W Desligamento Automático Para Café e Chá",
-        "preco": "51,99",
-        "preco_antigo": "79,98",
-        "desconto": "(35% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-820m0-moic7itn75s663",
-        "link_afiliado": "https://s.shopee.com.br/40fiDz8WlD"
-    },
-    {
-        "titulo": "Bolsa Asinha Duas Correntes Pequena Mais Vendida Tendencia Grife de Luxo",
-        "preco": "33,12",
-        "preco_antigo": "39,90",
-        "desconto": "(17% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-820m4-mnw5xj2snfuqbb",
-        "link_afiliado": "https://s.shopee.com.br/2qTkpqCy7q"
-    },
-    {
-        "titulo": "Relógio Smartwatch S11 Série 11 Tela AMOLED 2.02\"  GPS Monitor Saúde Esportivo Premium Mais Vendido",
-        "preco": "179,00",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-820mb-mnhekd4titqc3c",
-        "link_afiliado": "https://s.shopee.com.br/2gAKdXDbSp"
-    },
-    {
-        "titulo": "Kit 20 Esmaltes Drica Mais Vendidos! - Envio Imediato!",
-        "preco": "55,47",
-        "preco_antigo": "65,26",
-        "desconto": "(15% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdvx-mdepjkch3qjdc8",
-        "link_afiliado": "https://s.shopee.com.br/4Vbyou6ckG"
-    },
-    {
-        "titulo": "Kit Mão Francesa 10 Ou 12  Peças Reforçadas Suporte Prateleira Envio imediato Mais vendido",
-        "preco": "46,90",
-        "preco_antigo": "55,18",
-        "desconto": "(15% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg55r8lrbpc4c1",
-        "link_afiliado": "https://s.shopee.com.br/5VUW0k2oic"
-    },
-    {
-        "titulo": "Perfume Fit Lux Spa - Mais Vendidos - Touti Fragrancia Alta Fixacao Marcante Luxo",
-        "preco": "37,89",
-        "preco_antigo": "39,88",
-        "desconto": "(5% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzldw7b6nk451d",
-        "link_afiliado": "https://s.shopee.com.br/2LXUEvEs8X"
-    },
-    {
-        "titulo": "Gelo de Sabor 1kg para 50L - os Mais vendidos 1 kg faz 500 gelos",
-        "preco": "41,62",
-        "preco_antigo": "42,91",
-        "desconto": "(3% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lqxfg3i80dvfe3",
-        "link_afiliado": "https://s.shopee.com.br/LmPrFMUC5"
-    },
-    {
-        "titulo": "Kit Mais Vendidos Blend Roll-on de Óleo Essenciais Infantil Soninho + Xô Cólica Tropfen",
-        "preco": "49,45",
-        "preco_antigo": "89,91",
-        "desconto": "(45% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/sg-11134201-81ztm-mmrk5nqw4ykkd5",
-        "link_afiliado": "https://s.shopee.com.br/1qbDe0Gm9U"
-    },
-    {
-        "titulo": "Kit 5 Livros Atividades Educativas para Alfabetização Vogais Consoantes Alfabeto Números Cores Educação Infantil Escolar",
-        "preco": "57,00",
-        "preco_antigo": "68,67",
-        "desconto": "(17% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-820lq-monv6kfwakue5c",
-        "link_afiliado": "https://s.shopee.com.br/3B6bESBhRs"
-    },
-    {
-        "titulo": "Máquina De Barbear Masculina Recarregável 220V 4D 3 Cabeças| Modelo de 2026 - Suave para a pele",
-        "preco": "52,90",
-        "preco_antigo": "99,81",
-        "desconto": "(47% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/sg-11134201-821ex-mgiwaj1rdm308f",
-        "link_afiliado": "https://s.shopee.com.br/20udqHcoIo"
-    },
-    {
-        "titulo": "Tênis Feminino casual lançamento leve e confortável mais vendido",
-        "preco": "49,95",
-        "preco_antigo": "99,90",
-        "desconto": "(50% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mje7qfcnzpqbc7",
-        "link_afiliado": "https://s.shopee.com.br/2LXUEtbXcq"
-    },
-    {
-        "titulo": "Conjunto envio rapido mais vendidos  Lanzinha Bolso e touca com cordão punho calça moda feminina  outono inverno casual",
-        "preco": "59,99",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-820lr-mpccnn5nzcaq00",
-        "link_afiliado": "https://s.shopee.com.br/1qbDdydRdh"
-    },
-    {
-        "titulo": "Macacão Longo 2 Em 1 envio rápido mais vendidos calça pantalona casual moda blogueira tendência  lançamento  festa",
-        "preco": "37,99",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-mpplpza8o2rk41",
-        "link_afiliado": "https://s.shopee.com.br/3LQ1QjXjaw"
-    },
-    {
-        "titulo": "macacão longo 2 Em 1 mais vendidos envio rapido calça pantalona casual  moda tendência casual básico noite",
-        "preco": "37,99",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-820lu-mpplpza6wv7lbd",
-        "link_afiliado": "https://s.shopee.com.br/3qMI1eVpa1"
-    },
-    {
-        "titulo": "Tinta Rende & Cobre Muito Cores Mais Vendidas 16L Suvinil",
-        "preco": "356,59",
-        "preco_antigo": "575,15",
-        "desconto": "(38% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-820lj-moy5p8sj7k006e",
-        "link_afiliado": "https://s.shopee.com.br/2gAKdVaGwk"
-    },
-    {
-        "titulo": "Macacão longo 2 Em 1 Envio Rápido top mais vendidos calça pantalona  casual feminino  Moda Verão Tendência Brasil",
-        "preco": "34,99",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-820lr-mpplpza6vgn548",
-        "link_afiliado": "https://s.shopee.com.br/5Arfc6Qks9"
-    },
-    {
-        "titulo": "Pano de Microfibra Grande Kit 10 Unid. 40x60cm Multiuso Limpa Sem Fiapo Cor Sortida Mais Vendido!",
-        "preco": "41,24",
-        "preco_antigo": "69,90",
-        "desconto": "(41% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mc7wtmm7xl2j11",
-        "link_afiliado": "https://s.shopee.com.br/4Az8QGUYtv"
-    },
-    {
-        "titulo": "TÊNIS TRATORADO FEMININO MAIS VENDIDO PERFEITO PRO DIA DIA",
-        "preco": "49,60",
-        "preco_antigo": "80,00",
-        "desconto": "(38% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjhjd1awlb7qd2",
-        "link_afiliado": "https://s.shopee.com.br/4VbyosTIDx"
-    },
-    {
-        "titulo": "Vestido Feminino Curto Blogueira Gringa Fenda Festa Balada Verão Mais Vendido",
-        "preco": "47,92",
-        "preco_antigo": "48,90",
-        "desconto": "(2% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-81zu7-mkl5kl9isyki6d",
-        "link_afiliado": "https://s.shopee.com.br/60QmbdNaBC"
-    },
-    {
-        "titulo": "Conjunto Lanzinha Envio Rápido mais vendidos casual  capuz cordão bolso moda feminina outono inverno  despojado elegante",
-        "preco": "58,99",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-820mh-mor2x1xb7xfkcc",
-        "link_afiliado": "https://s.shopee.com.br/7VFaOOHs8N"
-    },
-    {
-        "titulo": "Calça legging com pézinho, tecido suplex flanelado. Ideal para o dia dia .Cintura alta, mais vendido",
-        "preco": "34,00",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzt3m8vj8pwlf8",
-        "link_afiliado": "https://s.shopee.com.br/8pkxyqCnQV"
-    },
-    {
-        "titulo": "Conjunto  Envio Rápido casual mais vendidos Lanzinha Bolso e touca com cordão punho moda feminina outono inverno festa",
-        "preco": "58,99",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mp41z8y3wg052b",
-        "link_afiliado": "https://s.shopee.com.br/904OB9CA5U"
-    },
-    {
-        "titulo": "3 Macacões Bebê Amore Mais Vendidos Vira Pé com Zíper Menina 100% Algodão",
-        "preco": "75,91",
-        "preco_antigo": "99,88",
-        "desconto": "(24% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhqaznmyy7eud2",
-        "link_afiliado": "https://s.shopee.com.br/80BqzJFy7G"
-    },
-    {
-        "titulo": "TENIS FEMININO CASUAL PLATAFORMA MAIS VENDIDO E CONTÁVEL",
-        "preco": "49,99",
-        "preco_antigo": "67,55",
-        "desconto": "(26% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-820mb-mlxxwcmlb6ro81",
-        "link_afiliado": "https://s.shopee.com.br/4qEpDUS1Y7"
-    },
-    {
-        "titulo": "Lampada Inteligente Wi-Fi, Lampada LED Smart, RGB+CCT, 12W+3W — 16 milhões de cores, 2700K–6500K, Controle por APP (Tuya",
-        "preco": "45,49",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "🚚 *Frete GRÁTIS com Prime*",
-        "imagem": "https://m.media-amazon.com/images/I/51yKudYORYL._AC_UL320_.jpg",
-        "link_afiliado": "https://link.amazon/B0gROeio7"
-    },
-    {
-        "titulo": "Lâmpada Inteligente Super Potência 30W Elgin Color RGB Wifi Compatível com Alexa e Google Home",
-        "preco": "58,90",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "🚚 *Frete GRÁTIS com Prime*",
-        "imagem": "https://m.media-amazon.com/images/I/61XJY8yEABL._AC_UL320_.jpg",
-        "link_afiliado": "https://link.amazon/B0iim3kqk"
-    },
-    {
-        "titulo": "Colchão de ar INTEX 64103E Dura-Beam, com Fiber-Tech, tamanho Queen",
-        "preco": "156,65",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://images-na.ssl-images-amazon.com/images/I/51qPurmijWL._AC_UL165_SR165,165_.jpg",
-        "link_afiliado": "https://link.amazon/B0gjhxRy2"
-    },
-    {
-        "titulo": "Luminária Inteligente LED 18W 3000-6500K Elgin Wi-Fi Quadrada de Sobrepor compatível com Alexa e Google Home",
-        "preco": "76,90",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://m.media-amazon.com/images/I/51zUiesJMjL._AC_UL320_.jpg",
-        "link_afiliado": "https://link.amazon/B0hIX9tA3"
-    },
-    {
-        "titulo": "Garrafa Térmica Nórdica 1L Creme Cabo de Madeira Premium | Ideal para café, chá e bebidas quentes ou frias. Resistente a",
-        "preco": "36,99",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "🚚 *Frete GRÁTIS com Prime*",
-        "imagem": "https://m.media-amazon.com/images/I/41NXePBOssL._AC_UL320_.jpg",
-        "link_afiliado": "https://link.amazon/B03SdpkGj"
-    },
-    {
-        "titulo": "Copo Térmico 1,18L em Aço Inoxidável com Canudo, Tampa e Alça, Rosa Claro | Tampa antivazamento e isolamento a vácuo de ",
-        "preco": "49,99",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://m.media-amazon.com/images/I/51wQgaR4rUL._AC_UL320_.jpg",
-        "link_afiliado": "https://link.amazon/B03VRgHn4"
-    },
-    {
-        "titulo": "Colchão Dura-Beam Classic Downy Casal",
-        "preco": "118,18",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://images-na.ssl-images-amazon.com/images/I/61xGwTN2pvL._AC_UL165_SR165,165_.jpg",
-        "link_afiliado": "https://link.amazon/B0fEAoKxU"
-    },
-    {
-        "titulo": "Mouse Sem Fio Gamer Leve, 2.4G, Bluetooth, USB-C, 4000DPI, 1000Hz, Bateria 400mAh, Ergonômico para PC/Notebook",
-        "preco": "90,00",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "🚚 *Frete GRÁTIS com Prime*",
-        "imagem": "https://m.media-amazon.com/images/I/51jRjk+rIyL._AC_UL320_.jpg",
-        "link_afiliado": "https://link.amazon/B05RBEU3u"
-    },
-    {
-        "titulo": "PHILIPS, Headphone Bluetooth, TAH2300BK/00, Com Microfone, Até 55 horas de bateria, Design Over-ear, Dobrável, Preto",
-        "preco": "136,62",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "🚚 *Frete GRÁTIS com Prime*",
-        "imagem": "https://m.media-amazon.com/images/I/51BmQ8K9sML._AC_UL320_.jpg",
-        "link_afiliado": "https://link.amazon/B0dl1jQ0F"
-    },
-    {
-        "titulo": "Fone de Ouvido Sem Fio, JBL, Bluetooth, Wave Beam 2, Intra Auricular, Sem Fio, Resistente À Água e Poeira - Preto",
-        "preco": "279,00",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "🚚 *Frete GRÁTIS com Prime*",
-        "imagem": "https://m.media-amazon.com/images/I/61DFgTmj9xL._AC_UL320_.jpg",
-        "link_afiliado": "https://link.amazon/B0f0RetG1"
-    },
-    {
-        "titulo": "Áudio Hi-Res Graves Potentes, Cancelamento de Ruído Headphone Bluetooth Over Ear, Personalização de Som via App, Ruído b",
-        "preco": "319,20",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://m.media-amazon.com/images/I/6196rZ67rvL._AC_SR160,134_CB1169409_QL70_.jpg",
-        "link_afiliado": "https://link.amazon/A0fRUyUzS"
-    },
-    {
-        "titulo": "TP-Link Tapo C500 Câmera de Segurança Wifi 1080P 360° Colorida IP65",
-        "preco": "225,90",
-        "preco_antigo": "299,90",
-        "desconto": "(24,67% OFF)",
+        "titulo": "Filamento Pla Lite Bambu Lab Refil Sem Carretel Azul 1 Kg",
+        "preco": "125,12",
+        "preco_antigo": "199,00",
+        "desconto": "(37,13% OFF)",
         "frete": "⚡ *Frete FULL / GRÁTIS*",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_794417-MLA99985509435_112025-AB.webp",
-        "link_afiliado": "https://meli.la/21hAKKX"
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_676299-MLA96691801887_102025-E.webp",
+        "link_afiliado": "https://meli.la/1iYkyrQ"
     },
     {
-        "titulo": "Bicicleta Spinning Sevenfit EPS-988 Com Volante de 6 kg e Computador",
-        "preco": "489,99",
-        "preco_antigo": "1.094,00",
-        "desconto": "(55,21% OFF)",
+        "titulo": "Monitor Gamer Samsung 24\" FHD,100 Hz, HDMI, VGA,Preto, S3",
+        "preco": "578,61",
+        "preco_antigo": "685,16",
+        "desconto": "(15,55% OFF)",
         "frete": "⚡ *Frete FULL / GRÁTIS*",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_745785-MLA114987927277_072026-AB.webp",
-        "link_afiliado": "https://meli.la/1VtK3Mx"
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_931100-MLA99973037971_112025-E.webp",
+        "link_afiliado": "https://meli.la/1Zfj9Xk"
     },
     {
-        "titulo": "Câmera Inteligente Resistente a Chuva e Poeira iM7 S Branca Intelbras",
-        "preco": "288,91",
-        "preco_antigo": "365,52",
-        "desconto": "(20,96% OFF)",
+        "titulo": "Fone de Ouvido Bluetooth 5.4 soundcore P30i da Anker, Cancelamento de Ruído Adaptativo, Graves Poderosos, 45H de Reprodução, Estojo 2-em-1 com Suporte para Celular, IP54, Fone sem fio TWS, Preto",
+        "preco": "210,00",
+        "preco_antigo": "389,00",
+        "desconto": "(46,02% OFF)",
         "frete": "⚡ *Frete FULL / GRÁTIS*",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_741082-MLA99876823617_112025-AB.webp",
-        "link_afiliado": "https://meli.la/33MM7tM"
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_760745-MLA95700724020_102025-E.webp",
+        "link_afiliado": "https://meli.la/2xN2Sqy"
     },
     {
-        "titulo": "Fechadura Digital De Sobrepor Intelbras Fr 101",
-        "preco": "224,91",
-        "preco_antigo": "423,78",
-        "desconto": "(46,93% OFF)",
+        "titulo": "Relógio Smartwatch Redmi Watch 5 Active Lite Xiaomi Preto Prateado",
+        "preco": "342,90",
+        "preco_antigo": "699,99",
+        "desconto": "(51,01% OFF)",
         "frete": "⚡ *Frete FULL / GRÁTIS*",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_985748-MLA113670424044_072026-AB.webp",
-        "link_afiliado": "https://meli.la/2k3rCyH"
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_761997-MLA111392533251_052026-E.webp",
+        "link_afiliado": "https://meli.la/2EEpNEc"
     },
     {
-        "titulo": "Cesto de Roupa Bambu Retangular de 72L com Tampa e Forro de Linho",
-        "preco": "45,76",
-        "preco_antigo": "77,76",
-        "desconto": "(41,15% OFF)",
+        "titulo": "Deo Parfum Natura Essencial Sentir Masculino 100 mL",
+        "preco": "149,00",
+        "preco_antigo": "159,00",
+        "desconto": "(6,29% OFF)",
         "frete": "⚡ *Frete FULL / GRÁTIS*",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_802693-MLA107519536904_032026-AB.webp",
-        "link_afiliado": "https://meli.la/1YvUaAs"
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_912400-MLA93839509448_102025-E.webp",
+        "link_afiliado": "https://meli.la/2FJzTx3"
     },
     {
-        "titulo": "Mala Esportiva Duffel Defender 94 L adidas Preto Liso",
-        "preco": "265,04",
-        "preco_antigo": "399,99",
-        "desconto": "(33,74% OFF)",
+        "titulo": "Máscara de Nutrição Para Cabelos Secos Kérastase Nutritive Masquintense | 200ml |",
+        "preco": "268,64",
+        "preco_antigo": "399,90",
+        "desconto": "(32,82% OFF)",
         "frete": "⚡ *Frete FULL / GRÁTIS*",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_667633-MLB108742948326_032026-AB--mala-esportiva-duffel-defender-94-l-adidas.webp",
-        "link_afiliado": "https://meli.la/2dggE3E"
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_627616-MLA99439270890_112025-E.webp",
+        "link_afiliado": "https://meli.la/27gf8Si"
     },
     {
-        "titulo": "Creatina Monohidratada 250g Growth Supplements - Sem sabor em Pó",
-        "preco": "39,90",
-        "preco_antigo": "64,90",
-        "desconto": "(38,52% OFF)",
+        "titulo": "Perfume Árabe Masculino Armaf Club De Nuit Intense Man Eau De Toilette Spray (105ml)",
+        "preco": "210,00",
+        "preco_antigo": "",
+        "desconto": "(20% OFF)",
         "frete": "⚡ *Frete FULL / GRÁTIS*",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_662415-MLA97812910758_112025-AB.webp",
-        "link_afiliado": "https://meli.la/1fiNX8b"
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_701465-MLA109483577626_042026-E.webp",
+        "link_afiliado": "https://meli.la/2gqw7MZ"
     },
     {
         "titulo": "Mochila jiesipote À Prova D'água Reforçada Expansível Cor Preto",
@@ -765,6 +333,15 @@
         "link_afiliado": "https://meli.la/1TD5ExR"
     },
     {
+        "titulo": "Impressora Multifuncional HP Smart Tank 583 Tanque de Tinta Colorida Wi-Fi com autorreparo, USB - Impressora, Copiadora e Scanner Cor: ‎Branco (4A8D8A)",
+        "preco": "671,20",
+        "preco_antigo": "1.284,00",
+        "desconto": "(47,73% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_877323-MLA113931600904_072026-AB.webp",
+        "link_afiliado": "https://meli.la/29qG17x"
+    },
+    {
         "titulo": "Kit 10 Pote De Vidro Marmita Hermético 640ml Freezer Fitness Rishon",
         "preco": "88,43",
         "preco_antigo": "188,10",
@@ -774,129 +351,552 @@
         "link_afiliado": "https://meli.la/1j9YVCm"
     },
     {
-        "titulo": "Jogo De Panelas Antiaderente Cerâmico 10 Peças Brinox Fit Cor Preto",
-        "preco": "332,40",
-        "preco_antigo": "777,77",
-        "desconto": "(57,26% OFF)",
+        "titulo": "Bicicleta Spinning Sevenfit EPS-988 Com Volante de 6 kg e Computador",
+        "preco": "489,90",
+        "preco_antigo": "1.094,00",
+        "desconto": "(55,22% OFF)",
         "frete": "⚡ *Frete FULL / GRÁTIS*",
-        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_764469-MLA99980450281_112025-AB.webp",
-        "link_afiliado": "https://meli.la/32GJH14"
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_745785-MLA114987927277_072026-AB.webp",
+        "link_afiliado": "https://meli.la/1VtK3Mx"
     },
     {
-        "titulo": "Tenis Knu School Unissex Premium Cadarço Grosso Skate Basquete Confortavel leve Macio Mais Vendido Promoção",
-        "preco": "44,06",
-        "preco_antigo": "89,92",
-        "desconto": "(51% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-mp3uusgqcveu39",
-        "link_afiliado": "https://s.shopee.com.br/LmOCiu4eN"
+        "titulo": "Fritadeira Air Fryer Philco PAF16A 4 Em 1 Painel Digital 16l",
+        "preco": "541,88",
+        "preco_antigo": "845,00",
+        "desconto": "(35,87% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_682420-MLA99957851351_112025-AB.webp",
+        "link_afiliado": "https://meli.la/1z5AeUS"
     },
     {
-        "titulo": "Panela De Pressão 4,5litros Panelux Linha Classic Alto Brilho A Mais Vendida Do Brasil",
-        "preco": "57,90",
-        "preco_antigo": "115,80",
-        "desconto": "(50% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/sg-11134201-7req7-m8d92yugiftd53",
-        "link_afiliado": "https://s.shopee.com.br/6AkB9RXrnt"
+        "titulo": "Smartphone Motorola Moto G35 5G 128GB Grafite",
+        "preco": "899,90",
+        "preco_antigo": "1.324,00",
+        "desconto": "(32,03% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_652780-MLA97095974098_112025-AB.webp",
+        "link_afiliado": "https://meli.la/1QALjB8"
     },
     {
-        "titulo": "Promoção Mesa Para Computador Compacta A Mais Vendida Móveis Bonatto",
+        "titulo": "Mercusys MC510 Câmera Segurança Wifi 2K 360° Externo por TP-Link",
+        "preco": "179,91",
+        "preco_antigo": "219,00",
+        "desconto": "(17,85% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_840426-MLA104261970721_012026-AB.webp",
+        "link_afiliado": "https://meli.la/1hUi71k"
+    },
+    {
+        "titulo": "Fone De Ouvido Headphone Dapon H02d Bluetooth 5.1 Over-ear 22 Horas De Bateria Violeta",
+        "preco": "64,20",
+        "preco_antigo": "149,00",
+        "desconto": "(56,91% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_910594-MLA99707738716_122025-AB.webp",
+        "link_afiliado": "https://meli.la/32Xjez6"
+    },
+    {
+        "titulo": "Filamento pla volt3D 1kg preto",
+        "preco": "94,90",
+        "preco_antigo": "149,90",
+        "desconto": "(36,69% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_968600-MLA114682486134_082026-AB.webp",
+        "link_afiliado": "https://meli.la/1j1DQaW"
+    },
+    {
+        "titulo": "Smartphone Motorola Moto G06 - 128gb 4gb Ram + 8gb Ram Boost E Camera 50mp Com Ai Bateria De 5.2 Ah Tela 6.9",
+        "preco": "735,63",
+        "preco_antigo": "999,90",
+        "desconto": "(26,43% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_689704-MLA96194618638_102025-AB.webp",
+        "link_afiliado": "https://meli.la/1St7Y63"
+    },
+    {
+        "titulo": "Fone De Ouvido Headphone Dapon H02d Bluetooth 5.1 Over-ear 22 Horas De Bateria Rosa",
+        "preco": "66,29",
+        "preco_antigo": "149,00",
+        "desconto": "(55,51% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_969271-MLA95133174731_102025-AB.webp",
+        "link_afiliado": "https://meli.la/2uQAQF9"
+    },
+    {
+        "titulo": "Celular Samsung Galaxy A07 128Gb 4Gb RAM Preto Dual SIM",
+        "preco": "754,80",
+        "preco_antigo": "1.049,00",
+        "desconto": "(28,05% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_678247-MLA99491753898_112025-AB.webp",
+        "link_afiliado": "https://meli.la/1jj4M5Z"
+    },
+    {
+        "titulo": "Fone Ouvido Bluetooth 5.4 Sem Fio Estojo De Carregamento Anti Ruido A Prova Dagua Compatível Com Ios Samsung Galaxy Android Tws Wireless Air Premium Microfone Touch Marca Pro Phone See",
+        "preco": "37,02",
+        "preco_antigo": "78,90",
+        "desconto": "(53,08% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_646535-MLA113987983224_072026-AB.webp",
+        "link_afiliado": "https://meli.la/2bguKP3"
+    },
+    {
+        "titulo": "Perfume Sedutor Árabe Sabah 100ml Original Feminino",
+        "preco": "135,00",
+        "preco_antigo": "230,00",
+        "desconto": "(41,30% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_753960-MLB78002610612_082024-AB--perfume-sedutor-arabe-sabah-100ml-original-feminino.webp",
+        "link_afiliado": "https://meli.la/2zvXhZb"
+    },
+    {
+        "titulo": "Câmera de Segurança Aprova Dágua A8 Externa Branco Icsee",
+        "preco": "88,03",
+        "preco_antigo": "152,39",
+        "desconto": "(42,23% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_855866-MLA96126735431_102025-AB.webp",
+        "link_afiliado": "https://meli.la/21WC1c2"
+    },
+    {
+        "titulo": "Compressor Portátil Car Air Pump Digital Com Visor Para Carro Moto Bike Calibrador De Pneu Multifuncional",
+        "preco": "64,92",
+        "preco_antigo": "157,98",
+        "desconto": "(58,91% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_903017-MLA111914906979_052026-AB.webp",
+        "link_afiliado": "https://meli.la/2PDmTZm"
+    },
+    {
+        "titulo": "TESTO ESSENCIAL - Fórmula Exclusiva com Feno Grego + Boro + Arginina + ZMA + Vitamina B6 - 60 cápsulas - Precursor da Testosterona",
+        "preco": "56,77",
+        "preco_antigo": "91,77",
+        "desconto": "(38,14% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_949131-MLA114764498645_072026-AB.webp",
+        "link_afiliado": "https://meli.la/1nAvjov"
+    },
+    {
+        "titulo": "Air Fryer Oven Philco 11L 8 Funções Visor 1800W PAF11B",
+        "preco": "385,00",
+        "preco_antigo": "575,00",
+        "desconto": "(33,04% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_633098-MLA92276027266_092025-AB.webp",
+        "link_afiliado": "https://meli.la/1kckpbj"
+    },
+    {
+        "titulo": "Secador De Cabelos Philco psc3500 4 Em 1 dobrável motor bldc Prateado",
+        "preco": "439,00",
+        "preco_antigo": "799,90",
+        "desconto": "(45,12% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_871708-MLA100016593317_122025-E.webp",
+        "link_afiliado": "https://meli.la/1iHK2Yw"
+    },
+    {
+        "titulo": "Batedeira Prática Mondial Preto 400W B-44-B",
         "preco": "78,99",
-        "preco_antigo": "168,06",
-        "desconto": "(53% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/sg-11134201-7ra1h-m4yw92atxoyf15",
-        "link_afiliado": "https://s.shopee.com.br/7Kw8XaTQRE"
+        "preco_antigo": "154,90",
+        "desconto": "(49,01% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_671570-MLA99464079146_112025-E.webp",
+        "link_afiliado": "https://meli.la/2fKY28U"
     },
     {
-        "titulo": "TOP Mais Vendidos Brand Collection 25 ml Miniatura  luxo Eua de Parfum Alta fixação",
-        "preco": "39,90",
-        "preco_antigo": "99,75",
-        "desconto": "(60% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mnx7szci2k1uc5",
-        "link_afiliado": "https://s.shopee.com.br/2BE2O5n5vk"
-    },
-    {
-        "titulo": "Jogo 02 Mesas Cabeceira Mix Com 03 Gavetas",
-        "preco": "305,99",
-        "preco_antigo": "359,99",
-        "desconto": "(15% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-820m7-mo8lam9ifj0kc1",
-        "link_afiliado": "https://s.shopee.com.br/40fgZSg7Cv"
-    },
-    {
-        "titulo": "Buquê de Rosas com Folhagem C/24 Flores, Buquê de Noiva, Buquê de Casamento. No.1 Mais Vendidos !!!",
-        "preco": "35,88",
-        "preco_antigo": "57,87",
-        "desconto": "(38% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mb0avxpgctmhc5",
-        "link_afiliado": "https://s.shopee.com.br/30n9NcjvEd"
-    },
-    {
-        "titulo": "Kit 3 Macacões Bebê Amore Vira Pé Zíper Mais Vendidos Menino 100% Algodão",
-        "preco": "75,50",
-        "preco_antigo": "99,34",
-        "desconto": "(24% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-820lf-ml7t4vdbjfgk44",
-        "link_afiliado": "https://s.shopee.com.br/5LB49ub2Um"
-    },
-    {
-        "titulo": "Kit 2 Unidades de Controle Remoto de Portão Rossi 433mhz MAIS VENDIDO - ENVIO RAPIDO",
-        "preco": "72,03",
-        "preco_antigo": "100,04",
-        "desconto": "(28% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m0ug60nv7fjrb3",
-        "link_afiliado": "https://s.shopee.com.br/2VqsmhlpFq"
-    },
-    {
-        "titulo": "Conjunto Lanzinha mais vendidos casual Plus e cordão bolso moda feminina outono inverno 2026 despojado festa elegante.",
-        "preco": "99,90",
+        "titulo": "Fritadeira Elétrica Wap Air Fryer Oven Digital Black Inox 12 Litros com Revestimento Antiaderente",
+        "preco": "499,00",
         "preco_antigo": "",
         "desconto": "",
         "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-820la-mmges2n5mhona2",
-        "link_afiliado": "https://s.shopee.com.br/4fvNMgdZqz"
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_898071-MLA99545431524_122025-E.webp",
+        "link_afiliado": "https://meli.la/2ThatS5"
     },
     {
-        "titulo": "Vestido Feminino Longo Canelado de Manga Longa Gola Alta Inverno Moda Casual Mais vendido",
-        "preco": "37,50",
-        "preco_antigo": "39,89",
-        "desconto": "(6% OFF)",
+        "titulo": "Chapinha Lizze Profissional 480 Extreme",
+        "preco": "380,00",
+        "preco_antigo": "459,00",
+        "desconto": "(17,21% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_723941-MLA99985257413_112025-E.webp",
+        "link_afiliado": "https://meli.la/1SWFf5U"
+    },
+    {
+        "titulo": "Cooktop Itatiaia Essencial 5 Bocas Preto",
+        "preco": "388,42",
+        "preco_antigo": "466,94",
+        "desconto": "(16,82% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_832398-MLU77315369389_062024-E.webp",
+        "link_afiliado": "https://meli.la/159mZ2o"
+    },
+    {
+        "titulo": "Motor Compressor Embraco Geladeira EMR70HLR 1/5hp R134a",
+        "preco": "331,45",
+        "preco_antigo": "348,90",
+        "desconto": "(5,00% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_995509-MLA99451194670_112025-E.webp",
+        "link_afiliado": "https://meli.la/2AbtkBw"
+    },
+    {
+        "titulo": "Ventilador De Teto Ventisol Fênix E-27 Branco 130w Com 3 Pás De Plástico, 960 mm De Diâmetro",
+        "preco": "183,08",
+        "preco_antigo": "229,00",
+        "desconto": "(20,05% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_955140-MLA96134764725_102025-E.webp",
+        "link_afiliado": "https://meli.la/1CCbi5f"
+    },
+    {
+        "titulo": "Forno Elétrico Philco 44L Preto Dupla Resistência PFE44P",
+        "preco": "342,90",
+        "preco_antigo": "429,00",
+        "desconto": "(20,07% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_991354-MLA104760409207_012026-E.webp",
+        "link_afiliado": "https://meli.la/13Bi5mF"
+    },
+    {
+        "titulo": "Cafeteira Elétrica Dolce Arome Mondial 550W - C-30-18X-FB",
+        "preco": "99,00",
+        "preco_antigo": "176,90",
+        "desconto": "(44,04% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_777003-MLA99397735744_112025-E.webp",
+        "link_afiliado": "https://meli.la/2p5JWEp"
+    },
+    {
+        "titulo": "Aspirador De mão Wap High Speed Black 1.2L preto e vermelho 60Hz",
+        "preco": "144,63",
+        "preco_antigo": "285,57",
+        "desconto": "(49,35% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_868920-MLA99383912250_112025-E.webp",
+        "link_afiliado": "https://meli.la/1MhEWj7"
+    },
+    {
+        "titulo": "Maquina Assentar Piso Porcelanato Sem Fio Vibratoria Ventosa 21v",
+        "preco": "215,99",
+        "preco_antigo": "492,78",
+        "desconto": "(56,17% OFF)",
         "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-820lw-mo5hmzo0jlkw29",
-        "link_afiliado": "https://s.shopee.com.br/gPEbKsnyL"
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_816925-MLB101462519376_122025-AB.webp",
+        "link_afiliado": "https://meli.la/1Sx4sjC"
     },
     {
-        "titulo": "Perfume Touti Vip - Mais Vendidos Luxo - Masculino Feminino Importados Escolha sua Fragrancia.",
-        "preco": "38,00",
-        "preco_antigo": "44,71",
-        "desconto": "(15% OFF)",
+        "titulo": "Cacheador Philco Pec16vd Rotação Automática 230°c",
+        "preco": "276,90",
+        "preco_antigo": "286,90",
+        "desconto": "(3,49% OFF)",
         "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mb0530cqv855a5",
-        "link_afiliado": "https://s.shopee.com.br/5VUUMDaP9p"
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_871236-MLA99496132738_112025-AB.webp",
+        "link_afiliado": "https://meli.la/2vTvoXc"
     },
     {
-        "titulo": "Mouse Gamer ATTACK SHARK X11 Sem Fio Tri-Mode (2.4G/Bluetooth/USB) Com Base RGB – Ergonômico, Alta Precisão",
-        "preco": "175,90",
+        "titulo": "Banqueta Dobrável 45cm Vonder 35.40.045.000 indicada para Camping Pesca Cozinha Cor Preta",
+        "preco": "75,90",
         "preco_antigo": "",
         "desconto": "",
         "frete": "",
-        "imagem": "https://m.media-amazon.com/images/I/51psZbVDcgL._AC_UL320_.jpg",
-        "link_afiliado": "https://link.amazon/B0cHxQz8E"
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_825491-MLA99480103428_112025-AB.webp",
+        "link_afiliado": "https://meli.la/11u9sAo"
     },
     {
-        "titulo": "Bomba De Ar Elétrica Encher Colchão Boia Piscina Bomba Pneumática Inflador Com Bicos Bivolt",
-        "preco": "49,90",
+        "titulo": "Fone De Ouvido Kz Edx Pro Graves Excelentes Sem Mic Cor Preto",
+        "preco": "51,00",
+        "preco_antigo": "82,90",
+        "desconto": "(38,48% OFF)",
+        "frete": "",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_787975-MLA95843365639_102025-AB.webp",
+        "link_afiliado": "https://meli.la/1VMQ24B"
+    },
+    {
+        "titulo": "Kit 4 Cuecas Boxer Mash Algodão Box Confortável Original",
+        "preco": "56,99",
+        "preco_antigo": "299,00",
+        "desconto": "(80,94% OFF)",
+        "frete": "",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_678303-MLB82912672922_032025-AB-kit-4-cuecas-boxer-mash-algodo-box-confortavel-original.webp",
+        "link_afiliado": "https://meli.la/2k2ecZW"
+    },
+    {
+        "titulo": "Jogo de Soquetes e Chaves Combinadas 58 Peças Aço Cr-V 6-22mm com Catraca e Maleta Organizadora Kit Jogo Ferramentas Com",
+        "preco": "112,95",
         "preco_antigo": "",
         "desconto": "",
-        "frete": "",
-        "imagem": "https://images-na.ssl-images-amazon.com/images/I/612qiWchIdL._AC_UL165_SR165,165_.jpg",
-        "link_afiliado": "https://link.amazon/B03LSfQhz"
+        "frete": "🚚 *Seleção Amazon*",
+        "imagem": "https://m.media-amazon.com/images/I/71tkWcwQq5L._AC_SX679_.jpg",
+        "link_afiliado": "https://link.amazon/B0gxdWro3"
+    },
+    {
+        "titulo": "Sparta Maleta de ferramentas kit com 129 peças",
+        "preco": "73,75",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "🚚 *Seleção Amazon*",
+        "imagem": "https://m.media-amazon.com/images/I/61ZmjmMLsRL._AC_SX679_.jpg",
+        "link_afiliado": "https://link.amazon/B0dAx2ptD"
+    },
+    {
+        "titulo": "Kit 10 Pares de Meia Soquete Invisível Cano Curto Algodão Respirável Mash",
+        "preco": "54,99",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "🚚 *Seleção Amazon*",
+        "imagem": "https://m.media-amazon.com/images/I/71VY1EA4JeL._AC_SX679_.jpg",
+        "link_afiliado": "https://link.amazon/B02xDCzHO"
+    },
+    {
+        "titulo": "Mesa Para Notebook Portátil Articulada Mdf Grafite Suporte Para Laptop Dobrável Home Office Cama Porta Tablet (Preto)",
+        "preco": "36,90",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "🚚 *Seleção Amazon*",
+        "imagem": "https://m.media-amazon.com/images/I/41lifDcqOBL._AC_SX679_.jpg",
+        "link_afiliado": "https://link.amazon/B0cM3iwyq"
+    },
+    {
+        "titulo": "Camisa Térmica Masculina Segunda Pele Proteção Uv F7NEWSTYLE",
+        "preco": "29,00",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "🚚 *Seleção Amazon*",
+        "imagem": "https://m.media-amazon.com/images/I/51ryWSlCb8L._AC_SX569_.jpg",
+        "link_afiliado": "https://link.amazon/B08xEcSV9"
+    },
+    {
+        "titulo": "Calça Térmica Feminino Segunda Pele Flanelada Inverno Frio Intenso Preto",
+        "preco": "29,90",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "🚚 *Seleção Amazon*",
+        "imagem": "https://m.media-amazon.com/images/I/31cibNyOxeL._AC_SX679_.jpg",
+        "link_afiliado": "https://link.amazon/B0hrM0GF9"
+    },
+    {
+        "titulo": "Mixer Vertical Turbo Chef Elgin 3 em 1 200W Preto 220v",
+        "preco": "114,00",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "🚚 *Seleção Amazon*",
+        "imagem": "https://m.media-amazon.com/images/I/51yYe4QlyQL._AC_SX569_.jpg",
+        "link_afiliado": "https://link.amazon/B0cWdF9By"
+    },
+    {
+        "titulo": "Telefone Redmi 15c 256\\8 Verde - Verde",
+        "preco": "960,00",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_623403-MLA106522378934_022026-E.webp",
+        "link_afiliado": "https://meli.la/2JM8Fzs"
+    },
+    {
+        "titulo": "Xiaomi Redmi 15 256gb 8gb Ram 4g Dual Sim Global",
+        "preco": "1.468,00",
+        "preco_antigo": "1.640,00",
+        "desconto": "(10,49% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_747404-MLB107203539935_022026-E.webp",
+        "link_afiliado": "https://meli.la/1cS4EbX"
+    },
+    {
+        "titulo": "Realme Note 60x, Dual SIM, preto, 64 GB de armazenamento, 3 GB de RAM, 4G LTE, LCD IPS de 6,74\", bateria de 5000 mAh, Unisoc Tiger T612, celular para jogos.",
+        "preco": "699,99",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_621656-MLA81967264631_012025-E.webp",
+        "link_afiliado": "https://meli.la/1Q95XUQ"
+    },
+    {
+        "titulo": "Samsung Galaxy A05s 128 GB Dual SIM Tela Infinita de 6,7'' Cor Violeta 6 GB RAM",
+        "preco": "1.299,00",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_912095-MLA99927677031_112025-E.webp",
+        "link_afiliado": "https://meli.la/2ReBL4p"
+    },
+    {
+        "titulo": "Smartphone Motorola Moto G15 - 128gb 12gb (4gb Ram+8gb Ram Boost) E Camera 50mp Com Ai E Night Vision Bateria De 5200 Mah Tela Fhd+ 6.7 Com Superbrilho Nfc Azul Claro",
+        "preco": "1.099,00",
+        "preco_antigo": "1.999,00",
+        "desconto": "(45,02% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_970543-MLA100008320341_122025-E.webp",
+        "link_afiliado": "https://meli.la/1aHqsKR"
+    },
+    {
+        "titulo": "Redmi Note 15 4g 256gb, Roxo",
+        "preco": "1.379,00",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_822907-MLA105672954988_012026-E.webp",
+        "link_afiliado": "https://meli.la/1h8aPZ5"
+    },
+    {
+        "titulo": "iPhone 6 Plus 64 GB cinza-espacial",
+        "preco": "499,00",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_645000-MLA43773355644_102020-E.webp",
+        "link_afiliado": "https://meli.la/2CsMqxy"
+    },
+    {
+        "titulo": "Apple iPhone SE (2a geração) 64 GB - Preto",
+        "preco": "1.499,00",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_958906-MLA47681043218_092021-E.webp",
+        "link_afiliado": "https://meli.la/1QKWvhj"
+    },
+    {
+        "titulo": "Motorola Moto G67 5g Dual Sim 256 Gb Verde Limão 4 Gb de RAM expansível até 12 GB, Poled 1,5k 5200 mAh, Gorilla Glass 7i",
+        "preco": "1.499,00",
+        "preco_antigo": "1.999,00",
+        "desconto": "(25,01% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_744638-MLA110475970297_042026-E.webp",
+        "link_afiliado": "https://meli.la/2urSouN"
+    },
+    {
+        "titulo": "Celular Samrtphone Realme Note 70 128gb 4gb Preto",
+        "preco": "899,00",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_722004-MLA96421408465_102025-E.webp",
+        "link_afiliado": "https://meli.la/1sLyqhq"
+    },
+    {
+        "titulo": "Smartphone Idoso Samsung Galaxy 128gb Lte Apps Face Whats +",
+        "preco": "1.197,00",
+        "preco_antigo": "1.289,00",
+        "desconto": "(7,14% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_612791-MLB112508838947_052026-E-smartphone-idoso-samsung-galaxy-128gb-lte-apps-face-whats-.webp",
+        "link_afiliado": "https://meli.la/1yUNaZ2"
+    },
+    {
+        "titulo": "Celular Realme 15t 5g 8gb 128gb Smartphone Dual Sim Nfc Branco",
+        "preco": "1.304,00",
+        "preco_antigo": "2.699,00",
+        "desconto": "(51,69% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_604242-MLA97654991741_112025-E.webp",
+        "link_afiliado": "https://meli.la/2nEdaYZ"
+    },
+    {
+        "titulo": "Smartphone Motorola Moto G15 256gb 12gb 4GB RAM 8GB RAM Boost Camera 50mp Verde",
+        "preco": "982,89",
+        "preco_antigo": "1.499,00",
+        "desconto": "(34,43% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_675715-MLA99963700693_112025-E.webp",
+        "link_afiliado": "https://meli.la/2gsp2WD"
+    },
+    {
+        "titulo": "Redmi A5 Dual Sim 128gb 8gb Ram Cor Preto",
+        "preco": "838,00",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_709890-MLA99465171386_112025-E.webp",
+        "link_afiliado": "https://meli.la/24n3L68"
+    },
+    {
+        "titulo": "Smartphone Motorola Moto G67 5g - 256gb 12gb (4gb Ram + 8gb Ram Boost) Camera 50mp Sony Lytia 600, Tela 1.5k Extreme Amoled 120hz, Ultrarresistente - Chumbo",
+        "preco": "1.498,00",
+        "preco_antigo": "1.999,00",
+        "desconto": "(25,06% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_859554-MLA106048223542_022026-E.webp",
+        "link_afiliado": "https://meli.la/2FyWrzc"
+    },
+    {
+        "titulo": "Smartphone Jovi Y19s 256gb, 4+4gb Ram Turbo, Câmera 50mp, Bateria 5500mah, Carregamento 15w, Tela 90hz - Preto Safira",
+        "preco": "919,80",
+        "preco_antigo": "1.499,00",
+        "desconto": "(38,64% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_821532-MLA87862556530_072025-E.webp",
+        "link_afiliado": "https://meli.la/1Cxi55B"
+    },
+    {
+        "titulo": "Smartphone Motorola Moto G15 - 256gb 12gb (4gb Ram+8gb Ram Boost) E Camera 50mp Com Ai E Night Vision Bateria De 5200 Mah Tela Fhd+ 6.7 Com Superbrilho Nfc - Grafite",
+        "preco": "939,55",
+        "preco_antigo": "1.599,00",
+        "desconto": "(41,24% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_650904-MLA100002714503_112025-E.webp",
+        "link_afiliado": "https://meli.la/1fwJZof"
+    },
+    {
+        "titulo": "Escada Articulada 4x4 em Alumínio 16 Degraus 4,48m - Reisam",
+        "preco": "493,90",
+        "preco_antigo": "569,99",
+        "desconto": "(13,35% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_715916-MLA99521624378_122025-AB.webp",
+        "link_afiliado": "https://meli.la/18H7iT2"
+    },
+    {
+        "titulo": "Chave De Impacto 1200n.m Brushless C/ Jogo Soquete+ Dobevi Azul 127/220v",
+        "preco": "466,90",
+        "preco_antigo": "1.200,00",
+        "desconto": "(61,09% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_734637-MLB92326230444_092025-AB.webp",
+        "link_afiliado": "https://meli.la/1vHjtZg"
+    },
+    {
+        "titulo": "Lavadora Alta Pressao Portatil Potente Recarregável 2bateria Preto 110/127/220v 60",
+        "preco": "146,51",
+        "preco_antigo": "596,81",
+        "desconto": "(75,45% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_708016-MLB89603615327_082025-AB.webp",
+        "link_afiliado": "https://meli.la/241QnW7"
+    },
+    {
+        "titulo": "Parafusadeira Furadeira C/ 2 Baterias Maleta Kit Completo Led Eixo Flexível Vários Níveis Torque Simake",
+        "preco": "118,79",
+        "preco_antigo": "299,00",
+        "desconto": "(60,27% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_641541-MLA111608975062_062026-AB.webp",
+        "link_afiliado": "https://meli.la/2w1gSG6"
+    },
+    {
+        "titulo": "Jogo De Toalhas Banho 4pçs 100% Algodão Fio Penteado Tecnologia Softmax Unika Imperial Karsten",
+        "preco": "124,95",
+        "preco_antigo": "229,90",
+        "desconto": "(45,65% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_962584-MLA105260846971_012026-AB.webp",
+        "link_afiliado": "https://meli.la/2fEs9oD"
+    },
+    {
+        "titulo": "Base De Teclado Versão Barebone do ACR PRO 68 teclas com tecnologia Hot-swappable Akko",
+        "preco": "566,04",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_937899-MLU74089528912_012024-E.webp",
+        "link_afiliado": "https://meli.la/15F7wSr"
+    },
+    {
+        "titulo": "Monitor Gamer Philips Evnia 27'' Ips 144Hz 0.5ms Fhd27m2n3200nf Preto",
+        "preco": "775,77",
+        "preco_antigo": "1.145,00",
+        "desconto": "(32,25% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_897221-MLA112462541123_052026-E.webp",
+        "link_afiliado": "https://meli.la/2nM88VK"
     }
 ]
