@@ -1,5 +1,105 @@
 [
     {
+        "titulo": "Ariel Sabão Líquido Expert Concentrado 3L",
+        "preco": "50,34",
+        "preco_antigo": "64,55",
+        "desconto": "",
+        "frete": "",
+        "imagem": "https://m.media-amazon.com/images/I/51Bz4yexvBL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+        "link_afiliado": "https://link.amazon/B0etnWWno",
+        "tag_promo": "📉 MENOR PREÇO (-22%)"
+    },
+    {
+        "titulo": "Disco De Corte Diamantado P/ Asfalto 14 Pol 350x25,4 Mtx",
+        "preco": "127,00",
+        "preco_antigo": "198,30",
+        "desconto": "(35,96% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_978747-MLA99591781536_122025-E.webp",
+        "link_afiliado": "https://meli.la/346BFHs",
+        "tag_promo": "OFERTA IMPERDÍVEL"
+    },
+    {
+        "titulo": "OFERTA RELAMPAGO Armario Multiuso 6 Prateleiras Livreiro Modular Bipartido Para Sala e Escritório",
+        "preco": "199,99",
+        "preco_antigo": "399,98",
+        "desconto": "(50% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-820li-mqz9t7sp6k1wd8",
+        "link_afiliado": "https://shopee.com.br/product/1231309808/49064616063",
+        "tag_promo": "⚡ OFERTA RELÂMPAGO"
+    },
+    {
+        "titulo": "soundcore P30i da Anker, ANC Fone de Ouvido Bluetooth 5.4 Sem Fio, TWS",
+        "preco": "186,77",
+        "preco_antigo": "369,00",
+        "desconto": "",
+        "frete": "",
+        "imagem": "https://m.media-amazon.com/images/I/51TL2aLCIpL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+        "link_afiliado": "https://link.amazon/B0fJCfj2T",
+        "tag_promo": "📉 MENOR PREÇO (-46%)"
+    },
+    {
+        "titulo": "Filamento 3d Petg 1,75mm 1kg Cor Laranja Masterprint Laranja",
+        "preco": "67,50",
+        "preco_antigo": "147,01",
+        "desconto": "(54,08% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_935370-MLA91606045883_092025-E.webp",
+        "link_afiliado": "https://meli.la/25xCuJh",
+        "tag_promo": "OFERTA IMPERDÍVEL"
+    },
+    {
+        "titulo": "Cortina Blackout PVC Com Tecido voil LISO 3,00 × 2,70 Alta Qualidade SALA E QUARTO, OFERTA RELAMPAGO",
+        "preco": "115,59",
+        "preco_antigo": "135,99",
+        "desconto": "(15% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-md635e0x4enmb8",
+        "link_afiliado": "https://shopee.com.br/product/1064721322/23094013199",
+        "tag_promo": "🔥 OFERTA IMPERDÍVEL"
+    },
+    {
+        "titulo": "Samsonite Mala de Viagem Quartz Azul Média",
+        "preco": "709,90",
+        "preco_antigo": "1.200,00",
+        "desconto": "",
+        "frete": "",
+        "imagem": "https://m.media-amazon.com/images/I/51IDFbCU6YL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+        "link_afiliado": "https://link.amazon/B04DpTbFP",
+        "tag_promo": "📉 MENOR PREÇO (-40%)"
+    },
+    {
+        "titulo": "Monitor Gamer Samsung 27\" FHD,120 Hz, HDMI, Preto, S3",
+        "preco": "679,10",
+        "preco_antigo": "1.099,00",
+        "desconto": "(38,21% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_880102-MLA96640494917_102025-E.webp",
+        "link_afiliado": "https://meli.la/1SVqqcP",
+        "tag_promo": "OFERTA IMPERDÍVEL"
+    },
+    {
+        "titulo": "kit 3 Calças Saga Moletom Masculina Algodão Treino Confortável Oferta Relâmpago",
+        "preco": "139,90",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcgg34phfwg120",
+        "link_afiliado": "https://shopee.com.br/product/319465747/23494237997",
+        "tag_promo": ""
+    },
+    {
+        "titulo": "Kit 4 Cremes Pomadas de Assaduras Vit B5 com 100g cada, Total 400g - Bepantol Baby",
+        "preco": "162,35",
+        "preco_antigo": "229,90",
+        "desconto": "",
+        "frete": "",
+        "imagem": "https://m.media-amazon.com/images/I/71kceYYNzyL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+        "link_afiliado": "https://link.amazon/B0cG1UvUe",
+        "tag_promo": "📉 MENOR PREÇO (-25%)"
+    },
+    {
         "titulo": "Kit 48 Mini Carrinhos De Fricção De Metal Com 2 Pistas Com Container Afortunado Imports",
         "preco": "67,10",
         "preco_antigo": "149,99",
@@ -8,6 +108,46 @@
         "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_863475-MLA109649389153_032026-E.webp",
         "link_afiliado": "https://meli.la/11xfXd4",
         "tag_promo": "OFERTA IMPERDÍVEL"
+    },
+    {
+        "titulo": "Pijama Short Doll Feminino Adulto Americano Blogueira Botão Amamentação Gestante Oferta Relâmpago",
+        "preco": "59,89",
+        "preco_antigo": "99,82",
+        "desconto": "(40% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6of5vsfvjnr75",
+        "link_afiliado": "https://shopee.com.br/product/603439060/15036991148",
+        "tag_promo": "⚡ OFERTA RELÂMPAGO"
+    },
+    {
+        "titulo": "Jogo de Toalhas Buddemeyer Frape Dots Banho Cinza Claro/Cinza 4 peças",
+        "preco": "161,38",
+        "preco_antigo": "199,90",
+        "desconto": "",
+        "frete": "",
+        "imagem": "https://m.media-amazon.com/images/I/61u2LZeDEpL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+        "link_afiliado": "https://link.amazon/B05v3GMD9",
+        "tag_promo": "📉 MENOR PREÇO (-19%)"
+    },
+    {
+        "titulo": "Boneca Bebê Reborn Girafinha Banho Silicone Realista",
+        "preco": "121,82",
+        "preco_antigo": "359,80",
+        "desconto": "(66,14% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_697784-MLA113958694730_072026-E.webp",
+        "link_afiliado": "https://meli.la/1EDb3qc",
+        "tag_promo": "OFERTA IMPERDÍVEL"
+    },
+    {
+        "titulo": "Bota Coturno Masculina Linha Premium 100%Couro REF: 1713 Oferta Relâmpago Promoção",
+        "preco": "77,40",
+        "preco_antigo": "90,00",
+        "desconto": "(14% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/sg-11134201-22100-6j9sun5p3niv0e",
+        "link_afiliado": "https://shopee.com.br/product/498247403/19654842099",
+        "tag_promo": "🔥 OFERTA IMPERDÍVEL"
     },
     {
         "titulo": "Kit 2 CALÇA FLARE Legging Infantil flanelada estilo básico escola a mais vendido",
@@ -208,16 +348,6 @@
         "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhqaznmyy7eud2",
         "link_afiliado": "https://shopee.com.br/product/435692544/14494411150",
         "tag_promo": "⭐ SUPER AVALIADO"
-    },
-    {
-        "titulo": "Ariel Sabão Líquido Expert Concentrado 3L",
-        "preco": "50,34",
-        "preco_antigo": "64,55",
-        "desconto": "",
-        "frete": "",
-        "imagem": "https://m.media-amazon.com/images/I/51Bz4yexvBL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-        "link_afiliado": "https://link.amazon/B00jXJJAt",
-        "tag_promo": "📉 MENOR PREÇO (-22%)"
     },
     {
         "titulo": "Mochila Masculina Chl Esportiva Top Fastbag Bolso Anti-furto",
