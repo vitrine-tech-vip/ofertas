@@ -40,7 +40,7 @@
         "tag_promo": ""
     },
     {
-        "titulo": "Intelbras FX 1500 Preto",
+        "titulo": "Intelbras FX 1500 Preto | Parcelamento sem juros",
         "preco": "146,30",
         "preco_antigo": "",
         "desconto": "",
@@ -50,7 +50,7 @@
         "tag_promo": ""
     },
     {
-        "titulo": "Guarda-roupa Solteiro Nobre 3 Portas 2 Gavetas Cor Branco | MercadoLivre",
+        "titulo": "Guarda-roupa Solteiro Nobre 3 Portas 2 Gavetas Cor Branco",
         "preco": "251,96",
         "preco_antigo": "",
         "desconto": "",
@@ -71,7 +71,7 @@
     },
     {
         "titulo": "Fogão de Mesa Elétrico INMA de 2 Bocas com Proteção contra Superaquecimento",
-        "preco": "83,55",
+        "preco": "89,50",
         "preco_antigo": "",
         "desconto": "",
         "frete": "⚡ *Recomendação VIP*",
@@ -80,7 +80,7 @@
         "tag_promo": ""
     },
     {
-        "titulo": "Colchão Inflável King Size Grande Barraca Acampamento Casa | MercadoLivre",
+        "titulo": "Colchão Inflável King Size Grande Barraca Acampamento Casa",
         "preco": "139,90",
         "preco_antigo": "",
         "desconto": "",
@@ -90,8 +90,8 @@
         "tag_promo": ""
     },
     {
-        "titulo": "Multiprocessador Turbo Chef 5 Em 1 Mondial 1000W MPN-01-B",
-        "preco": "264,45",
+        "titulo": "Multiprocessador Turbo Chef 5 Em 1 Mondial 1000W MPN-01-B | MercadoLivre",
+        "preco": "272,63",
         "preco_antigo": "",
         "desconto": "",
         "frete": "⚡ *Recomendação VIP*",
@@ -131,7 +131,7 @@
     },
     {
         "titulo": "Micro-ondas MTO30 20L Com Função Tira Odor e Descongelar Cor Branco Electrolux",
-        "preco": "483,55",
+        "preco": "509,00",
         "preco_antigo": "",
         "desconto": "",
         "frete": "⚡ *Recomendação VIP*",
@@ -150,8 +150,8 @@
         "tag_promo": ""
     },
     {
-        "titulo": "Mercusys MC210 Câmera Segurança Wifi 2K 3MP 360° por TP-Link | MercadoLivre",
-        "preco": "104,14",
+        "titulo": "Mercusys MC210 Câmera Segurança Wifi 2K 3MP 360° por TP-Link",
+        "preco": "103,92",
         "preco_antigo": "",
         "desconto": "",
         "frete": "⚡ *Recomendação VIP*",
@@ -350,16 +350,6 @@
         "tag_promo": ""
     },
     {
-        "titulo": "SABÃO LIQUIDO LIMPEZA PROFUNDA USO PROFISSIONAL 5 LITROS",
-        "preco": "59,93",
-        "preco_antigo": "",
-        "desconto": "",
-        "frete": "🔥 *Oferta Relâmpago*",
-        "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-81zvg-mmqaz9x7e8zqb3",
-        "link_afiliado": "https://s.shopee.com.br/3B6vow6Mx9",
-        "tag_promo": ""
-    },
-    {
         "titulo": "Mini Processador de Alimentos Elétrico Triturador de Carne Alho Cebola Legumes Picador Cozinha Portátil 350ML ANJGG BRA",
         "preco": "29,99",
         "preco_antigo": "",
@@ -457,6 +447,66 @@
         "frete": "🔥 *Oferta Relâmpago*",
         "imagem": "https://down-br.img.susercontent.com/file/br-11134207-820m3-mqez03gpup6p4d",
         "link_afiliado": "https://s.shopee.com.br/20uyQW4Xzf",
+        "tag_promo": ""
+    },
+    {
+        "titulo": "Intelbras FX 1500 Preto",
+        "preco": "146,30",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "⚡ *Recomendação VIP*",
+        "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_635919-MLA99929845785_112025-O.webp",
+        "link_afiliado": "https://meli.la/2LGauSe",
+        "tag_promo": ""
+    },
+    {
+        "titulo": "Guarda-roupa Solteiro Nobre 3 Portas 2 Gavetas Cor Branco | MercadoLivre",
+        "preco": "251,96",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "⚡ *Recomendação VIP*",
+        "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_928993-MLA99503296148_112025-O.webp",
+        "link_afiliado": "https://meli.la/1TG1vvK",
+        "tag_promo": ""
+    },
+    {
+        "titulo": "Colchão Inflável King Size Grande Barraca Acampamento Casa | MercadoLivre",
+        "preco": "139,90",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "⚡ *Recomendação VIP*",
+        "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_806954-MLA99999912803_112025-O.webp",
+        "link_afiliado": "https://meli.la/2JFXpAo",
+        "tag_promo": ""
+    },
+    {
+        "titulo": "Multiprocessador Turbo Chef 5 Em 1 Mondial 1000W MPN-01-B",
+        "preco": "264,45",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "⚡ *Recomendação VIP*",
+        "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_894335-MLA99469939386_112025-O.webp",
+        "link_afiliado": "https://meli.la/2sh9qSk",
+        "tag_promo": ""
+    },
+    {
+        "titulo": "Mercusys MC210 Câmera Segurança Wifi 2K 3MP 360° por TP-Link | MercadoLivre",
+        "preco": "104,14",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "⚡ *Recomendação VIP*",
+        "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_949687-MLA107423093255_022026-O.webp",
+        "link_afiliado": "https://meli.la/1Vc26kH",
+        "tag_promo": ""
+    },
+    {
+        "titulo": "SABÃO LIQUIDO LIMPEZA PROFUNDA USO PROFISSIONAL 5 LITROS",
+        "preco": "59,93",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "🔥 *Oferta Relâmpago*",
+        "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-81zvg-mmqaz9x7e8zqb3",
+        "link_afiliado": "https://s.shopee.com.br/3B6vow6Mx9",
         "tag_promo": ""
     },
     {
