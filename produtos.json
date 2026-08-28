@@ -1,5 +1,245 @@
 [
     {
+        "titulo": "Kit 2 Camisa Polo Piquet Masculina Casual Premium",
+        "preco": "55,80",
+        "preco_antigo": "88,90",
+        "desconto": "(37,23% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_807882-MLB89806143762_082025-E-kit-2-camisa-polo-piquet-masculina-casual-premium.webp",
+        "link_afiliado": "https://meli.la/1CGMUjG",
+        "tag_promo": "OFERTA DO DIA"
+    },
+    {
+        "titulo": "Tinta Fachada Protegida Emborrachada Cores Mais Vendidas 16L Suvinil",
+        "preco": "611,15",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m84uf8k7g8vl4b",
+        "link_afiliado": "https://shopee.com.br/product/1425275679/22393889882",
+        "tag_promo": "⭐ SUPER AVALIADO"
+    },
+    {
+        "titulo": "Tênis Esportivo Feminino Voa 2 Olympikus Liso",
+        "preco": "187,19",
+        "preco_antigo": "329,99",
+        "desconto": "(43,27% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_724859-MLA96078500561_102025-E.webp",
+        "link_afiliado": "https://meli.la/2J8NZ8N",
+        "tag_promo": "OFERTA RELÂMPAGO"
+    },
+    {
+        "titulo": "Calça Jeans Jogador City Denim Preta Lisa (A MAIS VENDIDA DA MARCA)",
+        "preco": "187,00",
+        "preco_antigo": "207,78",
+        "desconto": "(10% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhs98ct056gx45",
+        "link_afiliado": "https://s.shopee.com.br/1gIAVEBFGp",
+        "tag_promo": "⭐ SUPER AVALIADO"
+    },
+    {
+        "titulo": "Furadeira Parafusadeira De Impacto 2 Baterias 21v + 46 Peças",
+        "preco": "186,90",
+        "preco_antigo": "338,90",
+        "desconto": "(44,85% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_839044-MLB115902823521_082026-E--furadeira-parafusadeira-de-impacto-2-baterias-21v--46-pecas.webp",
+        "link_afiliado": "https://meli.la/181ESw8",
+        "tag_promo": "OFERTA IMPERDÍVEL"
+    },
+    {
+        "titulo": "Kit 3 Blusas Feminina Regata Alcinha Fina Suplex Com Forro Verão Tendencia Mais Vendido",
+        "preco": "53,90",
+        "preco_antigo": "89,83",
+        "desconto": "(40% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhavc1fga879c8",
+        "link_afiliado": "https://shopee.com.br/product/1163219405/22499203629",
+        "tag_promo": "⚡ OFERTA RELÂMPAGO"
+    },
+    {
+        "titulo": "Lavadora de alta pressão 1700w 2000psi Bosch GHP 200 color azul",
+        "preco": "789,90",
+        "preco_antigo": "1.499,00",
+        "desconto": "(47,30% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_756695-MLA99452591170_112025-E.webp",
+        "link_afiliado": "https://meli.la/1YAfRMK",
+        "tag_promo": "OFERTA IMPERDÍVEL"
+    },
+    {
+        "titulo": "Garrafão Térmico 5L Supertermo Quente Frio Bebida Gelada 10H O Mais Vendido - Termolar 5 Litros",
+        "preco": "52,99",
+        "preco_antigo": "69,72",
+        "desconto": "(24% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbpl90i3r6hz27",
+        "link_afiliado": "https://shopee.com.br/product/601021305/22694199912",
+        "tag_promo": "⭐ SUPER AVALIADO"
+    },
+    {
+        "titulo": "Kit Multi Ferramentas A Bateria 4 Em 1 Brushless - Fasterr",
+        "preco": "789,00",
+        "preco_antigo": "1.299,00",
+        "desconto": "(39,26% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_628547-MLA100022272799_122025-E.webp",
+        "link_afiliado": "https://meli.la/1wvnLMs",
+        "tag_promo": "OFERTA IMPERDÍVEL"
+    },
+    {
+        "titulo": "Kit 4 Camiseta Infantil Algodão Premium Mais Vendida Tam 4 ao 16 Dia a Dia",
+        "preco": "99,00",
+        "preco_antigo": "100,00",
+        "desconto": "(1% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-ml6by2u0h3idc7",
+        "link_afiliado": "https://shopee.com.br/product/1528968580/21298262084",
+        "tag_promo": "⭐ SUPER AVALIADO"
+    },
+    {
+        "titulo": "Cooler Para Processador Deepcool High Performance Ak400, 120",
+        "preco": "179,90",
+        "preco_antigo": "219,00",
+        "desconto": "(17,85% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_777918-MLA99945041891_112025-E.webp",
+        "link_afiliado": "https://meli.la/1x4gYvh",
+        "tag_promo": "OFERTA IMPERDÍVEL"
+    },
+    {
+        "titulo": "Mesa Computador Multiuso Escritorio 1 Gaveta Prateleira Mais Vendida",
+        "preco": "79,98",
+        "preco_antigo": "199,95",
+        "desconto": "(60% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lx2tqvz219z3b2",
+        "link_afiliado": "https://shopee.com.br/product/1242718651/20297675692",
+        "tag_promo": "⚡ OFERTA RELÂMPAGO"
+    },
+    {
+        "titulo": "Revomax Garrafa Térmica Desportiva de Vácuo em Aço Inoxidável, Copos Portátil para Viagem 950ml (Azul)",
+        "preco": "71,28",
+        "preco_antigo": "100,98",
+        "desconto": "",
+        "frete": "🚚 *Frete GRÁTIS com Prime*",
+        "imagem": "https://m.media-amazon.com/images/I/61LkRCMGEkL._AC_AIweblab1378949,T2_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+        "link_afiliado": "https://link.amazon/B0bqDt7m4",
+        "tag_promo": "📉 MENOR PREÇO (-29%)"
+    },
+    {
+        "titulo": "Impressora Multifuncional HP DeskJet Ink Advantage 2975 Colorida 1 USB 2.0 de alta velocidade Wi-Fi de banda dupla - 100",
+        "preco": "451,53",
+        "preco_antigo": "712,86",
+        "desconto": "(36,66% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_641445-MLA107256158981_022026-E.webp",
+        "link_afiliado": "https://meli.la/1968JJc",
+        "tag_promo": "OFERTA IMPERDÍVEL"
+    },
+    {
+        "titulo": "RELÓGIO  Smartwatch W11 Mini Pro Bluetooth Chamadas Fitness Android iOS Mais Vendido",
+        "preco": "149,90",
+        "preco_antigo": "318,94",
+        "desconto": "(53% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/sg-11134201-823rr-moipdm9ave9u60",
+        "link_afiliado": "https://s.shopee.com.br/2gAhh3YExA",
+        "tag_promo": "⚡ OFERTA RELÂMPAGO"
+    },
+    {
+        "titulo": "Stanley Caneca de campismo clássica e lendária - Copo de campismo isolado em aço inoxidável para bebidas quentes e frias",
+        "preco": "117,80",
+        "preco_antigo": "189,00",
+        "desconto": "",
+        "frete": "",
+        "imagem": "https://m.media-amazon.com/images/I/412Bwf-1xAL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+        "link_afiliado": "https://link.amazon/B0iX3WvGl",
+        "tag_promo": "📉 MENOR PREÇO (-37%)"
+    },
+    {
+        "titulo": "Fone de Ouvido Bluetooth 5.4 soundcore P30i da Anker, Cancelamento de Ruído Adaptativo, Graves Poderosos, 45H de Reprodu",
+        "preco": "196,60",
+        "preco_antigo": "389,00",
+        "desconto": "(49,46% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_944817-MLA99499902540_112025-E.webp",
+        "link_afiliado": "https://meli.la/2HCXKuf",
+        "tag_promo": ""
+    },
+    {
+        "titulo": "QUEIMA DE ESTOQUE! Conjunto Lanzinha Envio Rápido mais vendidos casual capuz bolso moda feminina outono inverno elegante",
+        "preco": "53,99",
+        "preco_antigo": "",
+        "desconto": "",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-820mh-mor2x1xb7xfkcc",
+        "link_afiliado": "https://shopee.com.br/product/825207596/19997670154",
+        "tag_promo": ""
+    },
+    {
+        "titulo": "Mouse sem fio Redragon Invader Pro Preto",
+        "preco": "91,91",
+        "preco_antigo": "185,00",
+        "desconto": "",
+        "frete": "",
+        "imagem": "https://m.media-amazon.com/images/I/51mF52jRqtL._AC_AIweblab1378949,T2_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+        "link_afiliado": "https://link.amazon/B082m0Ide",
+        "tag_promo": "📉 MENOR PREÇO (-50%)"
+    },
+    {
+        "titulo": "Smart Tv 32 Philco P32vik Roku Led Dolby Audio Hdr Wi-fi 110/220v",
+        "preco": "948,96",
+        "preco_antigo": "1.499,00",
+        "desconto": "(36,69% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_691057-MLA100479527690_122025-E.webp",
+        "link_afiliado": "https://meli.la/1QXwdLp",
+        "tag_promo": ""
+    },
+    {
+        "titulo": "KIT 12 Chaves De Fenda E Philips Conjunto Peças Profissionais Imã Magnética Promoção Envio imediato Mais vendido.",
+        "preco": "53,90",
+        "preco_antigo": "79,26",
+        "desconto": "(32% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-meu36dvdj75tf8",
+        "link_afiliado": "https://shopee.com.br/product/553688681/23092997559",
+        "tag_promo": "⭐ SUPER AVALIADO"
+    },
+    {
+        "titulo": "Luminária Inteligente LED 18W 3000-6500K Elgin Wi-Fi Quadrada de Sobrepor compatível com Alexa e Google Home",
+        "preco": "62,99",
+        "preco_antigo": "199,00",
+        "desconto": "",
+        "frete": "🚚 *Frete GRÁTIS com Prime*",
+        "imagem": "https://m.media-amazon.com/images/I/51zUiesJMjL._AC_AIweblab1378949,T2_SF480.0,480.0_PQ65_.jpg?aicid=productui-image-1",
+        "link_afiliado": "https://link.amazon/B09UiTV14",
+        "tag_promo": "👑 MAIS VENDIDO (-68%)"
+    },
+    {
+        "titulo": "Caixa De Som Portatil Inova Caixinha Com Rgb Tws Recarregável Subwoofer, Potente Caixas Bluetooth Ideal Festas Ao Ar Liv",
+        "preco": "68,99",
+        "preco_antigo": "142,16",
+        "desconto": "(51,47% OFF)",
+        "frete": "⚡ *Frete FULL / GRÁTIS*",
+        "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_720363-MLA99931033474_122025-E.webp",
+        "link_afiliado": "https://meli.la/1m1D7K6",
+        "tag_promo": "OFERTA IMPERDÍVEL"
+    },
+    {
+        "titulo": "Calçado Masculino Esportivo - Tênis Mais Vendido da Moda Atual",
+        "preco": "79,47",
+        "preco_antigo": "198,67",
+        "desconto": "(60% OFF)",
+        "frete": "",
+        "imagem": "https://cf.shopee.com.br/file/sg-11134201-82589-mqsddxmdoide71",
+        "link_afiliado": "https://shopee.com.br/product/1262386163/58264512057",
+        "tag_promo": "⚡ OFERTA RELÂMPAGO"
+    },
+    {
         "titulo": "Faqueiro Tramontina Búzios Em Aço Inox Com Detalhe 24 Peças",
         "preco": "59,29",
         "preco_antigo": "",
@@ -1088,16 +1328,6 @@
         "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_790336-MLA99987755093_112025-E.webp",
         "link_afiliado": "https://meli.la/1Wa6f2x",
         "tag_promo": "OFERTA IMPERDÍVEL"
-    },
-    {
-        "titulo": "Calçado Masculino Esportivo - Tênis Mais Vendido da Moda Atual",
-        "preco": "79,47",
-        "preco_antigo": "198,67",
-        "desconto": "(60% OFF)",
-        "frete": "",
-        "imagem": "https://cf.shopee.com.br/file/sg-11134201-82589-mqsddxmdoide71",
-        "link_afiliado": "https://shopee.com.br/product/1262386163/58264512057",
-        "tag_promo": "⚡ OFERTA RELÂMPAGO"
     },
     {
         "titulo": "Aspirador de Pó Vertical Electrolux 1450W STK15 com Fio Portátil de Mão 2 em 1 e 1,6 Litros de capacidade com Filtro Hep",
